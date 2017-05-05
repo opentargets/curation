@@ -52,23 +52,23 @@ skin 2,UBERON_0000014
 zone of skin,UBERON_0000014
 seminal vesicle,UBERON_0000998
 colon,UBERON_0001155
-lactating breast,lactating breast
+lactating breast,UBERON_0000310
 esophagus,UBERON_0001043
-adrenal gland,CL_0000336
+adrenal gland,UBERON_0002369
 eye,UBERON_0000970
 EBV - transformed lymphocyte,CL_0000542
 thyroid gland,UBERON_0002046
 Brodmann(1909) area 24,UBERON_0006101
 vagina,UBERON_0000996
-lateral ventricle,EFO_0001961
+lateral ventricle,UBERON_0002285
 sigmoid colon,UBERON_0001159
 uterus,UBERON_0000995
 stomach,UBERON_0000945
 retina,UBERON_0000966
-parathyroid gland,CL_0000446
+parathyroid gland,UBERON_0001132
 smooth muscle tissue,UBERON_0001135
 urinary bladder,UBERON_0001255
-appendix,EFO_0000849
+appendix,UBERON_0001154
 liver,UBERON_0002107
 prostate gland,UBERON_0002367
 rectum,UBERON_0001052
@@ -86,10 +86,10 @@ heart muscle,UBERON_0002349
 skin of lower leg,UBERON_0004264
 vermiform appendix,UBERON_0001154
 saliva - secreting gland,UBERON_0001044
-skeletal muscle,CL_0000188
-adipose tissue,adipose tissue
+skeletal muscle,UBERON_0001134
+adipose tissue,UBERON_0001013
 tibial nerve,UBERON_0001323
-ovary,EFO_0000973
+ovary,UBERON_0000992
 blood,UBERON_0000178
 ileum,UBERON_0002116
 prostate,UBERON_0002367
@@ -103,7 +103,7 @@ prefrontal cortex,UBERON_0000451
 frontal lobe,UBERON_0016525
 breast(mammary tissue),UBERON_0000310
 cortex of kidney,UBERON_0001225
-nasopharynx,nasopharynx
+nasopharynx,UBERON_0001728
 gall bladder,UBERON_0002110
 oral mucosa,UBERON_0003729
 minor salivary gland,UBERON_0001830
