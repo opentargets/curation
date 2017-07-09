@@ -1,0 +1,138 @@
+original_term	cleanedup	EFO	notes
+PD-AAO_GBA-carriers_2016,	PD-AAO GBA-carriers	EFO_0002508	-AAO GBA-carriers
+PD-AAO_GBA-carriers_conditioned-on_smoking_2016,	PD-AAO GBA-carriers conditioned-on smoking	EFO_0002509	-AAO GBA-carriers conditioned-on smoking
+PD-AAO_LRRK2-carriers_2016,	PD-AAO LRRK2-carriers	EFO_0002510	-AAO LRRK2-carriers
+PD-AAO_LRRK2-carriers_conditioned-on_smoking_2016,	PD-AAO LRRK2-carriers conditioned-on smoking	EFO_0002511	-AAO LRRK2-carriers conditioned-on smoking
+PD-AAO_non-GBA-non-LRRK2-carriers_2016,	PD-AAO non-GBA-non-LRRK2-carriers	EFO_0002512	-AAO non-GBA-non-LRRK2-carriers
+PD-AAO_non-GBA-non-LRRK2-carriers_conditioned-on_smoking_2016,	PD-AAO non-GBA-non-LRRK2-carriers conditioned-on smoking	EFO_0002513	-AAO non-GBA-non-LRRK2-carriers conditioned-on smoking
+PD_conditioned-on_ability-to-smell-AND-anosmia_2016,	PD conditioned-on ability-to-smell-AND-anosmia	EFO_0002514	conditioned-on ability-to-smell-AND-anosmia
+PD_conditioned-on_ability-to-smell-AND-anosmia_shared-controls_2016,	PD conditioned-on ability-to-smell-AND-anosmia shared-controls	EFO_0002515	conditioned-on ability-to-smell-AND-anosmia shared-controls
+PD_conditioned-on_ability-to-smell_2016,	PD conditioned-on ability-to-smell	EFO_0002516	conditioned-on ability-to-smell
+PD_conditioned-on_ability-to-smell_shared-controls_2016,	PD conditioned-on ability-to-smell shared-controls	EFO_0002517	conditioned-on ability-to-smell shared-controls
+PD_conditioned-on_anosmia_2016,	PD conditioned-on anosmia	EFO_0002518	conditioned-on anosmia
+PD_conditioned-on_anosmia_shared-controls_2016,	PD conditioned-on anosmia shared-controls	EFO_0002519	conditioned-on anosmia shared-controls
+PD_conditioned-on_chronic_constipation_2016,	PD conditioned-on chronic constipation	EFO_0002520	conditioned-on chronic constipation
+PD_conditioned-on_chronic_constipation_shared-controls_2016,	PD conditioned-on chronic constipation shared-controls	EFO_0002521	conditioned-on chronic constipation shared-controls
+PD_conditioned-on_rem_sleep_disorder_2016,	PD conditioned-on rem sleep disorder	EFO_0002522	conditioned-on rem sleep disorder
+PD_conditioned-on_rem_sleep_disorder_shared-controls_2016,	PD conditioned-on rem sleep disorder shared-controls	EFO_0002523	conditioned-on rem sleep disorder shared-controls
+PD_parkinsons_2015,	PD parkinsons	EFO_0002524	parkinsons
+PD_sporadic_aad_gte_50_no_autoimmune_2016,	PD sporadic aad gte 50 no autoimmune	EFO_0002525	sporadic aad gte 50 no autoimmune
+acid_reflux_2015,	acid reflux	HP_0002020	
+actinic_keratosis_2015,	actinic keratosis	EFO_0002496	
+age_related_macular_degeneration_2015,	age related macular degeneration	EFO_0001365	
+age_related_macular_degeneration_or_blindness_2015,	age related macular degeneration or blindness	EFO_0001366	
+allergy_any_2015,	allergy any	EFO_0003785	
+anemia_2015,	anemia	EFO_0004272	
+angina_2015,	angina pectoris	EFO_0003913	
+anosmia_2015_iqb,	anosmia	HP_0000458	
+arthritis_any_2015_iqb,	arthritis any	EFO_0005856	
+asthma_any_2015,	asthma any	EFO_0000270	
+atrial_fibrillation_2015,	atrial fibrillation	EFO_0000275	
+autoimmune_any_2015,	autoimmune any	EFO_0005140	
+back_pain_chronic_2015,	back pain chronic	HP:0003418	
+bacterial_meningitis_2015_iqb,	bacterial meningitis	EFO_1000831	
+bleeding_tendency_2015,	bleeding tendency	HP:0001892	
+blindness_2015,	blindness	HP_0000618	
+blood_clots_2015,	blood clots	HP:0001977	
+blood_disorder_2015,	blood disorder	EFO_0005803	
+blood_pressure_medications_2015,	blood pressure medications	NA	
+bone_fracture_repair_2015,	bone fracture repair	EFO_0003931	
+bruise_easily_2015_iqb,	bruise easily	HP_0000978	
+caffeine_current_2015,	caffeine current	EFO_0004330	
+caffeine_frequency_2015_iqb,	caffeine frequency	EFO_0004330	not binary prob
+cancer_any_2015,	cancer any	EFO_0000311	
+cardiovascular_disease_any_2015,	cardiovascular disease any	EFO_0000319	
+carpal_tunnel_2015_iqb,	carpal tunnel	EFO_0004143	
+cataract_2015,	cataract	EFO_0001059	
+celiac_2015,	celiac	EFO_0001060	
+centenarian_family_2015,	centenarian family	EFO_0007796	
+chicken_pox_2015,	chicken pox	EFO_0006509	
+cigarette_pack_years_tx_2015,	cigarette pack years tx	EFO_0005671	
+circulation_poor_2015_iqb,	circulation poor	HP:0011028	
+cognitive-decline_2016,	cognitive decline	HP_0001268	
+cognitive-decline_conditioned-on_APOE4_2016,	cognitive decline 	HP:0001268	conditioned-on APOE4
+cognitive_decline_APOE4-only_2016,	cognitive decline 	HP:0001268	APOE4-only
+cold_sores_2015,	cold sores	EFO_1001347	
+colds_last_year_2015,	colds last year	EFO_0007214	
+college_completed_2015,	college completed	NA	
+constipation_chronic_2015,	constipation chronic	HP:0012450	
+constipation_chronic_2015_iqb,	constipation chronic	HP:0012450	
+coronary_heart_disease_2015,	coronary heart disease	EFO_0001645	
+crohns_2015,	crohns	EFO_0000384	
+crohns_or_ulcerative_colitis_2015,	crohns or ulcerative colitis	EFO_0003767	
+cry_cutting_onions_2015_iqb,	cry cutting onions	NA	
+degenerative_joint_disease_2015,	degenerative joint disease	EFO_0002506	
+dry_eyes_treatment_2015_iqb,	dry eyes treatment	EFO_1000906	
+dupuytrens_contracture_2015_iqb,	dupuytrens contracture	EFO_0004229	
+eczema_2015,	eczema	HP:0000964	
+education_years_2015,	education years	NA	
+elevated_liver_test_2015,	elevated liver test	EFO_0004582	
+endometriosis_2015,	endometriosis	EFO_0001065	
+essential_tremor_2015,	essential tremor	EFO_0003108	
+ever_tobacco_user_2015,	ever tobacco user	EFO_0004318	
+gerd_2015,	gerd	EFO_0003948	
+gingivitis_2015_iqb,	gingivitis	HP:0000230	
+glaucoma_2015,	glaucoma	EFO_0000516	
+health_self_rated_2015,	health self rated	NA	not binary
+healthy_old_2015,	healthy old	NA	
+hepatitis_2015,	hepatitis	HP_0012115	
+high_blood_pressure_2015,	high blood pressure	EFO_0000537	
+hives_chronic_2015,	hives chronic	EFO_0005531	
+immune_any_2015,	immune any	EFO_0000540	
+infection_bladder_2015,	infection bladder	EFO_1000025	
+infections_childhood_ear_2015_iqb,	infections childhood ear	EFO_0007904	
+infections_chronic_sinus_2015_iqb,	infections chronic sinus	HP:0011109	
+infections_urinary_tract_frequency_2015_iqb,	infections urinary tract frequency	HP:0000010	not binary
+infections_yeast_2015,	infections yeast	HP:0002841	
+infections_yeast_ordinal_2015,	infections yeast ordinal	HP:0002841	not binary
+infectious_any_2015,	infectious any	EFO_0000544	
+insomnia_2015,	insomnia	EFO_0004698	
+kidney_disease_2015,	kidney disease	EFO_0003086	
+kidney_disease_chronic_2015_iqb,	kidney disease chronic	EFO_0003884	
+lumbar_spine_surgery_2015,	lumbar spine surgery	NA	
+math_ability_self_rated_2015_iqb,	math ability self rated	NA	
+measles_2015,	measles	NA	DOID:8622
+mononucleosis_2015_iqb,	mononucleosis	EFO_0000769	also EFO_0007326
+morning_person_2015,	morning person	GO:0042746	
+multiple_sclerosis_2015,	multiple sclerosis	EFO_0003885	
+multiple_sclerosis_age_at_diagnosis_no_other_autoimmune_2017,	multiple sclerosis 	EFO_0003886	age at diagnosis no other autoimmune
+multiple_sclerosis_no_other_autoimmune_2017,	multiple sclerosis 	EFO_0003887	no other autoimmune
+mumps_2015,	mumps	EFO_0007383	
+nonagenarian_2015,	nonagenarian	EFO_0004300	
+nonagenarian_family_member_2015,	nonagenarian family member	EFO_0007796	
+numb_extremities_2015_iqb,	numb extremities	HP:0003401	
+osteoarthritis_2017,	osteoarthritis	EFO_0002506	
+parkinsons_2015,	parkinsons	EFO_0002508	
+plantar_warts_2015_iqb,	plantar warts	HP:0200043	
+pneumonia_2015,	pneumonia	EFO_0003106	
+pneumonia_frequency_2015_iqb,	pneumonia frequency	HP:0002090	not binary
+psoriasis_2015,	psoriasis	EFO_0000676	
+raynauds_2015_iqb,	raynauds	EFO_1001145	
+rheumatoid_arthritis_2015,	rheumatoid arthritis	EFO_0000685	
+scarlet_fever_2015,	scarlet fever	EFO_0007477	
+scars_raised_2015_iqb,	scars raised	HP:0000987	
+scoliosis_2015,	scoliosis	EFO_0004273	
+shingles_2015,	shingles	EFO_0006510	
+sleep-apnea-broad_2016,	sleep apnea	EFO_0003877	-broad
+sleep-apnea_2016,	sleep apnea	EFO_0003877	
+sleep-apnea_conditioned-on_BMI_2016,	sleep apnea	EFO_0003877	conditioned-on BMI
+sleep-apnea_conditioned-on_BMI_shared-controls_2016,	sleep apnea	EFO_0003877	conditioned-on BMI shared-controls
+sleep_average_2015_iqb,	sleep average	GO:0030431	not binary
+sleep_medications_2015_iqb,	sleep medications	NA	
+sleep_movement_during_rem_2015_iqb,	sleep movement during rem	HP:0002360	
+sleep_needed_2015_iqb,	sleep needed	NA	
+sleep_rem_behavior_disorder_2015_iqb,	sleep rem behavior disorder	EFO_0007462	
+sleep_talk_2015_iqb,	sleep talk	HP:0002360	
+smell_ability_2015_iqb,	smell ability	NA	
+sound_sleeper_2015_iqb,	sound sleeper	GO:0030431	
+strep_throat_2015_iqb,	strep throat	EFO_1001476	
+stroke_2015,	stroke	EFO_0000712	
+sweet_tooth_2015,	sweet tooth	HP:0030221	
+systemic_lupus_erythematosus_2015,	systemic lupus erythematosus	EFO_0002690	
+thickened_skin_2015,	thickened skin	HP_0001072	
+tonsillectomy_2015,	tonsillectomy	EFO_0007924	
+tuberculosis_positive_test_2015,	tuberculosis positive test	NA	
+type_1_diabetes_2015,	type 1 diabetes	EFO_0001359	
+ulcerative_colitis_2015,	ulcerative colitis	EFO_0000729	
+uterine_fibroids_2015,	uterine fibroids	EFO_0000731	
+varicocele_2015	varicocele	HP:0012871	
