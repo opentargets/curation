@@ -1,0 +1,49 @@
+filename,gtex_tissue,uberon_code
+Adipose_Subcutaneous.v7.egenes.txt.gz,adipose subcutaneous,UBERON_0002190
+Adipose_Visceral_Omentum.v7.egenes.txt.gz,adipose visceral omentum,UBERON_0014454
+Adrenal_Gland.v7.egenes.txt.gz,adrenal gland,UBERON_0002369
+Artery_Aorta.v7.egenes.txt.gz,artery aorta,UBERON_0000947
+Artery_Coronary.v7.egenes.txt.gz,artery coronary,UBERON_0001621
+Artery_Tibial.v7.egenes.txt.gz,artery tibial,UBERON_0007610
+Brain_Amygdala.v7.egenes.txt.gz,brain amygdala,UBERON_0001876
+Brain_Anterior_cingulate_cortex_BA24.v7.egenes.txt.gz,brain anterior cingulate cortex ba24,UBERON_0009835
+Brain_Caudate_basal_ganglia.v7.egenes.txt.gz,brain caudate basal ganglia,UBERON_0001873
+Brain_Cerebellar_Hemisphere.v7.egenes.txt.gz,brain cerebellar hemisphere,UBERON_0002245
+Brain_Cerebellum.v7.egenes.txt.gz,brain cerebellum,UBERON_0002037
+Brain_Cortex.v7.egenes.txt.gz,brain cortex,UBERON_0000956
+Brain_Frontal_Cortex_BA9.v7.egenes.txt.gz,brain frontal cortex ba9,UBERON_0001870
+Brain_Hippocampus.v7.egenes.txt.gz,brain hippocampus,UBERON_0002421
+Brain_Hypothalamus.v7.egenes.txt.gz,brain hypothalamus,UBERON_0001898
+Brain_Nucleus_accumbens_basal_ganglia.v7.egenes.txt.gz,brain nucleus accumbens basal ganglia,UBERON_0001882
+Brain_Putamen_basal_ganglia.v7.egenes.txt.gz,brain putamen basal ganglia,UBERON_0001874
+Brain_Spinal_cord_cervical_c-1.v7.egenes.txt.gz,brain spinal cord cervical c-1,UBERON_0002726
+Brain_Substantia_nigra.v7.egenes.txt.gz,brain substantia nigra,UBERON_0002038
+Breast_Mammary_Tissue.v7.egenes.txt.gz,breast mammary tissue,UBERON_0003584
+Cells_EBV-transformed_lymphocytes.v7.egenes.txt.gz,cells ebv-transformed lymphocytes,CLO_0000468
+Cells_Transformed_fibroblasts.v7.egenes.txt.gz,cells transformed fibroblasts,CLO_0000161
+Colon_Sigmoid.v7.egenes.txt.gz,colon sigmoid,UBERON_0001159
+Colon_Transverse.v7.egenes.txt.gz,colon transverse,UBERON_0001157
+Esophagus_Gastroesophageal_Junction.v7.egenes.txt.gz,esophagus gastroesophageal junction,UBERON_0007650
+Esophagus_Mucosa.v7.egenes.txt.gz,esophagus mucosa,UBERON_0002469
+Esophagus_Muscularis.v7.egenes.txt.gz,esophagus muscularis,UBERON_0011878
+Heart_Atrial_Appendage.v7.egenes.txt.gz,heart atrial appendage,UBERON_0006618
+Heart_Left_Ventricle.v7.egenes.txt.gz,heart left ventricle,UBERON_0002084
+Liver.v7.egenes.txt.gz,liver,UBERON_0002107
+Lung.v7.egenes.txt.gz,lung,UBERON_0002048
+Minor_Salivary_Gland.v7.egenes.txt.gz,minor salivary gland,UBERON_0001830
+Muscle_Skeletal.v7.egenes.txt.gz,muscle skeletal,UBERON_0001134
+Nerve_Tibial.v7.egenes.txt.gz,nerve tibial,UBERON_0001323
+Ovary.v7.egenes.txt.gz,ovary,UBERON_0000992
+Pancreas.v7.egenes.txt.gz,pancreas,UBERON_0001264
+Pituitary.v7.egenes.txt.gz,pituitary,UBERON_0000007
+Prostate.v7.egenes.txt.gz,prostate,UBERON_0002367
+Skin_Not_Sun_Exposed_Suprapubic.v7.egenes.txt.gz,skin not sun exposed suprapubic,UBERON_0036149
+Skin_Sun_Exposed_Lower_leg.v7.egenes.txt.gz,skin sun exposed lower leg,UBERON_0004264
+Small_Intestine_Terminal_Ileum.v7.egenes.txt.gz,small intestine terminal ileum,UBERON_0002116
+Spleen.v7.egenes.txt.gz,spleen,UBERON_0002106
+Stomach.v7.egenes.txt.gz,stomach,UBERON_0000945
+Testis.v7.egenes.txt.gz,testis,UBERON_0000473
+Thyroid.v7.egenes.txt.gz,thyroid,UBERON_0002046
+Uterus.v7.egenes.txt.gz,uterus,UBERON_0000995
+Vagina.v7.egenes.txt.gz,vagina,UBERON_0000996
+Whole_Blood.v7.egenes.txt.gz,whole blood,UBERON_0000178
