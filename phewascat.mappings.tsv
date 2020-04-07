@@ -420,7 +420,8 @@ Cyst or abscess of Bartholin's gland	http://www.ebi.ac.uk/efo/EFO_0009469	Bartho
 Cystic kidney disease	http://www.ebi.ac.uk/efo/EFO_0008615	Cystic Kidney Disease
 Cystic mastopathy	http://www.ebi.ac.uk/efo/EFO_0003014	breast fibrocystic disease
 Cystitis	http://www.ebi.ac.uk/efo/EFO_1000025	cystitis
-Cystitis and urethritis	http://www.ebi.ac.uk/efo/EFO_1000025 http://www.ebi.ac.uk/efo/EFO_0003878	cystitis urethritis
+Cystitis and urethritis	http://www.ebi.ac.uk/efo/EFO_1000025	cystitis
+Cystitis and urethritis	http://www.ebi.ac.uk/efo/EFO_0003878	urethritis
 Cystoid macular degeneration of retina	http://www.ebi.ac.uk/efo/EFO_0009606	macular degeneration
 Cysts of the jaws	http://purl.obolibrary.org/obo/HP_0030791	Abnormal jaw morphology
 Decreased libido	http://www.ebi.ac.uk/efo/EFO_0004714	sexual dysfunction
@@ -521,7 +522,8 @@ Disorders of mineral metabolism	http://www.ebi.ac.uk/efo/EFO_0009556	mineral met
 Disorders of muscle, ligament, and fascia	http://www.ebi.ac.uk/efo/EFO_0002970	muscular disease
 Disorders of muscle, ligament, and fascia	http://purl.obolibrary.org/obo/MONDO_0045044	ligament disease
 Disorders of muscle, ligament, and fascia	http://www.ebi.ac.uk/efo/EFO_1001986	connective tissue disease
-Disorders of optic nerve and visual pathways	http://purl.obolibrary.org/obo/MONDO_0002135 http://purl.obolibrary.org/obo/MONDO_0021084	optic nerve disease  vision disorder
+Disorders of optic nerve and visual pathways	http://purl.obolibrary.org/obo/MONDO_0002135	optic nerve disease
+Disorders of optic nerve and visual pathways	http://purl.obolibrary.org/obo/MONDO_0021084	vision disorder
 Disorders of other cranial nerves	http://purl.obolibrary.org/obo/MONDO_0003569	cranial nerve neuropathy
 Disorders of parathyroid gland	http://www.ebi.ac.uk/efo/EFO_0005754	parathyroid disease
 Disorders of penis	http://purl.obolibrary.org/obo/MONDO_0002036	penile disease
@@ -551,9 +553,9 @@ Disturbances of amino-acid transport	http://www.orpha.net/ORDO/Orphanet_308451	D
 Disturbances of sensation of smell and taste	http://www.ebi.ac.uk/efo/EFO_0009543	disturbances of sensation of smell and taste 
 Disturbances of sulphur-bearing amino-acid metabolism	http://purl.obolibrary.org/obo/MONDO_0056803	sulfur metabolism disease
 Diverticulitis	http://www.ebi.ac.uk/efo/EFO_1001460	diverticulitis
-Diverticulosis	NEW TERM REQUEST	diverticulosis
+Diverticulosis	http://www.ebi.ac.uk/efo/EFO_0009959	diverticular disease
 Diverticulosis and diverticulitis	http://www.ebi.ac.uk/efo/EFO_1001460	diverticulitis
-Diverticulosis and diverticulitis	NEW TERM REQUEST	diverticulosis
+Diverticulosis and diverticulitis	http://www.ebi.ac.uk/efo/EFO_0009959	diverticular disease
 Diverticulum of esophagus, acquired	http://www.ebi.ac.uk/efo/EFO_1000930	esophageal diverticulosis
 Drusen (degenerative) of retina	http://www.ebi.ac.uk/efo/EFO_1001155	retinal drusen
 Dry eyes	http://purl.obolibrary.org/obo/HP_0001097	Keratoconjunctivitis sicca
@@ -572,7 +574,8 @@ Dysthymic disorder	http://www.ebi.ac.uk/efo/EFO_0008623	dysthymic disorder
 Dystrophy of female genital tract	http://www.ebi.ac.uk/efo/EFO_0009549	female reproductive system disease
 Dysuria	http://www.ebi.ac.uk/efo/EFO_0003901	dysuria
 E. coli	http://www.ebi.ac.uk/efo/EFO_1001318	Escherichia coli Infections
-Early or threatened labor; hemorrhage in early pregnancy	http://www.ebi.ac.uk/efo/EFO_0003917  http://www.ebi.ac.uk/efo/EFO_0009682	premature labour pregnancy disorder
+Early or threatened labor; hemorrhage in early pregnancy	http://www.ebi.ac.uk/efo/EFO_0003917	premature labour
+Early or threatened labor; hemorrhage in early pregnancy	http://www.ebi.ac.uk/efo/EFO_0009682	pregnancy disorder
 Eating disorder	http://www.ebi.ac.uk/efo/EFO_0005203	eating disorder
 Ectropion or entropion	http://purl.obolibrary.org/obo/MONDO_0002043	ectropion (disease)
 Ectropion or entropion	http://purl.obolibrary.org/obo/MONDO_0001519	entropion (disease)
