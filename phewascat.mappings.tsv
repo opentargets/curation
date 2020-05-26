@@ -2,7 +2,7 @@ Phewas_string	EFO_id	EFO_label
 Abdominal aortic aneurysm	http://www.ebi.ac.uk/efo/EFO_0004214	Abdominal Aortic Aneurysm
 Abdominal hernia	http://purl.obolibrary.org/obo/HP_0004299	Hernia of the abdominal wall
 Abdominal pain	http://purl.obolibrary.org/obo/HP_0002027	abdominal pain
-Abnormal chest sounds	NEW TERM REQUEST	Abnormal chest sounds
+Abnormal chest sounds	http://www.ebi.ac.uk/efo/EFO_0010670	Abnormal chest sounds
 Abnormal coagulation profile	http://www.ebi.ac.uk/efo/EFO_0009314	blood coagulation disease
 Abnormal electrocardiogram [ECG] [EKG]	http://purl.obolibrary.org/obo/HP_0003115	Abnormal EKG
 Abnormal findings examination of lungs	http://purl.obolibrary.org/obo/HP_0002088	abnormality of the lung
@@ -134,9 +134,9 @@ Appendiceal conditions	http://www.ebi.ac.uk/efo/EFO_0009542	disorder of appendix
 Appendicitis	http://www.ebi.ac.uk/efo/EFO_0007149	appendicitis
 Arrhythmia (cardiac) NOS	http://www.ebi.ac.uk/efo/EFO_0004269	cardiac arrhythmia
 Arterial embolism and thrombosis	http://purl.obolibrary.org/obo/MONDO_0000831	Thrombotic disease
-Arterial embolism and thrombosis	NEW TERM REQUEST	Arterial embolism
+Arterial embolism and thrombosis	http://www.ebi.ac.uk/efo/EFO_0010671	Arterial embolism
 Arterial embolism and thrombosis of lower extremity artery	http://purl.obolibrary.org/obo/MONDO_0000831	Thrombotic disease
-Arterial embolism and thrombosis of lower extremity artery	NEW TERM REQUEST	Arterial embolism
+Arterial embolism and thrombosis of lower extremity artery	 http://www.ebi.ac.uk/efo/EFO_0010671	Arterial embolism
 Arteritis NOS	 http://www.ebi.ac.uk/efo/EFO_0009011	Arteritis
 Arthralgia/ankylosis of temporomandibular joint	http://purl.obolibrary.org/obo/HP_0002829	arthralgia
 Arthralgia/ankylosis of temporomandibular joint	http://purl.obolibrary.org/obo/MONDO_0002257	ankylosis (disease)
@@ -199,7 +199,7 @@ Bladder neck obstruction	http://www.ebi.ac.uk/efo/EFO_1000840	bladder neck obstr
 Blindness and low vision	http://purl.obolibrary.org/obo/HP_0000618	Blindness
 Blister	http://purl.obolibrary.org/obo/HP_0200037	Skin vesicle
 Blood in stool	 http://purl.obolibrary.org/obo/HP_0002573	Hematochezia
-Blood vessel replaced	NEW TERM REQUEST	blood vessel replacement
+Blood vessel replaced	 http://www.ebi.ac.uk/efo/EFO_0010672 	blood vessel replacement
 Bone cancer	http://www.ebi.ac.uk/efo/EFO_0003820	bone neoplasm
 Breast cancer	http://www.ebi.ac.uk/efo/EFO_0000305	breast cancer
 Breast cancer [female]	http://www.ebi.ac.uk/efo/EFO_0000305	breast cancer
@@ -257,7 +257,7 @@ Cardiac arrest and ventricular fibrillation	http://www.ebi.ac.uk/efo/EFO_0004287
 Cardiac complications, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0009518	complication
 Cardiac conduction disorders	http://www.ebi.ac.uk/efo/EFO_1001497	cardiac conduction defect
 Cardiac congenital anomalies	http://purl.obolibrary.org/obo/MONDO_0024239	congenital anomaly of cardiovascular system
-Cardiac defibrillator in situ	NEW TERM REQUEST	Cardiac defibrillator in situ
+Cardiac defibrillator in situ	http://www.ebi.ac.uk/efo/EFO_0010674	cardioverter defibrillator
 Cardiac dysrhythmias	http://www.ebi.ac.uk/efo/EFO_0004269	cardiac arrhythmia
 Cardiac pacemaker in situ	http://www.ebi.ac.uk/efo/EFO_0009719	artificial cardiac pacemaker
 Cardiac pacemaker/device in situ	http://www.ebi.ac.uk/efo/EFO_0009719	artificial cardiac pacemaker
@@ -347,7 +347,7 @@ Chronic tonsillitis and adenoiditis	http://purl.obolibrary.org/obo/HP_0031458	Ad
 Chronic ulcer of leg or foot	http://www.ebi.ac.uk/efo/EFO_0007066	chronic ulcer of skin
 Chronic ulcer of skin	http://www.ebi.ac.uk/efo/EFO_0007066	chronic ulcer of skin
 Chronic ulcer of unspecified site	http://www.ebi.ac.uk/efo/EFO_0007066	chronic ulcer of skin
-Chronic venous hypertension	NEW TERM REQUEST	Chronic venous hypertension
+Chronic venous hypertension	http://www.ebi.ac.uk/efo/EFO_0010675	Chronic venous hypertension
 Chronic venous insufficiency [CVI]	http://www.ebi.ac.uk/efo/EFO_0007940	chronic venous insufficiency
 Circulatory disease NEC	http://www.ebi.ac.uk/efo/EFO_0000319	cardiovascular disease
 Circumscribed scleroderma	http://www.ebi.ac.uk/efo/EFO_1001993	scleroderma
@@ -400,7 +400,7 @@ Contact dermatitis and other eczema due to plants [except food]	http://www.ebi.a
 Contracture of joint	http://www.ebi.ac.uk/efo/EFO_0003899	contracture
 Contracture of palmar fascia	http://www.ebi.ac.uk/efo/EFO_0003899	contracture
 Convulsions	http://www.ebi.ac.uk/efo/EFO_0009853	convulsion
-Cornea replaced by transplant	NEW TERM REQUEST	cornea transplantation
+Cornea replaced by transplant	http://www.ebi.ac.uk/efo/EFO_0010676	cornea transplantation
 Corneal degenerations	http://www.orpha.net/ORDO/Orphanet_34533	corneal dystrophy
 Corneal dystrophy	http://www.orpha.net/ORDO/Orphanet_34533	Corneal dystrophy
 Corneal edema	http://www.ebi.ac.uk/efo/EFO_1000879	corneal edema
@@ -486,7 +486,7 @@ Diseases of lips	http://purl.obolibrary.org/obo/MONDO_0004748	lip disease
 Diseases of nail	http://purl.obolibrary.org/obo/MONDO_0002884	nail disease
 Diseases of pancreas	http://www.ebi.ac.uk/efo/EFO_0009605	pancreas disease
 Diseases of pulp and periapical tissues	http://www.ebi.ac.uk/efo/EFO_0009540	dental pulp disease
-Diseases of pulp and periapical tissues	NEW TERM REQUEST	periapical tissue disease
+Diseases of pulp and periapical tissues	http://www.ebi.ac.uk/efo/EFO_0010688	periapical tissue disease
 Diseases of sebaceous glands	http://www.ebi.ac.uk/efo/EFO_1000763	sebaceous gland disease
 Diseases of spleen	http://www.ebi.ac.uk/efo/EFO_0009002	splenic disease
 Diseases of the jaws	http://www.ebi.ac.uk/efo/EFO_0009468	jaw disease
@@ -588,7 +588,7 @@ Elevated prostate specific antigen [PSA]	http://purl.obolibrary.org/obo/HP_00250
 Elevated sedimentation rate	http://purl.obolibrary.org/obo/HP_0003565	Elevated erythrocyte sedimentation rate
 Elevated white blood cell count	http://purl.obolibrary.org/obo/HP_0001974	Leukocytosis 
 Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	http://purl.obolibrary.org/obo/HP_0002910	Elevated hepatic transaminase
-Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	NEW TERM REQUEST	Increased lactic acid dehydrogenase levels
+Elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	http://www.ebi.ac.uk/efo/EFO_0010695	elevated lactate dehydrogenase
 Emphysema	http://www.ebi.ac.uk/efo/EFO_0000464	emphysema
 Empyema and pneumothorax	http://www.ebi.ac.uk/efo/EFO_0003097	empyema
 Empyema and pneumothorax	http://purl.obolibrary.org/obo/HP_0002107	pneumothorax
@@ -708,7 +708,7 @@ Hallux valgus (Bunion)	http://purl.obolibrary.org/obo/HP_0001822	Hallux valgus
 Hammer toe (acquired	http://www.ebi.ac.uk/efo/EFO_1001336	Hammer Toe Syndrome
 Hearing loss	http://www.ebi.ac.uk/efo/EFO_0004238	hearing loss
 Heart failure NOS	http://www.ebi.ac.uk/efo/EFO_0003144	heart failure
-Heart transplant/surgery	NEW TERM REQUEST	heart transplant
+Heart transplant/surgery	http://www.ebi.ac.uk/efo/EFO_0010673	cardiac transplant
 Heart valve disorders	http://www.ebi.ac.uk/efo/EFO_0009551	heart valve disease
 Heart valve replaced	http://www.ebi.ac.uk/efo/EFO_0003906	heart valve prosthesis 
 Heartburn	http://purl.obolibrary.org/obo/HP_0002020	Gastroesophageal reflux
@@ -720,12 +720,12 @@ Hemiplegia	http://purl.obolibrary.org/obo/HP_0002301	Hemiplegia
 Hemoptysis	http://purl.obolibrary.org/obo/HP_0002105	Hemoptysis
 Hemorrhage from gastrointestinal ulcer	http://purl.obolibrary.org/obo/MPATH_579	ulcer
 Hemorrhage from gastrointestinal ulcer	http://purl.obolibrary.org/obo/HP_0002239	gastrointestinal hemorrhage
-Hemorrhage in early pregnancy	NEW TERM REQUEST	Subchorionic bleeding
+Hemorrhage in early pregnancy	http://www.ebi.ac.uk/efo/EFO_0009682	pregnancy disorder
 Hemorrhage NOS	http://purl.obolibrary.org/obo/MP_0001914	hemorrhage
 Hemorrhage of gastrointestinal tract	http://purl.obolibrary.org/obo/HP_0002239	gastrointestinal hemorrhage
 Hemorrhage of rectum and anus	http://purl.obolibrary.org/obo/HP_0002573	Hematochezia
 Hemorrhage or hematoma complicating a procedure	http://purl.obolibrary.org/obo/MP_0001914	Hemorrhage
-Hemorrhage or hematoma complicating a procedure	NEW TERM REQUEST	hematoma
+Hemorrhage or hematoma complicating a procedure	http://www.ebi.ac.uk/efo/EFO_0010680	hematoma
 Hemorrhage or hematoma complicating a procedure	http://www.ebi.ac.uk/efo/EFO_0009518	complication
 Hemorrhagic disorder due to intrinsic circulating anticoagulants	http://www.orpha.net/ORDO/Orphanet_71202	Rare hemorrhagic disorder due to a constitutional platelet anomaly
 Hemorrhoids	http://www.ebi.ac.uk/efo/EFO_0009552	hemorrhoid
@@ -783,7 +783,7 @@ Hypoventilation	http://purl.obolibrary.org/obo/HP_0002791	Hypoventilation
 Hypovolemia	http://purl.obolibrary.org/obo/HP_0011106	Hypovolemia
 Iatrogenic hypotension	http://www.ebi.ac.uk/efo/EFO_0005251	hypotension
 Idiopathic fibrosing alveolitis	http://www.ebi.ac.uk/efo/EFO_0000768	idiopathic pulmonary fibrosis
-Ileostomy status	NEW TERM REQUEST	Ileostomy status
+Ileostomy status	http://www.ebi.ac.uk/efo/EFO_0010681	Ileostomy
 Ill-defined descriptions and complications of heart disease	http://www.ebi.ac.uk/efo/EFO_0003777	heart disease
 Ill-defined descriptions and complications of heart disease	http://www.ebi.ac.uk/efo/EFO_0009518	complication
 Immunity deficiency	http://purl.obolibrary.org/obo/HP_0002721	Immunodeficiency
@@ -875,9 +875,9 @@ Lipoma	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma
 Lipoprotein disorders	http://www.ebi.ac.uk/efo/EFO_0000589	metabolic disease
 Liver abscess and sequelae of chronic liver disease	http://purl.obolibrary.org/obo/HP_0100523	Liver abscess
 Liver abscess and sequelae of chronic liver disease	http://www.ebi.ac.uk/efo/EFO_0003884	Chronic liver disease
-Liver replaced by transplant	NEW TERM REQUEST	Liver transplant
+Liver replaced by transplant	http://www.ebi.ac.uk/efo/EFO_0010682	Liver transplant
 Localized adiposity	 http://www.ebi.ac.uk/efo/EFO_0001073	obesity
-Localized superficial swelling, mass, or lump	NEW TERM REQUEST	Localized superficial swelling, mass, or lump
+Localized superficial swelling, mass, or lump	http://www.ebi.ac.uk/efo/EFO_0010683	Localized superficial swelling, mass, or lump
 Loose body in joint	http://www.ebi.ac.uk/efo/EFO_1000999	joint disease
 Loss of teeth or edentulism	 http://www.ebi.ac.uk/efo/EFO_1001216	tooth disease
 Lower gastrointestinal congenital anomalies	http://purl.obolibrary.org/obo/MONDO_0000839	congenital abnormality
@@ -915,7 +915,7 @@ Malignant neoplasm of renal pelvis	http://www.ebi.ac.uk/efo/EFO_0005582	renal pe
 Malignant neoplasm of uterus	http://purl.obolibrary.org/obo/MONDO_0002715	uterine cancer
 Malignant neoplasm, other	http://www.ebi.ac.uk/efo/EFO_0000311	cancer
 Malunion and nonunion of fracture	http://www.ebi.ac.uk/efo/EFO_0009707	fractures, ununited
-Malunion and nonunion of fracture	NEW TERM REQUEST	malunion fracture
+Malunion and nonunion of fracture	http://www.ebi.ac.uk/efo/EFO_0010684	malunion fracture
 Mammographic microcalcification	http://www.ebi.ac.uk/efo/EFO_0009483	breast disease
 Manlignant and unknown neoplasms of brain and nervous system	http://purl.obolibrary.org/obo/MONDO_0001657	brain cancer
 Manlignant and unknown neoplasms of brain and nervous system	http://www.ebi.ac.uk/efo/EFO_0007392	nervous system cancer
@@ -926,7 +926,7 @@ Melanomas of skin, dx or hx	http://www.ebi.ac.uk/efo/EFO_0000756	melanoma
 Memory loss	http://www.ebi.ac.uk/efo/EFO_0001072	memory impairment
 Meniere's disease	http://www.ebi.ac.uk/efo/EFO_0006862	Meniere disease
 Meningitis	http://purl.obolibrary.org/obo/MONDO_0021108	meningitis (disease)
-Menopausal and postmenopausal disorders	NEW TERM REQUEST	menopausal or post-menopausal disorder
+Menopausal and postmenopausal disorders	http://www.ebi.ac.uk/efo/EFO_0010685	menopausal or post-menopausal disease
 Mental retardation	http://www.ebi.ac.uk/efo/EFO_0003847	mental retardation
 Methicillin resistant Staphylococcus aureus	http://www.ebi.ac.uk/efo/EFO_0008555	Methicillin-Resistant Staphylococcus Aureus Infection
 Methicillin sensitive Staphylococcus aureus	http://www.ebi.ac.uk/efo/EFO_0008555	Methicillin-Resistant Staphylococcus Aureus Infection
@@ -948,7 +948,7 @@ Multiple myeloma	http://www.ebi.ac.uk/efo/EFO_0001378	multiple myeloma
 Multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0003885	multiple sclerosis
 Muscle weakness	http://purl.obolibrary.org/obo/HP_0001324	Muscle weakness
 Muscle/tendon sprain	http://www.ebi.ac.uk/efo/EFO_0009582	sprain
-Muscle/tendon sprain	NEW TERM REQUEST	Muscle strain
+Muscle/tendon sprain	http://www.ebi.ac.uk/efo/EFO_0010686	Muscle strain
 Muscular dystrophies and other myopathies	http://www.orpha.net/ORDO/Orphanet_98473	Muscular dystrophy
 Muscular dystrophies and other myopathies	http://www.ebi.ac.uk/efo/EFO_0004145	myopathy
 Muscular wasting and disuse atrophy	http://www.ebi.ac.uk/efo/EFO_0009851	muscle atrophy
@@ -1004,7 +1004,7 @@ Noninflammatory disorders of ovary, fallopian tube, and broad ligament	http://ww
 Noninflammatory disorders of ovary, fallopian tube, and broad ligament	http://purl.obolibrary.org/obo/MONDO_0045043	disease of uterine broad ligament
 Noninflammatory disorders of vagina	http://purl.obolibrary.org/obo/MONDO_0001433	vaginal disease
 Noninflammatory disorders of vulva and perineum	http://purl.obolibrary.org/obo/MONDO_0002187	vulvar disease
-Noninflammatory disorders of vulva and perineum	NEW TERM REQUEST	Perineum disease
+Noninflammatory disorders of vulva and perineum	http://www.ebi.ac.uk/efo/EFO_0010689	Perineum disease
 Noninflammatory female genital disorders	http://www.ebi.ac.uk/efo/EFO_0009549	female reproductive system disease
 Nonrheumatic aortic valve disorders	http://www.ebi.ac.uk/efo/EFO_0009531	aortic valve disease
 Nonrheumatic mitral valve disorders	http://www.ebi.ac.uk/efo/EFO_0009557	mitral valve disease 
@@ -1079,7 +1079,7 @@ Other acquired deformities of limbs	http://purl.obolibrary.org/obo/HP_0040064	Ab
 Other acquired musculoskeletal deformity	http://www.ebi.ac.uk/efo/EFO_0009676	musculoskeletal system disease
 Other acute and subacute forms of ischemic heart disease	http://www.ebi.ac.uk/efo/EFO_1001375	Myocardial Ischemia
 Other alveolar and parietoalveolar pneumonopathy	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease
-Other and nonspecific abnormal cytological, histological and immunological findings	NEW TERM REQUEST	cytological, histological and immunological findings
+Other and nonspecific abnormal cytological, histological and immunological findings	http://www.ebi.ac.uk/efo/EFO_0010677	cytological, histological and immunological finding
 Other and unspecified congenital anomalies	http://purl.obolibrary.org/obo/MONDO_0000839	congenital abnormality 
 Other and unspecified disc disorder	http://www.ebi.ac.uk/efo/EFO_0009477	vertebral joint disease
 Other and unspecified disorders of back	http://purl.obolibrary.org/obo/MONDO_0000651	thoracic disease
@@ -1111,7 +1111,7 @@ Other diseases of lung	http://www.ebi.ac.uk/efo/EFO_0003818	lung disease
 Other diseases of respiratory system, NEC	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease
 Other diseases of respiratory system, not elsewhere classified	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease
 Other diseases of the teeth and supporting structures	http://www.ebi.ac.uk/efo/EFO_1001216	tooth disease
-Other diseases of the teeth and supporting structures	NEW TERM REQUEST	tooth-supporting structures disease
+Other diseases of the teeth and supporting structures	http://www.ebi.ac.uk/efo/EFO_0010693	tooth-supporting structures disease
 Other disorders of adrenal glands	http://www.ebi.ac.uk/efo/EFO_0005539	adrenal gland disease
 Other disorders of arteries and arterioles	http://purl.obolibrary.org/obo/MONDO_0000473	arterial disorder
 Other disorders of biliary tract	http://www.ebi.ac.uk/efo/EFO_0009534	biliary tract disease
@@ -1165,7 +1165,7 @@ Other infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0001067	par
 Other inflammatory spondylopathies	 http://purl.obolibrary.org/obo/MONDO_0001434 	inflammatory spondylopathy
 Other intestinal obstruction	http://purl.obolibrary.org/obo/MONDO_0004565	intestinal obstruction
 Other local infections of skin and subcutaneous tissue	http://purl.obolibrary.org/obo/MONDO_0021201	skin infection
-Other local infections of skin and subcutaneous tissue	NEW TERM REQUEST	subcutaneous tissue infection
+Other local infections of skin and subcutaneous tissue	 http://www.ebi.ac.uk/efo/EFO_0010692	subcutaneous tissue infection
 Other non-epithelial cancer of skin, dx or hx	http://purl.obolibrary.org/obo/MONDO_0002898	skin cancer
 Other nonmalignant breast conditions	http://www.ebi.ac.uk/efo/EFO_0009483	breast disease
 Other nonspecific findings on examination of urine	http://purl.obolibrary.org/obo/HP_0012614	Abnormal urine cytology
@@ -1193,7 +1193,7 @@ Other specified nonpsychotic and/or transient mental disorders	http://www.ebi.ac
 Other specified osteoporosis	http://www.ebi.ac.uk/efo/EFO_0003882	osteoporosis
 Other specified peripheral vascular diseases	http://www.ebi.ac.uk/efo/EFO_0003875	peripheral vascular disease
 Other sprains and strains	http://www.ebi.ac.uk/efo/EFO_0009582	sprain
-Other sprains and strains	NEW TERM REQUEST	Muscle strain
+Other sprains and strains	 http://www.ebi.ac.uk/efo/EFO_0010686	Muscle strain
 Other symptoms involving abdomen and pelvis	http://purl.obolibrary.org/obo/MONDO_0044965	abdominal and pelvic region disorder 
 Other symptoms involving urinary system	http://www.ebi.ac.uk/efo/EFO_0009690	urinary system disease
 Other symptoms of respiratory system	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory system disease
@@ -1204,7 +1204,7 @@ Other upper respiratory disease	http://www.ebi.ac.uk/efo/EFO_0000684	respiratory
 Other venous embolism and thrombosis	http://www.ebi.ac.uk/efo/EFO_0004286	venous thromboembolism
 Other vitamin B12 deficiency anemia	http://www.ebi.ac.uk/efo/EFO_0000734	vitamin B12 deficiency
 Other/Unspecified specified local infections of skin and subcutaneous tissue	http://purl.obolibrary.org/obo/MONDO_0021201	skin infection
-Other/Unspecified specified local infections of skin and subcutaneous tissue	NEW TERM REQUEST	subcutaneous tissue infection
+Other/Unspecified specified local infections of skin and subcutaneous tissue	 http://www.ebi.ac.uk/efo/EFO_0010692	subcutaneous tissue infection
 Otitis externa	http://www.ebi.ac.uk/efo/EFO_0009560	otitis externa
 Otitis media	http://www.ebi.ac.uk/efo/EFO_0004992	Otitis media
 Otitis media and Eustachian tube disorders	http://www.ebi.ac.uk/efo/EFO_0009667	eustachian tube disease
@@ -1214,13 +1214,13 @@ Otosclerosis	http://www.ebi.ac.uk/efo/EFO_0004213	otosclerosis
 Ovarian cyst	http://purl.obolibrary.org/obo/HP_0000138	ovarian cyst
 Ovarian dysfunction	http://www.ebi.ac.uk/efo/EFO_0009003	ovarian dysfunction
 Overweight, obesity and other hyperalimentation	http://www.ebi.ac.uk/efo/EFO_0001073	obesity
-Overweight, obesity and other hyperalimentation	NEW TERM REQUEST	hyperalimentation
+Overweight, obesity and other hyperalimentation	http://www.ebi.ac.uk/efo/EFO_0010694	total parenteral nutrition  
 Pain and other symptoms associated with female genital organs	http://www.ebi.ac.uk/efo/EFO_0003843	pain
 Pain in joint	http://purl.obolibrary.org/obo/HP_0002829	arthralgia
 Pain in limb	http://purl.obolibrary.org/obo/HP_0009763	limb pain
 Pain, swelling or discharge of eye	http://purl.obolibrary.org/obo/HP_0200026	Ocular pain
-Pain, swelling or discharge of eye	NEW TERM REQUEST	eye swelling
-Pain, swelling or discharge of eye	NEW TERM REQUEST	eye discharge
+Pain, swelling or discharge of eye	http://www.ebi.ac.uk/efo/EFO_0010679	eye swelling
+Pain, swelling or discharge of eye	 http://www.ebi.ac.uk/efo/EFO_0010678	eye discharge
 Painful respiration	 http://purl.obolibrary.org/obo/HP_0002086 	Abnormality of the respiratory system
 Pallor and flushing	http://purl.obolibrary.org/obo/HP_0000980	Pallor
 Pallor and flushing	http://purl.obolibrary.org/obo/HP_0031284	Flushing
@@ -1263,7 +1263,7 @@ Peritoneal adhesions (postoperative) (postinfection)	http://www.ebi.ac.uk/efo/EF
 Peritoneal or intestinal adhesions	http://www.ebi.ac.uk/efo/EFO_0009541	peritoneum disease
 intestinal disease	http://www.ebi.ac.uk/efo/EFO_0009431	intestinal adhesion
 Peritonitis and retroperitoneal infections	http://www.ebi.ac.uk/efo/EFO_0008588	peritonitis
-Peritonitis and retroperitoneal infections	NEW TERM REQUEST	retroperitoneal infection
+Peritonitis and retroperitoneal infections	http://www.ebi.ac.uk/efo/EFO_0010691	retroperitoneal infection
 Pernicious anemia	http://www.ebi.ac.uk/efo/EFO_0005576	pernicious anemia
 Personal history of allergy to medicinal agents	http://www.ebi.ac.uk/efo/EFO_0009482	drug allergy
 Personal history of diseases of digestive system	http://www.ebi.ac.uk/efo/EFO_0000405	digestive system disease
@@ -1342,7 +1342,7 @@ Psoriasis vulgaris	http://www.ebi.ac.uk/efo/EFO_1001494	psoriasis vulgaris
 Psoriatic arthropathy	http://www.ebi.ac.uk/efo/EFO_0003778	psoriatic arthritis
 Psychogenic and somatoform disorders	http://purl.obolibrary.org/obo/MONDO_0002025	psychiatric disorder
 Psychogenic and somatoform disorders	http://www.ebi.ac.uk/efo/EFO_0009687	somatoform disorder
-Psychogenic disorder	NEW TERM REQUEST	Psychogenic disease
+Psychogenic disorder	http://purl.obolibrary.org/obo/MONDO_0002025	psychiatric disorder
 Ptosis of eyelid	http://purl.obolibrary.org/obo/MONDO_0000728	ptosis (disease) 
 Pulmonary collapse; interstitial and compensatory emphysema	http://purl.obolibrary.org/obo/HP_0002107	Pneumothorax
 Pulmonary collapse; interstitial and compensatory emphysema	http://purl.obolibrary.org/obo/MONDO_0000923	interstitial emphysema
@@ -1361,11 +1361,10 @@ Random mental disorder. Ignored for now	http://www.ebi.ac.uk/efo/EFO_0000677	men
 Rash and other nonspecific skin eruption	http://www.ebi.ac.uk/efo/EFO_1000697	exanthem
 Raynaud's syndrome	http://www.ebi.ac.uk/efo/EFO_1001145	Raynaud disease
 Redundant prepuce and phimosis/BXO	http://www.ebi.ac.uk/efo/EFO_1001104	phimosis
-Redundant prepuce and phimosis/BXO	NEW TERM REQUEST	Redundant prepuce
 Reflux esophagitis	http://www.ebi.ac.uk/efo/EFO_0003948	gastroesophageal reflux disease
 Regional enteritis	http://www.ebi.ac.uk/efo/EFO_0000384	Crohn's disease
 Renal colic	http://www.ebi.ac.uk/efo/EFO_1001412	Renal Colic
-Renal dialysis	NEW TERM REQUEST	renal dialysis
+Renal dialysis	http://www.ebi.ac.uk/efo/EFO_0010690	renal dialysis
 Renal failure	http://purl.obolibrary.org/obo/HP_0000083	Renal insufficiency
 Renal failure NOS	http://purl.obolibrary.org/obo/HP_0000083	Renal insufficiency
 Renal osteodystrophy	http://www.ebi.ac.uk/efo/EFO_1001152	renal osteodystrophy
@@ -1461,9 +1460,9 @@ Spondylosis with myelopathy	http://www.ebi.ac.uk/efo/EFO_0000706	spondyloarthrop
 Spondylosis without myelopathy	http://www.ebi.ac.uk/efo/EFO_0000706	spondyloarthropathy
 Spontaneous ecchymoses	http://purl.obolibrary.org/obo/HP_0031364	Ecchymosis
 Sprains and strains	http://www.ebi.ac.uk/efo/EFO_0009582	sprain
-Sprains and strains	NEW TERM REQUEST	Muscle strain
+Sprains and strains	http://www.ebi.ac.uk/efo/EFO_0010686	Muscle strain
 Sprains and strains of back and neck	http://www.ebi.ac.uk/efo/EFO_0009582	sprain
-Sprains and strains of back and neck	NEW TERM REQUEST	Muscle strain
+Sprains and strains of back and neck	http://www.ebi.ac.uk/efo/EFO_0010686	Muscle strain
 Staphylococcus infections	http://www.ebi.ac.uk/efo/EFO_0005681	Staphylococcus aureus infection
 Stiffness of joint	http://purl.obolibrary.org/obo/HP_0001387	Joint stiffness
 Stomatitis and mucositis	http://www.ebi.ac.uk/efo/EFO_0009688	Stomatitis
@@ -1533,7 +1532,7 @@ Tobacco use disorder	http://www.ebi.ac.uk/efo/EFO_0003768	nicotine dependence
 Torsion dystonia	http://purl.obolibrary.org/obo/HP_0001304	Torsion dystonia
 Torticollis	http://purl.obolibrary.org/obo/HP_0000473	Torticollis
 Toxic effect of venom	http://www.ebi.ac.uk/efo/EFO_0008546	poisoning
-Toxic erythema	NEW TERM REQUEST	Erythema Toxicum
+Toxic erythema	http://www.ebi.ac.uk/efo/EFO_0010687	neonatal erythema toxicum
 Toxic multinodular goiter	http://www.ebi.ac.uk/efo/EFO_0009191	Toxic Nodular Goiter
 Transient alteration of awareness	 http://purl.obolibrary.org/obo/HP_0011446	Abnormality of higher mental function
 Transient cerebral ischemia	http://www.ebi.ac.uk/efo/EFO_0003764	transient ischemic attack
