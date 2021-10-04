@@ -870,7 +870,7 @@ Leukemia	http://www.ebi.ac.uk/efo/EFO_0000565	leukemia
 Leukoplakia of oral mucosa	http://purl.obolibrary.org/obo/HP_0002745	Oral leukoplakia
 Lichen	http://www.ebi.ac.uk/efo/EFO_1000724	lichen disease
 Light-headedness and vertigo	http://www.ebi.ac.uk/efo/EFO_0009847	dizziness
-Light-headedness and vertigo	http://purl.obolibrary.org/obo/HP_000232	vertigo
+Light-headedness and vertigo	http://purl.obolibrary.org/obo/HP_0002321	vertigo
 Lipoma	http://www.ebi.ac.uk/efo/EFO_0000759	lipoma
 Lipoprotein disorders	http://www.ebi.ac.uk/efo/EFO_0000589	metabolic disease
 Liver abscess and sequelae of chronic liver disease	http://purl.obolibrary.org/obo/HP_0100523	Liver abscess
