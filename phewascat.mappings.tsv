@@ -391,8 +391,8 @@ Congenital musculoskeletal deformities of spine	http://purl.obolibrary.org/obo/M
 Congenital pigmentary anomalies of skin	http://www.orpha.net/ORDO/Orphanet_183463	Genetic pigmentation anomaly of the skin
 Congestive heart failure (CHF) NOS	http://www.ebi.ac.uk/efo/EFO_0000373	congestive heart failure
 Congestive heart failure; nonhypertensive	http://www.ebi.ac.uk/efo/EFO_0000373	congestive heart failure
-Conjunctivitis, infectious	http://purl.obolibrary.org/obo/HP_0000509	Conjunctivitis
-Conjunctivitis, noninfectious	http://purl.obolibrary.org/obo/HP_0000509	Conjunctivitis
+Conjunctivitis, infectious	http://www.ebi.ac.uk/efo/EFO_0009450	Conjunctivitis
+Conjunctivitis, noninfectious	http://www.ebi.ac.uk/efo/EFO_0009450	Conjunctivitis
 Constipation	http://purl.obolibrary.org/obo/HP_0002019	constipation
 Contact and allergic dermatitis of eyelid	http://www.ebi.ac.uk/efo/EFO_0005319	contact dermatitis
 Contact and allergic dermatitis of eyelid	http://purl.obolibrary.org/obo/HP_0000964	eczema
