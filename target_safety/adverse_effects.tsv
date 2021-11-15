@@ -191,7 +191,6 @@ hemorrhagic events	cardiovascular system	inhibition_general	""	ENSG00000180210	"
 congestive heart failure	cardiovascular system	inhibition_general	EFO_0000373	ENSG00000103546	""	""	""	""	Urban et al. (2012)	SLC6A2	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 hypertension (supine)	cardiovascular system	inhibition_general	EFO_0000537	ENSG00000103546	""	""	""	""	Urban et al. (2012)	SLC6A2	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 tachycardia	cardiovascular system	inhibition_general	HP_0001649	ENSG00000103546	""	""	""	""	Urban et al. (2012)	SLC6A2	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
-drop	cardiovascular system	inhibition_general	""	ENSG00000103546	""	""	""	""	Urban et al. (2012)	SLC6A2	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 vasocontriction	cardiovascular system	activation_general	""	ENSG00000144891	""	""	""	""	Urban et al. (2012)	AGTR1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 antihypertensive and cardioprotective agent	cardiovascular system	inhibition_general	""	ENSG00000144891	""	""	""	""	Urban et al. (2012)	AGTR1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 hypotension	cardiovascular system	inhibition_general	EFO_0005251	ENSG00000144891	""	""	""	""	Urban et al. (2012)	AGTR1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
@@ -320,7 +319,6 @@ teratogenicity	cardiovascular system	inhibition_developmental toxicity	EFO_00098
 bronchoconstriction	cardiovascular system	activation_general	EFO_0009836	ENSG00000151617	""	""	""	""	Urban et al. (2012)	EDNRA	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 aldosterone secretion	cardiovascular system	activation_general	GO_0035932	ENSG00000151617	""	""	""	""	Urban et al. (2012)	EDNRA	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 osteoblast proliferation	cardiovascular system	activation_general	GO_0033687	ENSG00000151617	""	""	""	""	Urban et al. (2012)	EDNRA	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
-drop	cardiovascular system	activation_general	""	ENSG00000142208	""	""	""	""	Urban et al. (2012)	AKT1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 hyperglycemia	cardiovascular system	inhibition_general	HP_0003074	ENSG00000142208	""	""	""	""	Urban et al. (2012)	AKT1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 apoptototic cell death in cancer cells	cardiovascular system	inhibition_general	""	ENSG00000142208	""	""	""	""	Urban et al. (2012)	AKT1	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 antiinflammatory	cardiovascular system	inhibition_general	GO_0050728	ENSG00000073756	""	""	""	""	Urban et al. (2012)	PTGS2	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
@@ -426,7 +424,6 @@ primary pulmonary hypertension	nervous system	inhibition_general	MONDO_0001999	E
 cardiac valvulopathy	cardiovascular system	activation_general	""	ENSG00000135914	""	""	""	""	Urban et al. (2012)	HTR2B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 cardiac development effect leading to cardiomyopathy (based on knockout mouse data)	cardiovascular system	inhibition_developmental toxicity	EFO_0000318	ENSG00000135914	""	""	""	""	Urban et al. (2012)	HTR2B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 hypertension	cardiovascular system	activation_general	EFO_0000537	ENSG00000135914	""	""	""	""	Urban et al. (2012)	HTR2B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
-drop	cardiovascular system	activation_general	""	ENSG00000135914	""	""	""	""	Urban et al. (2012)	HTR2B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 increased mortality in heart failure patients	cardiovascular system	inhibition_chronic	""	ENSG00000152270	""	""	""	""	Urban et al. (2012)	PDE3B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 ventricular arrhythmias	cardiovascular system	inhibition_general	HP_0004308	ENSG00000152270	""	""	""	""	Urban et al. (2012)	PDE3B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
 tachycardia	cardiovascular system	inhibition_general	HP_0001649	ENSG00000152270	""	""	""	""	Urban et al. (2012)	PDE3B	UBERON_0004535	""	https://doi.org/10.1002/9781118098141.ch2
