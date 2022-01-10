@@ -7,7 +7,7 @@ This repository contains a collection of different manual annotations produced w
   - [biosystem](mappings/biosystem).
     - Labels of anatomical structures such as tissues, organs or systems are mapped to the [UBERON ontology](https://uberon.github.io).
     - Labels of cell lines are mapped to the [Cell Line Ontology](http://www.clo-ontology.org).
-  - [disease](mappings/disease). Labels of diseases mapped to the [EFO ontology](https://www.ebi.ac.uk/efo/). This directory is pending to be harmonised under a common file.
+  - [disease](mappings/disease). Labels of diseases mapped to the [EFO ontology](https://www.ebi.ac.uk/efo/). This directory is pending to be harmonised under a common file (see [#1400](https://github.com/opentargets/platform/issues/1400) for context).
 
 - **Target Safety annotation**. 
   Manual curation of experimental data and insights from publications and other well-known sources of target safety and toxicity data, including the Tox21 database.
