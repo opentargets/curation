@@ -1,11 +1,14 @@
+import os
+
 import pandas as pd
 
 from ontoma import ontology, owl
 
 
 def count_and_save_mappings(mappings, filename):
-    mappings.to_csv(filename, sep='\t', index=False)
-    return f'{len(mappings)} [{filename}]'
+    output_filename = os.path.join('efo', filename)
+    mappings.to_csv(output_filename, sep='\t', index=False)
+    return f'{len(mappings)} [{output_filename}]'
 
 
 # Download and read EFO files.
