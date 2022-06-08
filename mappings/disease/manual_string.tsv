@@ -1878,13 +1878,13 @@ CTTV-indication		disease	Leukoplakia	http://purl.obolibrary.org/obo/HP_0002745	S
 Genomics England Panel App		disease	Li-Fraumeni syndrome	http://www.orpha.net/ORDO/Orphanet_524	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Liddle syndrome	http://www.orpha.net/ORDO/Orphanet_526	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Liebenberg syndrome	http://www.orpha.net/ORDO/Orphanet_1275	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	LIG4 syndrome	http://www.orpha.net/ORDO/Orphanet_99812	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	LIG4 SYNDROME	http://www.orpha.net/ORDO/Orphanet_99812	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Limb-girdle muscular dystrophy	http://www.orpha.net/ORDO/Orphanet_263	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	limb-girdle muscular dystrophy type 1E	http://www.orpha.net/ORDO/Orphanet_34516	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Limb-girdle muscular dystrophy, type 1F	http://www.orpha.net/ORDO/Orphanet_55595	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Limb-girdle muscular dystrophy, type 1G	http://www.orpha.net/ORDO/Orphanet_55596	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Limb-girdle muscular dystrophy, type 2Q	http://www.orpha.net/ORDO/Orphanet_254361	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	Limb-Mammary Syndrome	http://www.orpha.net/ORDO/Orphanet_69085	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Limb-mammary syndrome	http://www.orpha.net/ORDO/Orphanet_69085	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Linear skin defects with multiple congenital anomalies 1	http://www.orpha.net/ORDO/Orphanet_2556	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Linear skin defects with multiple congenital anomalies 2	http://www.orpha.net/ORDO/Orphanet_2556	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Linear skin defects with multiple congenital anomalies 3	http://www.orpha.net/ORDO/Orphanet_2556	Gautier Koscielny	2017-06-06 12:00:00
@@ -1975,7 +1975,7 @@ Genomics England Panel App		disease	Maple syrup urine disease, type Ib	http://ww
 ClinVar		disease	Marden Walker like syndrome	http://www.orpha.net/ORDO/Orphanet_2460	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Marden-Walker syndrome	http://www.orpha.net/ORDO/Orphanet_2461	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Marfan lipodystrophy syndrome	http://www.orpha.net/ORDO/Orphanet_300382	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	Marfan Syndrome	http://www.orpha.net/ORDO/Orphanet_558	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Marfan syndrome	http://www.orpha.net/ORDO/Orphanet_558	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Marles Greenberg Persaud syndrome	http://www.orpha.net/ORDO/Orphanet_2717	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Marshall syndrome	http://www.orpha.net/ORDO/Orphanet_560	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Marshall-Smith syndrome	http://www.orpha.net/ORDO/Orphanet_561	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2019,7 +2019,7 @@ ClinVar		disease	Megalencephaly cutis marmorata telangiectatica congenita	http:/
 Genomics England Panel App		disease	Megalencephaly-capillary malformation-polymicrogyria syndrome	http://www.orpha.net/ORDO/Orphanet_60040	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME	http://www.orpha.net/ORDO/Orphanet_83473	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME 1	http://www.orpha.net/ORDO/Orphanet_83473	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 2	http://www.orpha.net/ORDO/Orphanet_83473	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus syndrome 2	http://www.orpha.net/ORDO/Orphanet_83473	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome 3	http://www.orpha.net/ORDO/Orphanet_83473	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Megaloblastic anemia due to dihydrofolate reductase deficiency	http://www.orpha.net/ORDO/Orphanet_31965	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Megaloblastic anemia due to dihydrofolate reductase deficiency	http://www.orpha.net/ORDO/Orphanet_319651	Gautier Koscielny	2017-06-06 12:00:00
@@ -2148,7 +2148,7 @@ Genomics England Panel App		disease	Microcephaly 15, primary, autosomal recessiv
 Genomics England Panel App		disease	Microcephaly 17, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 3, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 4, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Microcephaly 5, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Microcephaly 5, Primary, Autosomal Recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 6, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 7, Primary, Autosomal Recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 8, primary, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2263,7 +2263,7 @@ ClinVar		disease	Multicentric osteolysis, nodulosis and arthropathy	http://www.o
 ClinVar		disease	Multicystic renal dysplasia, bilateral	http://www.orpha.net/ORDO/Orphanet_2190	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME	http://www.orpha.net/ORDO/Orphanet_280633	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Multiple congenital anomalies-hypotonia-seizures syndrome 1	http://www.orpha.net/ORDO/Orphanet_280633	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Multiple congenital anomalies-hypotonia-seizures syndrome 2	http://www.orpha.net/ORDO/Orphanet_300496	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	MULTIPLE CONGENITAL ANOMALIES-HYPOTONIA-SEIZURES SYNDROME 2	http://www.orpha.net/ORDO/Orphanet_300496	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Multiple Cutaneous and Mucosal Venous Malformations	http://www.orpha.net/ORDO/Orphanet_2451	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Multiple Endocrine Neoplasia	http://www.orpha.net/ORDO/Orphanet_276161	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Multiple endocrine neoplasia 1	http://www.orpha.net/ORDO/Orphanet_652	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2448,7 +2448,7 @@ ClinVar		disease	Neurodegeneration with optic atrophy, childhood-onset	http://ww
 Genomics England Panel App		disease	Neurofibromatosis Noonan syndrome	http://www.orpha.net/ORDO/Orphanet_638	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Neurofibromatosis, familial spinal	http://www.orpha.net/ORDO/Orphanet_636	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Neurofibromatosis, Type 1	http://www.orpha.net/ORDO/Orphanet_636	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Neurofibromatosis, Type 2	http://www.orpha.net/ORDO/Orphanet_637	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Neurofibromatosis, type 2	http://www.orpha.net/ORDO/Orphanet_637	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Neurofibromatosis-Noonan syndrome	http://www.orpha.net/ORDO/Orphanet_638	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	http://www.orpha.net/ORDO/Orphanet_456312	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	NEURONAL CEROID LIPOFUSCINOSIS	http://www.orpha.net/ORDO/Orphanet_216	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2562,7 +2562,7 @@ ClinVar		disease	Osteochondrodysplasia, complex lethal, symoens-barnes-gistelinc
 Genomics England Panel App		disease	Osteogenesis Imperfecta	http://www.orpha.net/ORDO/Orphanet_666	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Osteogenesis imperfecta, type I	http://www.orpha.net/ORDO/Orphanet_666	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Osteogenesis imperfecta, type III	http://www.orpha.net/ORDO/Orphanet_216812	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Osteogenesis imperfecta, type IV	http://www.orpha.net/ORDO/Orphanet_666	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Osteogenesis Imperfecta, Type IV	http://www.orpha.net/ORDO/Orphanet_666	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Osteogenesis imperfecta, type VI	http://www.orpha.net/ORDO/Orphanet_666	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Osteogenesis imperfecta, type XI	http://www.orpha.net/ORDO/Orphanet_666	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Osteogenesis imperfecta, type xiii	http://www.orpha.net/ORDO/Orphanet_666	Gautier Koscielny	2017-06-06 12:00:00
@@ -2594,7 +2594,7 @@ Genomics England Panel App		disease	Osteoporosis, postmenopausal	http://www.ebi.
 Genomics England Panel App		disease	Osteoporosis-pseudoglioma syndrome	http://www.orpha.net/ORDO/Orphanet_2788	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Osteosarcoma	http://www.ebi.ac.uk/efo/EFO_0000637	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 CTTV-indication		disease	Otitis externa	http://purl.obolibrary.org/obo/HP_0000389	Sirarat Sarntivijai	2015-03-24 12:00:00
-Genomics England Panel App		disease	Otofaciocervical syndrome	http://www.orpha.net/ORDO/Orphanet_2792	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Otofaciocervical Syndrome	http://www.orpha.net/ORDO/Orphanet_2792	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Otospondylomegaepiphyseal dysplasia	http://www.orpha.net/ORDO/Orphanet_1427	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Ovarian cancer	http://www.ebi.ac.uk/efo/EFO_0001075	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Ovarioleukodystrophy	http://www.orpha.net/ORDO/Orphanet_99853	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2631,7 +2631,7 @@ Genomics England Panel App		disease	Parathyroid adenoma	http://www.ebi.ac.uk/efo
 Genomics England Panel App		disease	Parathyroid carcinoma	http://www.ebi.ac.uk/efo/EFO_1000456	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Parietal foramina 1	http://www.orpha.net/ORDO/Orphanet_60015	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Parietal foramina with cleidocranial dysplasia	http://www.orpha.net/ORDO/Orphanet_251290	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Parkes Weber Syndrome	http://www.orpha.net/ORDO/Orphanet_90307	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Parkes Weber syndrome	http://www.orpha.net/ORDO/Orphanet_90307	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Parkinson disease	http://www.ebi.ac.uk/efo/EFO_0002508	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Parkinson disease 1	http://www.orpha.net/ORDO/Orphanet_411602	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Parkinson disease 14	http://www.orpha.net/ORDO/Orphanet_199351	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2680,7 +2680,7 @@ Genomics England Panel App		disease	Periventricular Heterotopia	http://www.orpha
 Genomics England Panel App		disease	Periventricular nodular heterotopia	http://www.orpha.net/ORDO/Orphanet_98892	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Periventricular nodular heterotopia 7	http://www.orpha.net/ORDO/Orphanet_98892	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Perlman syndrome	http://www.orpha.net/ORDO/Orphanet_2849	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Permanent Neonatal diabetes mellitus	http://www.orpha.net/ORDO/Orphanet_99885	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Permanent Neonatal Diabetes Mellitus	http://www.orpha.net/ORDO/Orphanet_99885	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Permanent neonatal diabetes mellitus (PNDM)	http://www.orpha.net/ORDO/Orphanet_99885	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Peroxisomal biogenesis disorders	http://www.orpha.net/ORDO/Orphanet_68373	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Peroxisomal fatty acyl-coa reductase 1 disorder	http://www.orpha.net/ORDO/Orphanet_438178	Gautier Koscielny	2017-06-06 12:00:00
@@ -2777,7 +2777,7 @@ Genomics England Panel App		disease	Pontocerebellar Hypoplasia type 2B	http://ww
 Genomics England Panel App		disease	Pontocerebellar Hypoplasia type 2C	http://www.orpha.net/ORDO/Orphanet_2524	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pontocerebellar hypoplasia type 2D	http://www.orpha.net/ORDO/Orphanet_2524	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pontocerebellar hypoplasia type 4	http://www.orpha.net/ORDO/Orphanet_166063	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Pontocerebellar Hypoplasia type 5	http://www.orpha.net/ORDO/Orphanet_166068	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Pontocerebellar hypoplasia type 5	http://www.orpha.net/ORDO/Orphanet_166068	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pontocerebellar Hypoplasia type 6	http://www.orpha.net/ORDO/Orphanet_166073	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pontocerebellar Hypoplasia type 8	http://www.orpha.net/ORDO/Orphanet_324569	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	pontocerebellar hypoplasia type 9	http://www.orpha.net/ORDO/Orphanet_369920	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3074,7 +3074,7 @@ ClinVar		disease	Severe combined immunodeficiency, autosomal recessive, T cell-n
 Genomics England Panel App		disease	Severe combined immunodeficiency, B cell-negative	http://www.orpha.net/ORDO/Orphanet_331206	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Severe combined immunodeficiency, X-linked	http://www.orpha.net/ORDO/Orphanet_276	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Severe congenital 2, autosomal dominant	http://www.orpha.net/ORDO/Orphanet_486	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Severe congenital neutropenia	http://www.orpha.net/ORDO/Orphanet_42738	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Severe Congenital Neutropenia	http://www.orpha.net/ORDO/Orphanet_42738	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Severe congenital neutropenia X-linked	http://www.orpha.net/ORDO/Orphanet_86788	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Severe immunodeficiency, autosomal recessive, T-cell negative, B-cell negative, NK cell-positive	http://www.orpha.net/ORDO/Orphanet_331206	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Shaheen syndrome	http://www.orpha.net/ORDO/Orphanet_363523	Gautier Koscielny	2017-06-06 12:00:00
@@ -3447,7 +3447,7 @@ Genomics England Panel App		disease	vesicoureteric reflux	http://purl.obolibrary
 CTTV-indication		disease	Vestibular disorder	http://purl.obolibrary.org/obo/HP_0001751	Sirarat Sarntivijai	2015-03-24 12:00:00
 Genomics England Panel App		disease	Vici syndrome	http://www.orpha.net/ORDO/Orphanet_1493	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Visceral heterotaxy 5, autosomal	http://www.orpha.net/ORDO/Orphanet_450	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	visceral myopathy	http://www.orpha.net/ORDO/Orphanet_2604	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Genomics England Panel App		disease	Visceral myopathy	http://www.orpha.net/ORDO/Orphanet_2604	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Visceral myopathy (Megacystis-microcolon intestinal  hypoperistalsis syndrome,  Berdon syndrome)	http://www.orpha.net/ORDO/Orphanet_2604	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Vitamin d hydroxylation-deficient rickets, type 1b	http://www.orpha.net/ORDO/Orphanet_289157	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Vitamin k-dependent clotting factors, combined deficiency of, 1	http://www.orpha.net/ORDO/Orphanet_98434	Gautier Koscielny	2017-06-06 12:00:00
