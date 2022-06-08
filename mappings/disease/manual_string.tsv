@@ -109,6 +109,8 @@ CTTV-indication		disease	Acute coronary syndrome	http://purl.obolibrary.org/obo/
 PheWAS Catalog		disease	Acute cystitis	http://www.ebi.ac.uk/efo/EFO_1000025	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute laryngitis and tracheitis	http://www.ebi.ac.uk/efo/EFO_0007518	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute laryngitis and tracheitis	http://purl.obolibrary.org/obo/MONDO_0004777	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Acute lymphoblastic leukemia	http://www.ebi.ac.uk/efo/EFO_0000220	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Acute myeloid leukemia	http://www.ebi.ac.uk/efo/EFO_0000222	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Acute myeloid leukemia, M6 type	http://www.orpha.net/ORDO/Orphanet_318	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Acute osteomyelitis	http://www.ebi.ac.uk/efo/EFO_0003102	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute pancreatitis	http://www.ebi.ac.uk/efo/EFO_1000652	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -116,6 +118,7 @@ PheWAS Catalog		disease	Acute pericarditis	http://www.ebi.ac.uk/efo/EFO_0007427	
 PheWAS Catalog		disease	Acute periodontitis	http://www.ebi.ac.uk/efo/EFO_0000649	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute pharyngitis	http://www.ebi.ac.uk/efo/EFO_0009657	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute posthemorrhagic anemia	http://www.ebi.ac.uk/efo/EFO_0004272	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Acute promyelocytic leukemia	http://www.ebi.ac.uk/efo/EFO_0000224	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Acute prostatitis	http://www.ebi.ac.uk/efo/EFO_0003830	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Acute reaction to stress	http://www.ebi.ac.uk/efo/EFO_0005223	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Acute renal failure	http://purl.obolibrary.org/obo/HP_0001919	Sirarat Sarntivijai	2015-03-24 12:00:00
@@ -129,7 +132,9 @@ Genomics England Panel App		disease	Adams-Oliver syndrome 1	http://www.orpha.net
 Genomics England Panel App		disease	Adams-Oliver syndrome 2	http://www.orpha.net/ORDO/Orphanet_974	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	addictive psychostimulation	http://www.ebi.ac.uk/efo/EFO_0003890	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	Adenine phosphoribosyltransferase deficiency	http://www.orpha.net/ORDO/Orphanet_976	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Adenoid cystic carcinoma	http://www.ebi.ac.uk/efo/EFO_0000231	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Adjustment reaction	http://purl.obolibrary.org/obo/MONDO_0003265	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Adrenal adenoma	http://www.ebi.ac.uk/efo/EFO_0003104	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Adrenal cortical steroids causing adverse effects in therapeutic use	http://www.ebi.ac.uk/efo/EFO_0009658	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Adrenal hyperfunction	http://www.ebi.ac.uk/efo/EFO_1000797	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Adrenal hypofunction	http://www.ebi.ac.uk/efo/EFO_0009491	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -266,6 +271,7 @@ CTTV-indication		disease	Anal fistula	http://purl.obolibrary.org/obo/HP_0010447	
 Target safety		disease	analgesia	http://www.ebi.ac.uk/efo/EFO_1001484	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Anaphylactic shock NOS	http://purl.obolibrary.org/obo/MONDO_0100053	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Anaphylaxis	http://purl.obolibrary.org/obo/HP_0100845	Sirarat Sarntivijai	2015-03-24 12:00:00
+Cancer Biomarkers		disease	Anaplastic oligodendroglioma	http://www.ebi.ac.uk/efo/EFO_0002501	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	ANDERSEN SYNDROME	http://www.orpha.net/ORDO/Orphanet_37553	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	androgenicity females	http://www.ebi.ac.uk/efo/EFO_0009850	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	anemia	http://www.ebi.ac.uk/efo/EFO_0004272	Irene Lopez	2021-11-02 12:00:00
@@ -287,6 +293,7 @@ Genomics England Panel App		disease	Angelman syndrome	http://www.orpha.net/ORDO/
 Target safety		disease	angina pectoris	http://www.ebi.ac.uk/efo/EFO_0003913	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Angiodysplasia of intestine (without mention of hemorrhage)	http://purl.obolibrary.org/obo/HP_0000471	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps	http://www.orpha.net/ORDO/Orphanet_73229	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Angiosarcoma	http://www.ebi.ac.uk/efo/EFO_0003968	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Aniridia	http://www.orpha.net/ORDO/Orphanet_250923	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Anisometropia	http://purl.obolibrary.org/obo/HP_0012803	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Ankylosing spondylitis	http://www.ebi.ac.uk/efo/EFO_0003898	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -325,6 +332,7 @@ PheWAS Catalog		disease	Anxiety, phobic and dissociative disorders	http://www.eb
 PheWAS Catalog		disease	Anxiety, phobic and dissociative disorders	http://purl.obolibrary.org/obo/HP_0012075	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	anxiolysis	http://www.ebi.ac.uk/efo/EFO_0009874	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	anxiolytic effects	http://www.ebi.ac.uk/efo/EFO_0009874	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Any cancer type	http://www.ebi.ac.uk/efo/EFO_0000311	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Aortic aneurysm	http://www.ebi.ac.uk/efo/EFO_0001666	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Aortic aneurysm familial thoracic 6	http://www.orpha.net/ORDO/Orphanet_91387	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Aortic aneurysm, familial thoracic 4	http://www.orpha.net/ORDO/Orphanet_91387	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -435,6 +443,7 @@ ClinVar		disease	Atrioventricular septal defect and common atrioventricular junc
 PheWAS Catalog		disease	Atrophic gastritis	http://www.ebi.ac.uk/efo/EFO_1000826	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Atrophy of edentulous alveolar ridge	http://www.ebi.ac.uk/efo/EFO_1000096	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Attention deficit hyperactivity disorder	http://www.ebi.ac.uk/efo/EFO_0003888	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Atypical chronic myeloid leukemia	http://purl.obolibrary.org/obo/MONDO_0020312	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Atypical mycobacteriosis, familial, X-linked 2	http://www.orpha.net/ORDO/Orphanet_319605	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Auditory neuropathy, autosomal dominant, 1	http://www.orpha.net/ORDO/Orphanet_90635	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Auditory neuropathy, autosomal recessive, 1	http://www.orpha.net/ORDO/Orphanet_90636	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -462,6 +471,7 @@ Genomics England Panel App		disease	Autosomal recessive spinocerebellar ataxia 1
 ClinVar		disease	Autosomal recessive woolly hair 3	http://www.orpha.net/ORDO/Orphanet_170	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Avascular necrosis of the head of femur	http://www.orpha.net/ORDO/Orphanet_86820	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Axial Spondylometaphyseal Dysplasia	http://www.orpha.net/ORDO/Orphanet_168549	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	B cell lymphoma	http://purl.obolibrary.org/obo/HP_0012191	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	B-cell expansion with NFKB and T-cell anergy	http://www.orpha.net/ORDO/Orphanet_464336	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Back pain	http://purl.obolibrary.org/obo/HP_0003418	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Bacteremia	http://www.ebi.ac.uk/efo/EFO_0003033	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -503,7 +513,7 @@ Genomics England Panel App		disease	Bartter syndrome, type 1	http://www.orpha.ne
 Genomics England Panel App		disease	Bartter syndrome, type 2	http://www.orpha.net/ORDO/Orphanet_93604	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Bartter syndrome, type 3	http://www.orpha.net/ORDO/Orphanet_93605	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Bartter syndrome, type 5, antenatal, transient	http://www.orpha.net/ORDO/Orphanet_112	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	Basal cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0004193	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Basal cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0004193	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Basal cell carcinoma 7	http://www.ebi.ac.uk/efo/EFO_0004193	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Basal cell nevus syndrome	http://www.orpha.net/ORDO/Orphanet_377	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Basal ganglia calcification idiopathic 4	http://www.orpha.net/ORDO/Orphanet_1980	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -557,9 +567,11 @@ ClinVar		disease	Bilateral right-sidedness sequence	http://www.orpha.net/ORDO/Or
 ClinVar		disease	Bile acid malabsorption, primary	http://www.ebi.ac.uk/efo/EFO_0004266	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Bile acid synthesis defect, congenital, 1	http://www.orpha.net/ORDO/Orphanet_79301	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Bile acid synthesis defect, congenital, 2	http://www.orpha.net/ORDO/Orphanet_79303	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Biliary tract cancer	http://www.ebi.ac.uk/efo/EFO_0003891	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	BIOTINIDASE DEFICIENCY	http://www.orpha.net/ORDO/Orphanet_79241	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Bipolar	http://www.ebi.ac.uk/efo/EFO_0000289	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Birk Barel mental retardation dysmorphism syndrome	http://www.orpha.net/ORDO/Orphanet_166108	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Bladder carcinoma	http://www.ebi.ac.uk/efo/EFO_0000292	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Bladder neck obstruction	http://www.ebi.ac.uk/efo/EFO_1000840	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Blau syndrome	http://www.orpha.net/ORDO/Orphanet_90340	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 CTTV-indication		disease	Blepharitis	http://purl.obolibrary.org/obo/HP_0000498	Sirarat Sarntivijai	2015-03-24 12:00:00
@@ -602,6 +614,7 @@ ClinVar		disease	Branched-chain keto acid dehydrogenase kinase deficiency	http:/
 Genomics England Panel App		disease	Branchiooculofacial syndrome	http://www.orpha.net/ORDO/Orphanet_1297	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Branchiootic syndrome 1	http://www.orpha.net/ORDO/Orphanet_52429	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Branchiootorenal syndrome 2	http://www.orpha.net/ORDO/Orphanet_107	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Breast adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000304	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Breast cancer	http://www.ebi.ac.uk/efo/EFO_0000305	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Breast cancer [female]	http://www.ebi.ac.uk/efo/EFO_0000305	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Breast cancer, early-onset	http://www.ebi.ac.uk/efo/EFO_0000305	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -887,8 +900,10 @@ PheWAS Catalog		disease	Certain early complications of trauma or procedure	http:
 PheWAS Catalog		disease	Cervical cancer	http://purl.obolibrary.org/obo/MONDO_0002974	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cervical cancer and dysplasia	http://www.ebi.ac.uk/efo/EFO_1000910	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cervical cancer and dysplasia	http://purl.obolibrary.org/obo/MONDO_0002974	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Cervical carcinoma	http://www.ebi.ac.uk/efo/EFO_0001061	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Cervical intraepithelial neoplasia [CIN] [Cervical dysplasia]	http://www.ebi.ac.uk/efo/EFO_1000165	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cervical radiculitis	http://purl.obolibrary.org/obo/MONDO_0021765	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Cervical squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_1000172	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Cervicitis and endocervicitis	http://purl.obolibrary.org/obo/HP_0030160	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cervicitis and endocervicitis	http://purl.obolibrary.org/obo/MONDO_0003632	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cervicocranial/Cervicobrachial syndrome	http://www.ebi.ac.uk/efo/EFO_0000618	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -949,6 +964,7 @@ Genomics England Panel App		disease	CHARGE syndrome	http://www.orpha.net/ORDO/Or
 Genomics England Panel App		disease	Cherubism	http://www.orpha.net/ORDO/Orphanet_184	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	CHIME syndrome	http://www.orpha.net/ORDO/Orphanet_3474	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Choanal atresia and lymphedema	http://www.orpha.net/ORDO/Orphanet_99141	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Cholangiocarcinoma	http://www.ebi.ac.uk/efo/EFO_0005221	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Cholangitis	http://purl.obolibrary.org/obo/HP_0030151	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Cholecystitis	http://purl.obolibrary.org/obo/HP_0001082	Sirarat Sarntivijai	2015-03-24 12:00:00
 PheWAS Catalog		disease	Cholecystitis without cholelithiasis	http://www.ebi.ac.uk/efo/EFO_1000790	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -1009,7 +1025,9 @@ PheWAS Catalog		disease	Chronic kidney disease, Stage I or II	http://www.ebi.ac.
 PheWAS Catalog		disease	Chronic laryngitis	http://purl.obolibrary.org/obo/MONDO_0002647	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Chronic liver disease and cirrhosis	http://www.ebi.ac.uk/efo/EFO_0001421	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Chronic liver disease and cirrhosis	http://www.ebi.ac.uk/efo/EFO_0001422	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Chronic lymphocytic leukemia	http://www.ebi.ac.uk/efo/EFO_0000095	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Chronic lymphocytic thyroiditis	http://www.ebi.ac.uk/efo/EFO_0003779	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Chronic myeloid leukemia	http://www.ebi.ac.uk/efo/EFO_0000339	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Chronic obstructive asthma	http://www.ebi.ac.uk/efo/EFO_0009759	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Chronic obstructive asthma with exacerbation	http://www.ebi.ac.uk/efo/EFO_0009759	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Chronic osteomyelitis	http://www.ebi.ac.uk/efo/EFO_0003102	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -1104,6 +1122,7 @@ Genomics England Panel App		disease	Coloboma, ocular	http://www.orpha.net/ORDO/O
 ClinVar		disease	Coloboma, ocular, with or without hearing impairment, cleft lip/palate, and/or mental retardation	http://www.orpha.net/ORDO/Orphanet_1473	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Colon cancer	http://www.ebi.ac.uk/efo/EFO_0004288	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Colorblindness, partial, deutan series	http://www.ebi.ac.uk/efo/EFO_0005581	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Colorectal adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000365	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Colorectal cancer, hereditary nonpolyposis, type 1	http://www.orpha.net/ORDO/Orphanet_144	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Colorectal cancer, hereditary nonpolyposis, type 2	http://www.orpha.net/ORDO/Orphanet_144	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -1342,6 +1361,7 @@ PheWAS Catalog		disease	Crystal arthropathies	http://www.ebi.ac.uk/efo/EFO_10009
 ClinVar		disease	Culler-Jones syndrome	http://www.orpha.net/ORDO/Orphanet_420584	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Currarino syndrome	http://www.orpha.net/ORDO/Orphanet_1552	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Curvature of spine	http://purl.obolibrary.org/obo/HP_0000925	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Cutaneous melanoma	http://www.ebi.ac.uk/efo/EFO_0000389	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Cutaneous telangiectasia and cancer syndrome, familial	http://www.orpha.net/ORDO/Orphanet_313846	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Cutis laxa, autosomal dominant 3	http://www.orpha.net/ORDO/Orphanet_90348	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	CVID	http://www.orpha.net/ORDO/Orphanet_1572	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -1573,6 +1593,7 @@ Genomics England Panel App		disease	Denys-Drash syndrome	http://www.orpha.net/OR
 Target safety		disease	depression	http://purl.obolibrary.org/obo/MONDO_0002050	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Derangement of joint, non-traumatic	http://www.ebi.ac.uk/efo/EFO_1000999	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Dermatitis due to solar radiation	http://purl.obolibrary.org/obo/MONDO_0002406	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Dermatofibrosarcoma	http://www.orpha.net/ORDO/Orphanet_31112	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Dermatofibrosis lenticularis disseminata	http://www.orpha.net/ORDO/Orphanet_1306	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Dermatomycoses	http://purl.obolibrary.org/obo/MONDO_0002040	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Dermatomyositis and Polymyositis	http://www.ebi.ac.uk/efo/EFO_0000398	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -1893,6 +1914,7 @@ PheWAS Catalog		disease	Encounter for long-term (current) use of aspirin	http://
 PheWAS Catalog		disease	End stage renal disease	http://www.ebi.ac.uk/efo/EFO_0009909	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Endocarditis	http://www.ebi.ac.uk/efo/EFO_0000465	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Endocrine-cerebroosteodysplasia	http://www.orpha.net/ORDO/Orphanet_199332	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Endometrial carcinoma	http://www.ebi.ac.uk/efo/EFO_1001512	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Endometrial hyperplasia	http://purl.obolibrary.org/obo/MONDO_0041161	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	endometrial thickening	http://purl.obolibrary.org/obo/MONDO_0041161	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Endometriosis	http://www.ebi.ac.uk/efo/EFO_0001065	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -1901,6 +1923,7 @@ ClinVar		disease	Enterokinase deficiency	http://www.orpha.net/ORDO/Orphanet_1686
 PheWAS Catalog		disease	Enthesopathy	http://www.ebi.ac.uk/efo/EFO_0009666	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Enuresis	http://purl.obolibrary.org/obo/HP_0010677	Sirarat Sarntivijai	2015-03-24 12:00:00
 PheWAS Catalog		disease	Eosinophilia	http://purl.obolibrary.org/obo/HP_0001880	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Eosinophilic chronic leukemia	http://ww.ebi.ac.uk/efo/EFO_1000178	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Ependymoma	http://www.ebi.ac.uk/efo/EFO_1000028	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Epidermolysis bullosa simplex with migratory circinate erythema	http://www.orpha.net/ORDO/Orphanet_158681	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Epidermolysis bullosa simplex with mottled pigmentation	http://www.orpha.net/ORDO/Orphanet_79397	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -1974,6 +1997,7 @@ ClinVar		disease	Episodic pain syndrome, familial, 3	http://www.orpha.net/ORDO/O
 ClinVar		disease	Episodic pain syndrome, familial, 3	http://www.orpha.net/ORDO/Orphanet_391392	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Epistaxis or throat hemorrage	http://www.ebi.ac.uk/efo/EFO_0003895	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Epistaxis or throat hemorrage	http://purl.obolibrary.org/obo/MP_0001914	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Erdheim Chester histiocytosis	http://www.ebi.ac.uk/efo/EFO_1000926	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Erectile dysfunction [ED]	http://www.ebi.ac.uk/efo/EFO_0004234	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Erythematosquamous dermatosis	http://www.ebi.ac.uk/efo/EFO_1000695	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Erythematous conditions	http://purl.obolibrary.org/obo/HP_0010783	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2094,6 +2118,7 @@ ClinVar		disease	Febrile seizures, familial, 4	http://purl.obolibrary.org/obo/HP
 Genomics England Panel App		disease	Feingold syndrome	http://www.orpha.net/ORDO/Orphanet_391641	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Feingold syndrome 1	http://www.orpha.net/ORDO/Orphanet_1305	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Feingold syndrome 1	http://www.orpha.net/ORDO/Orphanet_391641	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Female germ cell tumor	http://www.ebi.ac.uk/efo/EFO_1000419	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Femoral hernia	http://www.ebi.ac.uk/efo/EFO_1001791	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Fetal akinesia deformation sequence	http://www.orpha.net/ORDO/Orphanet_994	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Fever of unknown origin	http://www.ebi.ac.uk/efo/EFO_0003952	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2104,6 +2129,7 @@ Genomics England Panel App		disease	Fibrochondrogenesis 1	http://www.orpha.net/O
 Genomics England Panel App		disease	Fibrochondrogenesis 2	http://www.orpha.net/ORDO/Orphanet_2021	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Fibrodysplasia ossificans progressiva	http://www.orpha.net/ORDO/Orphanet_337	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	fibrotic valvular heart disease	http://www.ebi.ac.uk/efo/EFO_0009551	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Fibrous histiocytoma	http://www.ebi.ac.uk/efo/EFO_0005561	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Fibular hypoplasia and complex brachydactyly	http://www.orpha.net/ORDO/Orphanet_2639	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Filippi syndrome	http://www.orpha.net/ORDO/Orphanet_3255	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	First degree AV block	http://purl.obolibrary.org/obo/HP_0011705	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2176,12 +2202,14 @@ PheWAS Catalog		disease	Gangrene	http://www.ebi.ac.uk/efo/EFO_0008574	Eliseo Pap
 Genomics England Panel App		disease	Gardner Syndrome	http://www.orpha.net/ORDO/Orphanet_79665	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	gas	http://www.ebi.ac.uk/efo/EFO_0009669	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	gastric bleeding	http://www.ebi.ac.uk/efo/EFO_0009879	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Gastric carcinoma	http://www.ebi.ac.uk/efo/EFO_0000178	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	gastric emptying	http://purl.obolibrary.org/obo/GO_0035483	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Gastric ulcer	http://purl.obolibrary.org/obo/HP_0002592	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Gastritis and duodenitis	http://www.ebi.ac.uk/efo/EFO_0000217	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Gastritis and duodenitis	http://purl.obolibrary.org/obo/MONDO_0004627	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Gastritis and duodenitis, NOS	http://www.ebi.ac.uk/efo/EFO_0000217	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Gastritis and duodenitis, NOS	http://purl.obolibrary.org/obo/MONDO_0004627	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Gastroesophageal junction adenocarcinoma	http://purl.obolibrary.org/obo/NCIT_C9296	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Gastrointestinal complications	http://www.ebi.ac.uk/efo/EFO_0010282	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	gastrointestinal cramps	http://purl.obolibrary.org/obo/HP_0032155	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Gastrointestinal hemorrhage	http://purl.obolibrary.org/obo/HP_0002239	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2190,6 +2218,7 @@ PheWAS Catalog		disease	Gastrointestinal malfunction arising from mental factors
 PheWAS Catalog		disease	Gastrointestinal malfunction arising from mental factors	http://purl.obolibrary.org/obo/MONDO_0002025	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	gastrointestinal side effects	http://purl.obolibrary.org/obo/HP_0012719	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	gastrointestinal smooth muscle constriction	http://purl.obolibrary.org/obo/GO_0014831	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Gastrointestinal stromal	http://www.orpha.net/ORDO/Orphanet_44890	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Gastrointestinal stromal tumor	http://www.orpha.net/ORDO/Orphanet_44890	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	gastrointestinal symptoms	http://purl.obolibrary.org/obo/HP_0012719	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Gastroparesis	http://www.ebi.ac.uk/efo/EFO_1000948	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2216,6 +2245,7 @@ Genomics England Panel App		disease	Ghosal syndrome	http://www.orpha.net/ORDO/Or
 ClinVar		disease	Giant axonal neuropathy 2, autosomal dominant	http://www.orpha.net/ORDO/Orphanet_401964	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Giant axonal neuropathy-1	http://www.orpha.net/ORDO/Orphanet_643	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Giant cell arteritis	http://www.ebi.ac.uk/efo/EFO_0009011	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Giant cell astrocytoma	http://www.ebi.ac.uk/efo/EFO_0000272	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Gillespie syndrome	http://www.orpha.net/ORDO/Orphanet_1065	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Gingival and periodontal diseases	http://www.ebi.ac.uk/efo/EFO_0009670	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Gingival and periodontal diseases	http://purl.obolibrary.org/obo/MONDO_0002635	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2230,8 +2260,10 @@ ClinVar		disease	Glaucoma 1, open angle, G	http://www.ebi.ac.uk/efo/EFO_0004190	
 ClinVar		disease	Glaucoma 1, open angle, O	http://www.ebi.ac.uk/efo/EFO_0004190	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Glaucoma 3, primary congenital, d	http://www.orpha.net/ORDO/Orphanet_98976	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	GLAUCOMA 3, PRIMARY CONGENITAL, E	http://www.orpha.net/ORDO/Orphanet_98976	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	Glioblastoma	http://www.ebi.ac.uk/efo/EFO_0000519	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Glioblastoma	http://www.ebi.ac.uk/efo/EFO_0000519	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Glioblastoma multiforme	http://www.ebi.ac.uk/efo/EFO_0000519	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Glioma	http://www.ebi.ac.uk/efo/EFO_0000326	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Glioma	http://www.ebi.ac.uk/efo/EFO_0005543	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Glioma susceptibility 1	http://www.ebi.ac.uk/efo/EFO_0000632	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Glioma susceptibility 1	http://purl.obolibrary.org/obo/MONDO_0024498	Irene López	2021-01-19 12:00:00
 ClinVar		disease	Glioma susceptibility 1	http://www.orpha.net/ORDO/Orphanet_182067	Gautier Koscielny	2017-06-06 12:00:00
@@ -2319,6 +2351,7 @@ Target safety		disease	gynecomastia	http://purl.obolibrary.org/obo/HP_0000771	Ir
 PheWAS Catalog		disease	H. pylori	http://www.ebi.ac.uk/efo/EFO_1000961	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Haemolytic uraemic syndrome	http://purl.obolibrary.org/obo/HP_0005575	Sirarat Sarntivijai	2015-03-24 12:00:00
 Genomics England Panel App		disease	Haim-Munk syndrome	http://www.orpha.net/ORDO/Orphanet_2342	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Hairy Cell leukemia	http://www.ebi.ac.uk/efo/EFO_1000956	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Hajdu-Cheney (Serpentine fibula polycystic kidney) syndrome	http://www.orpha.net/ORDO/Orphanet_955	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	hallucinations	http://purl.obolibrary.org/obo/HP_0000738	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Hallux rigidus	http://purl.obolibrary.org/obo/HP_0025004	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2331,6 +2364,8 @@ ClinVar		disease	Hartsfield syndrome	http://www.orpha.net/ORDO/Orphanet_2117	Gau
 Genomics England Panel App		disease	Hay-Wells syndrome	http://www.orpha.net/ORDO/Orphanet_1071	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Hay-Wells syndrome of ectodermal dysplasia	http://www.orpha.net/ORDO/Orphanet_1071	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Hb SS disease	http://www.orpha.net/ORDO/Orphanet_232	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Head and neck cancer	http://www.ebi.ac.uk/efo/EFO_0006859	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Head and neck squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0000181	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	headache	http://purl.obolibrary.org/obo/HP_0002315	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	headaches	http://purl.obolibrary.org/obo/HP_0002315	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	hearing impairment	http://www.ebi.ac.uk/efo/EFO_0004238	Irene Lopez	2021-11-02 12:00:00
@@ -2348,6 +2383,7 @@ PheWAS Catalog		disease	Hemangioma and lymphangioma, any site	http://www.ebi.ac.
 PheWAS Catalog		disease	Hemangioma and lymphangioma, any site	http://purl.obolibrary.org/obo/MONDO_0002013	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Hemangioma, capillary infantile	http://www.orpha.net/ORDO/Orphanet_91415	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Hematemesis	http://purl.obolibrary.org/obo/HP_0002248	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Hematologic malignancies	http://www.ebi.ac.uk/efo/EFO_0005803	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Hematuria	http://purl.obolibrary.org/obo/HP_0000790	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Hemiplegia	http://purl.obolibrary.org/obo/HP_0002301	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Hemochromatosis	http://www.ebi.ac.uk/efo/EFO_0006513	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2381,6 +2417,7 @@ Genomics England Panel App		disease	HENNEKAM LYMPHANGIECTASIA-LYMPHEDEMA SYNDROM
 Genomics England Panel App		disease	Hennekam lymphangiectasia-lymphedema syndrome 1	http://www.orpha.net/ORDO/Orphanet_2136	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Hennekam lymphangiectasia-lymphedema syndrome 2	http://www.orpha.net/ORDO/Orphanet_2136	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Hepatic adenomas, familial	http://www.ebi.ac.uk/efo/EFO_0000762	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Hepatic carcinoma	http://www.ebi.ac.uk/efo/EFO_0000182	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Hepatic lipase deficiency	http://www.orpha.net/ORDO/Orphanet_140905	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Hepatocellular carcinoma	http://www.ebi.ac.uk/efo/EFO_0000182	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Hepatomegaly	http://purl.obolibrary.org/obo/HP_0002240	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2456,6 +2493,7 @@ Genomics England Panel App		disease	Hydrolethalus syndrome	http://www.ebi.ac.uk/
 Genomics England Panel App		disease	Hydrolethalus syndrome 2	http://www.ebi.ac.uk/efo/EFO_1000033	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Hydronephrosis	http://www.ebi.ac.uk/efo/EFO_0005562	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Hydroxykynureninuria	http://www.orpha.net/ORDO/Orphanet_79155	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Hyper eosinophilic advanced snydrome	http://www.ebi.ac.uk/efo/EFO_1001467	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Hyper IgE Syndrome	http://www.orpha.net/ORDO/Orphanet_331223	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Hyper IgE syndromes	http://www.orpha.net/ORDO/Orphanet_331223	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Hyper-IgD syndrome	http://www.orpha.net/ORDO/Orphanet_343	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -2823,6 +2861,7 @@ PheWAS Catalog		disease	Inflammatory disease of cervix, vagina, and vulva	http:/
 PheWAS Catalog		disease	Inflammatory disease of cervix, vagina, and vulva	http://purl.obolibrary.org/obo/HP_0030160	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Inflammatory diseases of female pelvic organs	http://www.ebi.ac.uk/efo/EFO_1001388	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Inflammatory diseases of prostate	http://www.ebi.ac.uk/efo/EFO_0003830	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Inflammatory myofibroblastic	http://www.orpha.net/ORDO/Orphanet_178342	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Inflammatory skin and bowel disease, neonatal 1	http://www.orpha.net/ORDO/Orphanet_294023	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Inflammatory skin and bowel disease, neonatal, 2	http://www.orpha.net/ORDO/Orphanet_294023	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Influenza	http://www.ebi.ac.uk/efo/EFO_0007328	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -2965,6 +3004,7 @@ PheWAS Catalog		disease	Lack of normal physiological development	http://purl.obo
 ClinVar		disease	Lacrimal duct defect	http://www.orpha.net/ORDO/Orphanet_451612	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	lacrimation	http://purl.obolibrary.org/obo/HP_0000632	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	Lactase deficiency, congenital	http://www.orpha.net/ORDO/Orphanet_53690	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Lagerhans cell histiocytosis	http://www.ebi.ac.uk/efo/EFO_1000318	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Lamb-shaffer syndrome	http://www.orpha.net/ORDO/Orphanet_313884	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Lamb-shaffer syndrome	http://www.orpha.net/ORDO/Orphanet_313892	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Langer mesomelic dysplasia	http://www.orpha.net/ORDO/Orphanet_2632	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3028,7 +3068,7 @@ Genomics England Panel App		disease	Lethal congenital contracture syndrome 5	htt
 Genomics England Panel App		disease	Lethal congenital contracture syndrome 7	http://www.orpha.net/ORDO/Orphanet_294965	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lethal congenital contracture syndrome 9	http://www.orpha.net/ORDO/Orphanet_294965	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Lethal Kniest-like syndrome	http://www.orpha.net/ORDO/Orphanet_1865	Gautier Koscielny	2017-06-06 12:00:00
-PheWAS Catalog		disease	Leukemia	http://www.ebi.ac.uk/efo/EFO_0000565	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Leukemia	http://www.ebi.ac.uk/efo/EFO_0000565	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Leukemia, acute lymphoblastic	http://www.ebi.ac.uk/efo/EFO_0000220	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Leukemia, acute myeloid	http://www.ebi.ac.uk/efo/EFO_0000222	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Leukemia, acute myeloid,  (1)	http://www.ebi.ac.uk/efo/EFO_0000222	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3083,6 +3123,7 @@ PheWAS Catalog		disease	Lipoma	http://www.ebi.ac.uk/efo/EFO_0000759	Eliseo Papa,
 PheWAS Catalog		disease	Lipoprotein disorders	http://www.ebi.ac.uk/efo/EFO_0000589	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Lipoprotein glomerulopathy	http://www.orpha.net/ORDO/Orphanet_329481	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lipoprotein lipase deficiency	http://www.orpha.net/ORDO/Orphanet_309015	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Liposarcoma	http://www.ebi.ac.uk/efo/EFO_0000569	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Lipoyltransferase 1 deficiency	http://www.orpha.net/ORDO/Orphanet_401862	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lissencephaly 1	http://www.orpha.net/ORDO/Orphanet_102009	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lissencephaly 2	http://www.orpha.net/ORDO/Orphanet_89844	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3118,6 +3159,8 @@ PheWAS Catalog		disease	Loss of teeth or edentulism	http://www.ebi.ac.uk/efo/EFO
 Genomics England Panel App		disease	Lowe syndrome	http://www.orpha.net/ORDO/Orphanet_534	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Lower gastrointestinal congenital anomalies	http://purl.obolibrary.org/obo/MONDO_0000839	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lump or mass in breast	http://purl.obolibrary.org/obo/HP_0032408	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Lung adenocarcinoma	http://www.ebi.ac.ukefo/EFO_0000571	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Lung carcinoma	http://www.ebi.ac.uk/efo/EFO_0001071	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Lung disease due to external agents	http://www.ebi.ac.uk/efo/EFO_0003818	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lung involvement in conditions classified elsewhere	http://www.ebi.ac.uk/efo/EFO_0003818	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lupus	http://www.ebi.ac.uk/efo/EFO_0002690	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -3125,12 +3168,14 @@ PheWAS Catalog		disease	Lupus erythematosus	http://purl.obolibrary.org/obo/MONDO
 Target safety		disease	lupus-like syndrome	http://purl.obolibrary.org/obo/MONDO_0016474	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Lyme disease	http://www.ebi.ac.uk/efo/EFO_0008510	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lymphadenitis	http://purl.obolibrary.org/obo/HP_0002840	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Lymphangioleiomyomatosis	http://www.orpha.net/ORDO/Orphanet_538	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Lymphedema, hereditary, IC	http://www.orpha.net/ORDO/Orphanet_79452	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Lymphedema, hereditary, ID	http://www.orpha.net/ORDO/Orphanet_79452	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Lymphedema, primary, with myelodysplasia	http://www.orpha.net/ORDO/Orphanet_3226	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Lymphedema-distichiasis syndrome	http://www.orpha.net/ORDO/Orphanet_33001	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Lymphoid leukemia	http://www.ebi.ac.uk/efo/EFO_0004289	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lymphoid leukemia, chronic	http://www.ebi.ac.uk/efo/EFO_0004289	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Lymphoma	http://www.ebi.ac.uk/efo/EFO_0000574	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Lymphoproliferative syndrome 2	http://www.orpha.net/ORDO/Orphanet_238510	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lymphoproliferative syndrome, X-linked, 1	http://www.orpha.net/ORDO/Orphanet_2442	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lymphoproliferative syndrome, X-linked, 2	http://www.orpha.net/ORDO/Orphanet_2442	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3165,7 +3210,9 @@ Genomics England Panel App		disease	Majeed syndrome (Chronic recurrent multifoca
 PheWAS Catalog		disease	Major depressive disorder	http://purl.obolibrary.org/obo/MONDO_0002009	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Malaise and fatigue	http://www.ebi.ac.uk/efo/EFO_0009641	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Malaise and fatigue	http://purl.obolibrary.org/obo/HP_0012378	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Male germ cell tumor	http://www.ebi.ac.uk/efo/EFO_0000514	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Male infertility and abnormal spermatozoa	http://www.orpha.net/ORDO/Orphanet_399771	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Malignant astrocytoma	http://www.ebi.ac.uk/efo/EFO_0000272	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Malignant hyperthermia susceptibility 1	http://www.orpha.net/ORDO/Orphanet_99741	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Malignant hyperthermia susceptibility 5	http://www.orpha.net/ORDO/Orphanet_423	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Malignant neoplasm of bladder	http://purl.obolibrary.org/obo/MONDO_0001187	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -3183,7 +3230,9 @@ PheWAS Catalog		disease	Malignant neoplasm of rectum, rectosigmoid junction, and
 PheWAS Catalog		disease	Malignant neoplasm of renal pelvis	http://www.ebi.ac.uk/efo/EFO_0005582	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Malignant neoplasm of uterus	http://purl.obolibrary.org/obo/MONDO_0002715	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Malignant neoplasm, other	http://www.ebi.ac.uk/efo/EFO_0000311	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Malignant peripheral nerve sheat tumor	http://www.ebi.ac.uk/efo/EFO_0000760	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Malignant peripheral nerve sheath tumor	http://www.ebi.ac.uk/efo/EFO_0000760	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Malignant rhabdoid tumor	http://www.ebi.ac.uk/efo/EFO_0005701	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Malignant tumor of esophagus	http://www.orpha.net/ORDO/Orphanet_99977	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Malignant tumor of testis	http://www.ebi.ac.uk/efo/EFO_1000566	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Malignant tumor of testis	http://www.orpha.net/ORDO/Orphanet_363483	Gautier Koscielny	2017-06-06 12:00:00
@@ -3206,6 +3255,7 @@ Genomics England Panel App		disease	Mandibulofacial dysostosis, Guion-Almeida ty
 ClinVar		disease	Mandibulofacial dysostosis, Treacher Collins type, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_861	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Manlignant and unknown neoplasms of brain and nervous system	http://www.ebi.ac.uk/efo/EFO_0007392	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Manlignant and unknown neoplasms of brain and nervous system	http://purl.obolibrary.org/obo/MONDO_0001657	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Mantle cell lymphoma	http://www.ebi.ac.uk/efo/EFO_1001469	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	many d agonists may cause seizures and convulsions at high doses, although not all d agonists produce this effect	http://www.ebi.ac.uk/efo/EFO_0009853	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	MAPLE SYRUP URINE DISEASE	http://www.orpha.net/ORDO/Orphanet_511	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Maple syrup urine disease, mild variant	http://www.orpha.net/ORDO/Orphanet_511	Gautier Koscielny	2017-06-06 12:00:00
@@ -3259,9 +3309,10 @@ ClinVar		disease	MECP2 duplication syndrome	http://www.orpha.net/ORDO/Orphanet_9
 Genomics England Panel App		disease	MEDIUM CHAIN ACYL-COENZYME A DEHYDROGENASE DEFICIENCY	http://www.orpha.net/ORDO/Orphanet_42	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Medullary cystic kidney disease 1	http://www.orpha.net/ORDO/Orphanet_34149	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Medullary cystic kidney disease 2	http://www.orpha.net/ORDO/Orphanet_34149	Gautier Koscielny	2017-06-06 12:00:00
-Genomics England Panel App		disease	Medulloblastoma	http://www.ebi.ac.uk/efo/EFO_0002939	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Medulloblastoma	http://www.ebi.ac.uk/efo/EFO_0002939	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Medulloblastoma, desmoplastic	http://www.ebi.ac.uk/efo/EFO_0002939	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Meesmann corneal dystrophy	http://www.orpha.net/ORDO/Orphanet_98954	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Megakaryoblastic leukemia	http://www.ebi.ac.uk/ef/EFO_1001932	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Megalencephalic leukoencephalopathy with subcortical cysts 2A	http://www.orpha.net/ORDO/Orphanet_2478	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Megalencephalic leukoencephalopathy with subcortical cysts 2b, remitting, with or without mental retardation	http://www.orpha.net/ORDO/Orphanet_2478	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Megalencephaly cutis marmorata telangiectatica congenita	http://www.orpha.net/ORDO/Orphanet_60040	Gautier Koscielny	2017-06-06 12:00:00
@@ -3292,7 +3343,7 @@ PheWAS Catalog		disease	Memory loss	http://www.ebi.ac.uk/efo/EFO_0001072	Eliseo 
 Genomics England Panel App		disease	MEN2B	http://www.orpha.net/ORDO/Orphanet_247709	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	MEND syndrome	http://www.orpha.net/ORDO/Orphanet_401973	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Meniere's disease	http://www.ebi.ac.uk/efo/EFO_0006862	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-Genomics England Panel App		disease	Meningioma	http://www.orpha.net/ORDO/Orphanet_2495	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Meningioma	http://www.orpha.net/ORDO/Orphanet_2495	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Meningioma, familial	http://www.orpha.net/ORDO/Orphanet_263662	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Meningitis	http://purl.obolibrary.org/obo/MONDO_0021108	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Menkes disease	http://www.orpha.net/ORDO/Orphanet_565	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3381,6 +3432,7 @@ ClinVar		disease	Mental retardation-hypotonic facies syndrome X-linked, 1	http:/
 ClinVar		disease	Mental retardation-hypotonic facies syndrome X-linked, 1	http://www.orpha.net/ORDO/Orphanet_93975	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	MENTAL RETARDATION-STEREOTYPIC MOVEMENTS-EPILEPSY AND/OR CEREBRAL MALFORMATIONS	http://www.orpha.net/ORDO/Orphanet_228384	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Meretoja syndrome	http://www.orpha.net/ORDO/Orphanet_85448	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Mesothelioma	http://www.ebi.ac.uk/efo/EFO_0000588	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Metacarpal 4-5 fusion	http://www.orpha.net/ORDO/Orphanet_2498	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Metachondromatosis	http://www.orpha.net/ORDO/Orphanet_2499	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Metachromatic leukodystrophy	http://www.orpha.net/ORDO/Orphanet_512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3551,7 +3603,7 @@ ClinVar		disease	Multiple mitochondrial dysfunctions syndrome 1	http://www.orpha
 ClinVar		disease	Multiple mitochondrial dysfunctions syndrome 2	http://www.orpha.net/ORDO/Orphanet_401874	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Multiple mitochondrial dysfunctions syndrome 3	http://www.orpha.net/ORDO/Orphanet_363424	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Multiple mitochondrial dysfunctions syndrome 4	http://www.orpha.net/ORDO/Orphanet_457406	Gautier Koscielny	2017-06-06 12:00:00
-PheWAS Catalog		disease	Multiple myeloma	http://www.ebi.ac.uk/efo/EFO_0001378	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Multiple myeloma	http://www.ebi.ac.uk/efo/EFO_0001378	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Multiple pterygium syndrome, lethal type	http://www.orpha.net/ORDO/Orphanet_33108	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0003885	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Multiple sulfatase deficiency	http://www.orpha.net/ORDO/Orphanet_585	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3631,8 +3683,12 @@ Genomics England Panel App		disease	Myasthenic syndrome, slow-channel congenital
 ClinVar		disease	Mycobacterial and viral infections, susceptibility to, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_391311	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Mycoses	http://purl.obolibrary.org/obo/MONDO_0002041	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	mydriasis	http://purl.obolibrary.org/obo/HP_0011499	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Myelodisplasic proliferative syndrome	http://www.ebi.ac.uk/efo/EFO_1000388	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Myelodisplasic syndrome	http://www.ebi.ac.uk/efo/EFO_0000198	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Myelodysplastic Syndrome	http://www.ebi.ac.uk/efo/EFO_0000198	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Myelofibrosis	http://purl.obolibrary.org/obo/HP_0011974	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Myeloid leukemia	http://purl.obolibrary.org/obo/MONDO_0004643	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Myeloma	http://www.ebi.ac.uk/efo/EFO_0001378	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Myeloproliferative disease	http://www.ebi.ac.uk/efo/EFO_0004251	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	MYH-Associated Polyposis	http://www.orpha.net/ORDO/Orphanet_733	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Myhre syndrome	http://www.orpha.net/ORDO/Orphanet_2588	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3769,7 +3825,7 @@ Genomics England Panel App		disease	Neu-Laxova syndrome 2	http://www.orpha.net/O
 PheWAS Catalog		disease	Neuralgia, neuritis, and radiculitis NOS	http://www.ebi.ac.uk/efo/EFO_0009430	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Neuralgia, neuritis, and radiculitis NOS	http://purl.obolibrary.org/obo/MONDO_0002122	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Neuralgia, neuritis, and radiculitis NOS	http://purl.obolibrary.org/obo/MONDO_0021765	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-Genomics England Panel App		disease	Neuroblastoma	http://www.ebi.ac.uk/efo/EFO_0000621	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Neuroblastoma	http://www.ebi.ac.uk/efo/EFO_0000621	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	neurodegeneration	http://purl.obolibrary.org/obo/HP_0002180	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	NEURODEGENERATION WITH BRAIN IRON ACCUMULATION	http://www.orpha.net/ORDO/Orphanet_385	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Neurodegeneration with brain iron accumulation 2b	http://www.orpha.net/ORDO/Orphanet_35069	Gautier Koscielny	2017-06-06 12:00:00
@@ -3777,6 +3833,8 @@ Genomics England Panel App		disease	Neurodegeneration with brain iron accumulati
 Genomics England Panel App		disease	Neurodegeneration with brain iron accumulation 5	http://www.orpha.net/ORDO/Orphanet_329284	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Neurodegeneration with brain iron accumulation 6	http://www.orpha.net/ORDO/Orphanet_385	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Neurodegeneration with optic atrophy, childhood-onset	http://www.orpha.net/ORDO/Orphanet_352654	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Neuroendocrine tumor	http://www.ebi.ac.uk/efo/EFO_1001901	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Neurofibroma	http://www.ebi.ac.uk/efo/EFO_0000622	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Neurofibromatosis Noonan syndrome	http://www.orpha.net/ORDO/Orphanet_638	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Neurofibromatosis, familial spinal	http://www.orpha.net/ORDO/Orphanet_636	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Neurofibromatosis, Type 1	http://www.orpha.net/ORDO/Orphanet_636	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3830,6 +3888,7 @@ Target safety		disease	nightmares	http://www.ebi.ac.uk/efo/EFO_0009844	Irene Lop
 Genomics England Panel App		disease	Nijmegen breakage syndrome	http://www.orpha.net/ORDO/Orphanet_647	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	nociception	http://www.ebi.ac.uk/efo/EFO_0003843	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Nodular lymphoma	http://www.ebi.ac.uk/efo/EFO_0000574	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Non small cell lung cancer	http://www.ebi.ac.uk/efo/EFO_0003060	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Non-healing surgical wound	http://purl.obolibrary.org/obo/GO_0061045	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Non-Hodgkins lymphoma	http://www.ebi.ac.uk/efo/EFO_0005952	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Nonaka myopathy	http://www.orpha.net/ORDO/Orphanet_602	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -3875,6 +3934,7 @@ ClinVar		disease	NSDHL-Related Disorders	http://www.orpha.net/ORDO/Orphanet_2513
 ClinVar		disease	Nuclearly-encoded mitochondrial complex V (ATP synthase) deficiency 1	http://www.orpha.net/ORDO/Orphanet_254913	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Nuclearly-encoded mitochondrial complex V (ATP synthase) deficiency 2	http://www.orpha.net/ORDO/Orphanet_1194	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Nuclearly-encoded mitochondrial complex V (ATP synthase) deficiency 3	http://www.orpha.net/ORDO/Orphanet_254913	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	NUT midline carcinoma	http://www.ebi.ac.uk/efo/EFO_0005783	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Nystagmus	http://purl.obolibrary.org/obo/HP_0000639	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Obesity	http://www.ebi.ac.uk/efo/EFO_0001073	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Obsessive-compulsive disorders	http://www.ebi.ac.uk/efo/EFO_0004242	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4011,7 +4071,7 @@ PheWAS Catalog		disease	Osteoporosis, osteopenia and pathological fracture	http:
 PheWAS Catalog		disease	Osteoporosis, osteopenia and pathological fracture	http://purl.obolibrary.org/obo/HP_0000938	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Osteoporosis, postmenopausal	http://www.ebi.ac.uk/efo/EFO_0003854	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Osteoporosis-pseudoglioma syndrome	http://www.orpha.net/ORDO/Orphanet_2788	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Osteosarcoma	http://www.ebi.ac.uk/efo/EFO_0000637	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Osteosarcoma	http://www.ebi.ac.uk/efo/EFO_0000637	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Otalgia	http://purl.obolibrary.org/obo/HP_0030766	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Other abnormal blood chemistry	http://purl.obolibrary.org/obo/HP_0001871	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Other abnormal findings on radiological examination of breast	http://www.ebi.ac.uk/efo/EFO_0009483	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4158,6 +4218,7 @@ PheWAS Catalog		disease	Otorrhea	http://purl.obolibrary.org/obo/MONDO_0000988	El
 PheWAS Catalog		disease	Otosclerosis	http://www.ebi.ac.uk/efo/EFO_0004213	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Otospondylomegaepiphyseal dysplasia	http://www.orpha.net/ORDO/Orphanet_1427	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Ovarian cancer	http://www.ebi.ac.uk/efo/EFO_0001075	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Ovarian carcinoma	http://www.ebi.ac.uk/efo/EFO_0001075	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Ovarian cyst	http://purl.obolibrary.org/obo/HP_0000138	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Ovarian dysfunction	http://www.ebi.ac.uk/efo/EFO_0009003	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Ovarioleukodystrophy	http://www.orpha.net/ORDO/Orphanet_99853	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -4194,10 +4255,12 @@ Genomics England Panel App		disease	Palmoplantar keratoderma, nonepidermolytic	h
 Genomics England Panel App		disease	Palmoplantar keratoderma, nonepidermolytic, focal	http://www.orpha.net/ORDO/Orphanet_307837	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Palmoplantar keratoderma, nonepidermolytic, focal or diffuse	http://www.orpha.net/ORDO/Orphanet_402003	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	palpitations	http://purl.obolibrary.org/obo/HP_0001962	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Pancreas adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_1000044	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Pancreatic agenesis 1	http://www.orpha.net/ORDO/Orphanet_2805	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pancreatic and cerebellar agenesis	http://www.orpha.net/ORDO/Orphanet_65288	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Pancreatic cancer	http://www.ebi.ac.uk/efo/EFO_0003860	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Pancreatic cancer	http://www.orpha.net/ORDO/Orphanet_1333	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Pancreatic carcinoma	http://www.ebi.ac.uk/efo/EFO_0002618	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	pancreatic enzyme secretion	http://purl.obolibrary.org/obo/GO_0030157	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Pancytopenia	http://purl.obolibrary.org/obo/HP_0001876	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Panhypopituitarism X-linked	http://www.orpha.net/ORDO/Orphanet_90695	Gautier Koscielny	2017-06-06 12:00:00
@@ -4260,6 +4323,7 @@ ClinVar		disease	Patent ductus arteriosus 3	http://www.orpha.net/ORDO/Orphanet_4
 PheWAS Catalog		disease	Pathologic fracture	http://purl.obolibrary.org/obo/HP_0002756	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Pathologic fracture of vertebrae	http://www.ebi.ac.uk/efo/EFO_0003902	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Pathological, developmental or recurrent dislocation	http://purl.obolibrary.org/obo/HP_0001373	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Pediatric glioma	http://www.ebi.ac.uk/efo/EFO_0005543	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Peeling skin syndrome 1	http://www.orpha.net/ORDO/Orphanet_263543	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Peeling skin syndrome 2	http://www.orpha.net/ORDO/Orphanet_263534	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Peeling skin syndrome 4	http://www.orpha.net/ORDO/Orphanet_289586	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -4385,6 +4449,7 @@ ClinVar		disease	Platyspondylic lethal skeletal dysplasia Torrance type	http://w
 Target safety		disease	pleural effusions	http://www.ebi.ac.uk/efo/EFO_0009637	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Pleurisy; pleural effusion	http://www.ebi.ac.uk/efo/EFO_0009637	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Pleurisy; pleural effusion	http://www.ebi.ac.uk/efo/EFO_1001825	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Plexiform neurofibroma	http://www.ebi.ac.uk/efo/EFO_0000658	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Pneumococcal pneumonia	http://www.ebi.ac.uk/efo/EFO_1001474	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Pneumoconiosis	http://www.orpha.net/ORDO/Orphanet_182098	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Pneumonia	http://www.ebi.ac.uk/efo/EFO_0003106	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4543,6 +4608,7 @@ ClinVar		disease	Proopiomelanocortin deficiency	http://www.orpha.net/ORDO/Orphan
 ClinVar		disease	Properdin deficiency, X-linked	http://www.orpha.net/ORDO/Orphanet_2966	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	PROPIONIC ACIDEMIA	http://www.orpha.net/ORDO/Orphanet_35	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Proprotein convertase 1/3 deficiency	http://www.orpha.net/ORDO/Orphanet_71528	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Prostate adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000673	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Prostate cancer	http://www.ebi.ac.uk/efo/EFO_0001663	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Prostate cancer, somatic	http://www.ebi.ac.uk/efo/EFO_0001663	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Prostate cancer/brain cancer susceptibility	http://www.orpha.net/ORDO/Orphanet_1331	Gautier Koscielny	2017-06-06 12:00:00
@@ -4653,6 +4719,8 @@ PheWAS Catalog		disease	Reflux esophagitis	http://www.ebi.ac.uk/efo/EFO_0003948	
 Genomics England Panel App		disease	Refsum disease	http://www.orpha.net/ORDO/Orphanet_773	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Regional enteritis	http://www.ebi.ac.uk/efo/EFO_0000384	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Renal Adysplasia	http://purl.obolibrary.org/obo/HP_0000110	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Renal angiomyolipoma	http://purl.obolibrary.org/bo/HP_0006772	Irene Lopez	2021-08-09 12:00:00
+Cancer Biomarkers		disease	Renal carcinoma	http://www.ebi.ac.uk/efo/EFO_0002890	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Renal cell carcinoma	http://www.orpha.net/ORDO/Orphanet_422526	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Renal colic	http://www.ebi.ac.uk/efo/EFO_1001412	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Renal cysts and diabetes syndrome	http://www.orpha.net/ORDO/Orphanet_93111	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -4770,7 +4838,7 @@ ClinVar		disease	Retinitis pigmentosa with or without situs inversus	http://www.
 ClinVar		disease	Retinitis pigmentosa, X-linked, and sinorespiratory infections, with or without deafness	http://www.orpha.net/ORDO/Orphanet_247522	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Retinitis punctata  albescens	http://www.orpha.net/ORDO/Orphanet_52427	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Retinitis punctata albescens	http://www.orpha.net/ORDO/Orphanet_52427	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Retinoblastoma	http://www.orpha.net/ORDO/Orphanet_790	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Retinoblastoma	http://www.orpha.net/ORDO/Orphanet_790	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Retinoblastoma, trilateral	http://www.orpha.net/ORDO/Orphanet_790	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Retinoschisis and retinal cysts	http://www.ebi.ac.uk/efo/EFO_1001028	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Retinoschisis and retinal cysts	http://purl.obolibrary.org/obo/MONDO_0004579	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4781,7 +4849,7 @@ Genomics England Panel App		disease	Rhabdoid Tumor Predisposition Syndrome	http:
 Genomics England Panel App		disease	Rhabdoid Tumor Predisposition Syndrome 1	http://www.orpha.net/ORDO/Orphanet_231108	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Rhabdoid tumor predisposition syndrome 2	http://www.orpha.net/ORDO/Orphanet_231108	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Rhabdomyolysis	http://www.ebi.ac.uk/efo/EFO_0003867	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-Genomics England Panel App		disease	Rhabdomyosarcoma	http://www.ebi.ac.uk/efo/EFO_0002918	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Rhabdomyosarcoma	http://www.ebi.ac.uk/efo/EFO_0002918	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Rhabdomyosarcoma 2, alveolar	http://www.ebi.ac.uk/efo/EFO_0000248	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Rheumatic fever / chorea	http://www.ebi.ac.uk/efo/EFO_0004152	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Rheumatic fever / chorea	http://www.ebi.ac.uk/efo/EFO_1001160	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4822,9 +4890,10 @@ PheWAS Catalog		disease	Sacroiliitis NEC	http://purl.obolibrary.org/obo/HP_00123
 Genomics England Panel App		disease	SADDAN	http://www.orpha.net/ORDO/Orphanet_85165	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	SAETHRE-CHOTZEN SYNDROME	http://www.orpha.net/ORDO/Orphanet_794	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Salicylates causing adverse effects in therapeutic use	http://www.ebi.ac.uk/efo/EFO_0009658	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Salivary glands tumor	http://purl.obolibrary.org/obo/NCIT_C3361	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Salla disease	http://www.orpha.net/ORDO/Orphanet_309334	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	sarcoidosis	http://www.orpha.net/ORDO/Orphanet_797	Irene Lopez	2021-11-02 12:00:00
-Genomics England Panel App		disease	Sarcoma	http://www.ebi.ac.uk/efo/EFO_0000691	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Sarcoma	http://www.ebi.ac.uk/efo/EFO_0000691	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Sarcosine dehydrogenase deficiency	http://www.orpha.net/ORDO/Orphanet_3129	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	SC phocomelia syndrome	http://www.orpha.net/ORDO/Orphanet_3103	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Scaphocephaly, maxillary retrusion, and mental retardation	http://www.orpha.net/ORDO/Orphanet_168624	Gautier Koscielny	2017-06-06 12:00:00
@@ -4842,6 +4911,7 @@ PheWAS Catalog		disease	Schizophrenia and other psychotic disorders	http://www.e
 Genomics England Panel App		disease	Schneckenbecken dysplasia	http://www.orpha.net/ORDO/Orphanet_3144	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Schnyder Crystalline Corneal Dystrophy	http://www.orpha.net/ORDO/Orphanet_98967	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Schopf-Schulz-Passarge syndrome	http://www.orpha.net/ORDO/Orphanet_50944	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Schwannoma	http://www.ebi.ac.uk/efo/EFO_0000693	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Schwannomatosis	http://www.orpha.net/ORDO/Orphanet_93921	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Schwartz-Jampel syndrome, type 1	http://www.orpha.net/ORDO/Orphanet_800	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Sciatica	http://purl.obolibrary.org/obo/HP_0011868	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -4989,6 +5059,7 @@ Target safety		disease	smooth-muscle contraction	http://purl.obolibrary.org/obo/
 Target safety		disease	smooth-muscle contraction (prostate in particular, effects on the lower urinary tract)	http://purl.obolibrary.org/obo/GO_0006939	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	Sneddon syndrome	http://www.orpha.net/ORDO/Orphanet_820	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Snowflake vitreoretinal degeneration	http://www.orpha.net/ORDO/Orphanet_91496	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Solid tumors	http://purl.obolibrary.org/obo/NCIT_C9292	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Somatoform disorder	http://www.ebi.ac.uk/efo/EFO_0009687	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Sorsby fundus  dystrophy	http://www.orpha.net/ORDO/Orphanet_59181	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Sotos Syndrome	http://www.orpha.net/ORDO/Orphanet_821	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -5120,6 +5191,7 @@ PheWAS Catalog		disease	Sprains and strains	http://www.ebi.ac.uk/efo/EFO_0010686
 PheWAS Catalog		disease	Sprains and strains of back and neck	http://www.ebi.ac.uk/efo/EFO_0009582	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Sprains and strains of back and neck	http://www.ebi.ac.uk/efo/EFO_0010686	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0000707	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Squamous cell lung carcinoma	http://www.ebi.ac.uk/efo/EFO_0000708	Irene Lopez	2021-08-09 12:00:00
 ClinVar		disease	Stapes ankylosis with broad thumb and toes	http://www.orpha.net/ORDO/Orphanet_140917	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Staphylococcus infections	http://www.ebi.ac.uk/efo/EFO_0005681	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Stargardt Disease 1	http://www.orpha.net/ORDO/Orphanet_827	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -5231,6 +5303,7 @@ PheWAS Catalog		disease	Synoviopathy	http://purl.obolibrary.org/obo/MONDO_005679
 CTTV-indication		disease	Synovitis	http://purl.obolibrary.org/obo/HP_0100769	Sirarat Sarntivijai	2015-03-24 12:00:00
 Genomics England Panel App		disease	Synpolydactyly 1	http://www.orpha.net/ORDO/Orphanet_295195	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Systemic lupus erythematosus	http://www.ebi.ac.uk/efo/EFO_0002690	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
+Cancer Biomarkers		disease	Systemic mastocytosis	http://purl.obolibrary.org/obo/NCIT_C9235	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Systemic sclerosis	http://www.ebi.ac.uk/efo/EFO_0000717	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	T cell activation	http://purl.obolibrary.org/obo/GO_0042110	Irene Lopez	2021-11-02 12:00:00
 ClinVar		disease	T-cell immunodeficiency, congenital alopecia and nail dystrophy	http://www.orpha.net/ORDO/Orphanet_169095	Gautier Koscielny	2017-06-06 12:00:00
@@ -5292,11 +5365,13 @@ ClinVar		disease	Thrombophilia, histidine-rich glycoprotein-related	http://www.o
 ClinVar		disease	Thrombophilia, X-linked, due to factor IX defect	http://purl.obolibrary.org/obo/HP_0004936	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	thrombosis	http://www.ebi.ac.uk/efo/EFO_0003907	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	thrombosis	http://purl.obolibrary.org/obo/HP_0004936	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Thymic carcinoma	http://www.ebi.ac.uk/efo/EFO_1000576	Irene Lopez	2021-08-09 12:00:00
 Target safety		disease	thymic hypoplasia	http://purl.obolibrary.org/obo/HP_0010515	Irene Lopez	2021-11-02 12:00:00
 ClinVar		disease	Thyroglobulin synthesis defect	http://www.orpha.net/ORDO/Orphanet_95716	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Thyroid cancer	http://purl.obolibrary.org/obo/MONDO_0002108	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Thyroid cancer, nonmedullary, 4	http://www.ebi.ac.uk/efo/EFO_0000501	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Thyroid cancer, nonmedullary, 4	http://www.orpha.net/ORDO/Orphanet_319487	Gautier Koscielny	2017-06-06 12:00:00
+Cancer Biomarkers		disease	Thyroid carcinoma	http://www.ebi.ac.uk/efo/EFO_0002892	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	Thyroid dyshormonogenesis 1	http://www.orpha.net/ORDO/Orphanet_95716	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Thyroid dyshormonogenesis 2A	http://www.orpha.net/ORDO/Orphanet_95716	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Thyroid dyshormonogenesis 3	http://www.orpha.net/ORDO/Orphanet_95716	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -5410,6 +5485,7 @@ PheWAS Catalog		disease	Urinary incontinence	http://purl.obolibrary.org/obo/HP_0
 PheWAS Catalog		disease	Urinary obstruction	http://www.ebi.ac.uk/efo/EFO_0009571	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 CTTV-indication		disease	Urinary retention	http://purl.obolibrary.org/obo/HP_0000016	Sirarat Sarntivijai	2015-03-24 12:00:00
 Target safety		disease	urinary smooth muscle constriction	http://purl.obolibrary.org/obo/GO_0014848	Irene Lopez	2021-11-02 12:00:00
+Cancer Biomarkers		disease	Urinary tract carcinoma	http://www.ebi.ac.uk/efo/EFO_0008528	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Urinary tract infection	http://www.ebi.ac.uk/efo/EFO_0003103	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Urocanate hydratase deficiency	http://www.orpha.net/ORDO/Orphanet_210128	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Urofacial syndrome 2	http://www.orpha.net/ORDO/Orphanet_2704	Gautier Koscielny	2017-06-06 12:00:00
@@ -5522,6 +5598,7 @@ Genomics England Panel App		disease	Waardenburg syndrome, type 2D	http://www.orp
 Genomics England Panel App		disease	Waardenburg Syndrome, Type 3	http://www.orpha.net/ORDO/Orphanet_896	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Wagner Syndrome	http://www.orpha.net/ORDO/Orphanet_898	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Waisman syndrome	http://www.orpha.net/ORDO/Orphanet_2379	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
+Cancer Biomarkers		disease	Waldenstroem macroglobulinemia	http://www.ebi.ac.uk/efo/EFO_0002616	Irene Lopez	2021-08-09 12:00:00
 Genomics England Panel App		disease	WALKER WARBURG SYNDROME	http://www.orpha.net/ORDO/Orphanet_899	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Walker-Warburg syndrome	http://www.orpha.net/ORDO/Orphanet_899	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Warburg Micro Syndrome	http://www.orpha.net/ORDO/Orphanet_2510	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
