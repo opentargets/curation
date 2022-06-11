@@ -26,3 +26,4 @@ This repository contains a collection of different manual annotations produced w
     - Table 2 of their publication (https://jasn.asnjournals.org/content/jnephrol/30/6/1109.full.pdf?with-ds=yes).
     - Supplementary Table 5 provides annotation of nº samples.
   - Autism Sequencing Consortium. Associations of 102 genes with autism. The data is pulled from the Supplementary Table 2 in their publication (https://www.sciencedirect.com/science/article/pii/S0092867419313984#mmc2).
+  - REGENERON. Associations of 497 genes with traits from the UK Biobank. The data has been parsed from the Supplementary Table 2, 3, and 4 of their publication (https://www.nature.com/articles/s41586-021-04103-z) + the mappings done by GWAS Catalog.
