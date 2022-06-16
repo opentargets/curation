@@ -2401,7 +2401,6 @@ ClinVar		disease	Hemolytic anemia due to hexokinase deficiency	Orphanet_90031	Ga
 Genomics England Panel App		disease	Hemophagocytic lymphohistiocytosis, familial, 5	Orphanet_540	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Hemoptysis	HP_0002105	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Hemorrhage from gastrointestinal ulcer	HP_0002239	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-PheWAS Catalog		disease	Hemorrhage from gastrointestinal ulcer	MPATH_579	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Hemorrhage in early pregnancy	EFO_0009682	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Hemorrhage NOS	MP_0001914	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Hemorrhage of gastrointestinal tract	HP_0002239	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -3720,7 +3719,6 @@ Genomics England Panel App		disease	Myopathy, centronuclear,	Orphanet_169189	Den
 Genomics England Panel App		disease	Myopathy, centronuclear, autosomal recessive	Orphanet_169186	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Myopathy, congenital, compton-north	Orphanet_210163	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Myopathy, congenital, with fiber-type disproportion	Orphanet_2020	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genomics England Panel App		disease	Myopathy, distal, Tateyama type	614321	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Myopathy, distal, with anterior tibial onset	Orphanet_178400	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Myopathy, isolated mitochondrial, autosomal dominant	Orphanet_457050	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Myopathy, Lactic Acidosis, and Sideroblastic Anemia	Orphanet_2598	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -5450,8 +5448,6 @@ PheWAS Catalog		disease	Type 2 diabetes with renal manifestations	EFO_0004997	El
 ClinVar		disease	Tyrosine kinase 2 deficiency	Orphanet_331226	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Tyrosinemia, type I	Orphanet_882	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Ulcer of esophagus	MONDO_0044782	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-PheWAS Catalog		disease	Ulceration of intestine	MPATH_579	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-PheWAS Catalog		disease	Ulceration of the lower GI tract	MPATH_579	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Ulcerative colitis	EFO_0000729	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Ullrich Congenital Muscular Dystrophy	Orphanet_75840	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Ullrich congenital muscular dystrophy 1	Orphanet_75840	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -5739,7 +5735,6 @@ Genebass		disease	Breast cancer	MONDO_0007254	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C-reactive protein	EFO_0004458	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C18 Malignant neoplasm of colon	EFO_1001951	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C20 Malignant neoplasm of rectum	EFO_1000657	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	C25 Malignant neoplasm of pancreas	EFO_1000359 	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C43 Malignant melanoma of skin	EFO_0000756	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C44 Other malignant neoplasms of skin	EFO_0004198	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	C50 Malignant neoplasm of breast	MONDO_0007254	Irene Lopez	2022-06-16 00:00:00
@@ -5884,25 +5879,20 @@ Genebass		disease	Date M33 first reported (dermatopolymyositis)	MONDO_0016367	Ir
 Genebass		disease	Date M34 first reported (systemic sclerosis)	EFO_0000717	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date M45 first reported (ankylosing spondylitis)	EFO_0003898	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date M50 first reported (cervical disk disorders)	EFO_0009537	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Date M65 first reported (synovitis and tenosynovitis)	EFO_0008997 	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date M81 first reported (osteoporosis without pathological fracture)	EFO_0003882	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date M85 first reported (other disorders of bone density and structure)	EFO_0004260	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date M88 first reported (paget's disease of bone [osteitis deformans])	MONDO_0021165	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date N02 first reported (recurrent and persistent haematuria)	HP_0000790	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date N18 first reported (chronic renal failure)	EFO_0003884	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Date N20 first reported (calculus of kidney and ureter)	MONDO_0004828 	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date N25 first reported (disorders resulting from impaired renal tubular function)	MONDO_0001343	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date N28 first reported (other disorders of kidney and ureter, not elsewhere classified)	EFO_0009690	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Date N40 first reported (hyperplasia of prostate)	EFO_0009602 	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date N83 first reported (noninflammatory disorders of ovary, fallopian tube and broad ligament)	EFO_0009663	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date N84 first reported (polyp of female genital tract)	EFO_0008622	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date N94 first reported (pain and other conditions associated with female genital organs and menstrual cycle)	EFO_0009549	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date O44 first reported (placenta praevia)	EFO_0007442	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date O90 first reported (complications of the puerperium, not elsewhere classified)	EFO_0009683	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date Q12 first reported (congenital lens malformations)	MONDO_0020145	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Date Q25 first reported (congenital malformations of great arteries)	MONDO_0020292 	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date Q27 first reported (other congenital malformations of peripheral vascular system)	MONDO_0024287	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Date Q44 first reported (congenital malformations of gallbladder, bile ducts and liver)	EFO_0010284 	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date Q61 first reported (cystic kidney disease)	EFO_0008615	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Date Q79 first reported (congenital malformations of musculoskeletal system, not elsewhere classified)	EFO_0009676	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Date Q85 first reported (phakomatoses, not elsewhere classified)	MONDO_0042983	David Ochoa	2022-06-16 00:00:00
@@ -5938,12 +5928,6 @@ Genebass		disease	Ever used hormone-replacement therapy (HRT)	EFO_0003961	David 
 Genebass		disease	Exposure to tobacco smoke at home	EFO_0008361	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Eye problems/disorders	EFO_0003966	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Falls in the last year	EFO_0009631	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index	CMO_0000306	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index adjusted for body mass index (FFMIadjBMI)	CMO_0000306	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index adjusted for body mass index (FFMIadjBMI) female	CMO_0000306	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index adjusted for body mass index (FFMIadjBMI) male	CMO_0000306	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index female	CMO_0000306	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Fat free mass index male	CMO_0000306	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Father's age at death	EFO_0009712	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Fluid intelligence score	EFO_0004337	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Forced expiratory volume in 1-second (FEV1)	EFO_0005921	David Ochoa	2022-06-16 00:00:00
@@ -6114,18 +6098,15 @@ Genebass		disease	Median T2star in putamen (left)	EFO_0007849	Irene Lopez	2022-0
 Genebass		disease	Median T2star in putamen (right)	EFO_0007849	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Median T2star in thalamus (left)	EFO_0004464	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Median T2star in thalamus (right)	EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Medication for cholesterol, blood pressure or diabetes	EO_0007189	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure or diabetes	MONDO_0045008	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure or diabetes	HP_0030972	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure or diabetes	EFO_0000400	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	EO_0007189	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	MONDO_0045008	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	HP_0030972	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for cholesterol, blood pressure, diabetes, or take exogenous hormones	EFO_0000400	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for pain relief, constipation, heartburn	EFO_0003843	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for pain relief, constipation, heartburn	HP_0002019	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Medication for pain relief, constipation, heartburn	EFO_0003948	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Medication for pain relief, constipation, heartburn	EO_0007189	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Mental health problems ever diagnosed by a professional	EFO_0000677	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Microalbumin in urine	EFO_0010967	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Monocyte count	EFO_0005091	Irene Lopez	2022-06-16 00:00:00
@@ -6175,7 +6156,6 @@ Genebass		disease	Recent feelings or nervousness or anxiety	EFO_1001892	Kirill T
 Genebass		disease	Recent inability to stop or control worrying	EFO_1001892	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Recent lack of interest or pleasure in doing things	MONDO_0002050	Kirill Tsukanov	2022-06-16 00:00:00
 Genebass		disease	Recent poor appetite or overeating	EFO_0005203	Kirill Tsukanov	2022-06-16 00:00:00
-Genebass		disease	Recent trouble concentrating on things	ATO_0001163	Kirill Tsukanov	2022-06-16 00:00:00
 Genebass		disease	Red blood cell (erythrocyte) count	EFO_0004305	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Red blood cell (erythrocyte) distribution width	EFO_0009188	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Reticulocyte count	EFO_0007986	Irene Lopez	2022-06-16 00:00:00
@@ -15941,7 +15921,6 @@ AstraZeneca PheWAS Portal		disease	Source of report of M91 (juvenile osteochondr
 AstraZeneca PheWAS Portal		disease	Source of report of M92 (other juvenile osteochondrosis)	EFO_0008577	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Source of report of M93 (other osteochondropathies)	EFO_1000695	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Source of report of M94 (other disorders of cartilage)	EFO_0005802	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	Source of report of M95 (other acquired deformities of musculoskeletal system and connective tissue)	EFO_0009676§	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Source of report of M96 (postprocedural musculoskeletal disorders, not elsewhere classified)	EFO_0009676	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Source of report of M99 (biomechanical lesions, not elsewhere classified)	EFO_0000684	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#BlockM00-M03#M00-M03 Infectious arthropathies	HP_0003040	GWAS Catalog	2022-06-10
@@ -18389,7 +18368,6 @@ AstraZeneca PheWAS Portal		disease	41202#N23#N23 Unspecified renal colic	EFO_100
 AstraZeneca PheWAS Portal		disease	41202#N25#N25 Disorders resulting from impaired renal tubular function	EFO_0009566	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#N28#N28 Other disorders of kidney and ureter| not elsewhere classified	EFO_0009690	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#N281#N28.1 Cyst of kidney| acquired	EFO_0008616	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#N288#N28.8 Other specified disorders of kidney and ureter	FO_0003086	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#N289#N28.9 Disorder of kidney and ureter| unspecified	EFO_0009690	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#N30#N30 Cystitis	EFO_1000025	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#N300#N30.0 Acute cystitis	EFO_1000025	GWAS Catalog	2022-06-10
@@ -19512,7 +19490,6 @@ AstraZeneca PheWAS Portal		disease	Union#N28#N28 Other disorders of kidney and u
 AstraZeneca PheWAS Portal		disease	Union#N280#N28.0 Ischaemia and infarction of kidney	EFO_0000556	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#N280#N28.0 Ischaemia and infarction of kidney	EFO_0003086	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#N281#N28.1 Cyst of kidney| acquired	EFO_0008616	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	Union#N288#N28.8 Other specified disorders of kidney and ureter	FO_0003086	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#N289#N28.9 Disorder of kidney and ureter| unspecified	EFO_0009690	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#N30#N30 Cystitis	EFO_1000025	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#N300#N30.0 Acute cystitis	EFO_1000025	GWAS Catalog	2022-06-10
@@ -21536,8 +21513,6 @@ AstraZeneca PheWAS Portal		disease	Union#Q859#Q85.9 Phakomatosis| unspecified	Or
 AstraZeneca PheWAS Portal		disease	Union#Q87#Q87 Other specified congenital malformation syndromes affecting multiple systems	EFO_0009676	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#Q874#Q87.4 Marfan's syndrome	Orphanet_558	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#Q874#Q87.4 Marfan's syndrome	Orphanet_284963	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	Union#Q874#Q87.4 Marfan's syndrome	154700	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	Union#Q874#Q87.4 Marfan's syndrome	C0024796	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#Q874#Q87.4 Marfan's syndrome	MONDO_0007947	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#Q89#Q89 Other congenital malformations| not elsewhere classified	EFO_0000508	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Union#Q892#Q89.2 Congenital malformations of other endocrine glands	EFO_0001379	GWAS Catalog	2022-06-10
@@ -22520,16 +22495,12 @@ AstraZeneca PheWAS Portal		disease	41202#Z800#Z80.0 Family history of malignant 
 AstraZeneca PheWAS Portal		disease	41202#Z85#Z85 Personal history of malignant neoplasm	EFO_0000616	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z850#Z85.0 Personal history of malignant neoplasm of digestive organs	EFO_0009640	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z855#Z85.5 Personal history of malignant neoplasm of urinary tract	EFO_1000363	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z855#Z85.5 Personal history of malignant neoplasm of urinary tract	EF0_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z856#Z85.6 Personal history of leukaemia	EFO_0000565	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z856#Z85.6 Personal history of leukaemia	EF0_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z857#Z85.7 Personal history of other malignant neoplasms of lymphoid| haematopoietic and related tissues	EFO_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z857#Z85.7 Personal history of other malignant neoplasms of lymphoid| haematopoietic and related tissues	EFO_0001642	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z857#Z85.7 Personal history of other malignant neoplasms of lymphoid| haematopoietic and related tissues	EFO_1000201	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z86#Z86 Personal history of certain other diseases	EFO_0000408	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z86#Z86 Personal history of certain other diseases	EF0_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z860#Z86.0 Personal history of other neoplasms	EFO_0000616	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z860#Z86.0 Personal history of other neoplasms	EF0_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z87#Z87 Personal history of other diseases and conditions	EFO_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z871#Z87.1 Personal history of diseases of the digestive system	EFO_0000352	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z874#Z87.4 Personal history of diseases of the genito-urinary system	EFO_0000352	GWAS Catalog	2022-06-10
