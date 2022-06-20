@@ -550,7 +550,6 @@ AstraZeneca PheWAS Portal		disease	23053#EBV seropositivity for Epstein-Barr Vir
 AstraZeneca PheWAS Portal		disease	23054#CMV seropositivity for Human Cytomegalovirus	http://www.ebi.ac.uk/efo/EFO_0007037	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	23055#HHV-6 overall seropositivity for Human Herpesvirus-6	http://www.ebi.ac.uk/efo/EFO_0007048	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	23056#HHV-6A seropositivity for Human Herpesvirus-6	http://www.ebi.ac.uk/efo/EFO_0007048	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	23056#HHV-6A seropositivity for Human Herpesvirus-6	http://www.ebi.ac.uk/efo/EFO_0007048	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	23058#HHV-7 seropositivity for Human Herpesvirus-7	http://www.ebi.ac.uk/efo/EFO_0600006	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	23059#KSHV seropositivity for Kaposi's Sarcoma-Associated Herpesvirus	http://www.ebi.ac.uk/efo/EFO_0010758	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	23060#HBV seropositivity for Hepatitis B Virus	http://www.ebi.ac.uk/efo/EFO_0009346	GWAS Catalog	2022-06-10
@@ -12075,13 +12074,10 @@ AstraZeneca PheWAS Portal		disease	Age angina diagnosed	http://www.ebi.ac.uk/efo
 AstraZeneca PheWAS Portal		disease	Age asthma diagnosed	http://purl.obolibrary.org/obo/MONDO_0004979	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age asthma diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 Genebass		disease	Age asthma diagnosed by doctor	http://purl.obolibrary.org/obo/MONDO_0004979	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age asthma diagnosed by doctor	http://purl.obolibrary.org/obo/MONDO_0004979	GWAS Catalog	2022-06-10
 Genebass		disease	Age asthma diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0004918	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age asthma diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age at cancer diagnosis	http://www.ebi.ac.uk/efo/EFO_0000311	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age at cancer diagnosis	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 Genebass		disease	Age at death	http://www.ebi.ac.uk/efo/EFO_0005056	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age at death	http://www.ebi.ac.uk/efo/EFO_0005056	GWAS Catalog	2022-06-10
 Genebass		disease	Age at menopause (last menstrual period)	http://www.ebi.ac.uk/efo/EFO_0004704	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Age cataract diagnosed	http://purl.obolibrary.org/obo/MONDO_0005129	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age cataract diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
@@ -12096,7 +12092,6 @@ AstraZeneca PheWAS Portal		disease	Age hay fever| rhinitis or eczema diagnosed	h
 AstraZeneca PheWAS Portal		disease	Age hay fever| rhinitis or eczema diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age hayfever or allergic rhinitis diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0003956	GWAS Catalog	2022-06-10
 Genebass		disease	Age hayfever or allergic rhinitis diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0004918	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age hayfever or allergic rhinitis diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 Genebass		disease	Age hayfever or allergic rhinitis diagnosed by doctor	http://www.ebi.ac.uk/efo/EFO_0005854	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Age heart attack diagnosed	http://www.ebi.ac.uk/efo/EFO_0000612	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age heart attack diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
@@ -12109,9 +12104,7 @@ AstraZeneca PheWAS Portal		disease	Age pulmonary embolism (blood clot in lung) d
 AstraZeneca PheWAS Portal		disease	Age pulmonary embolism (blood clot in lung) diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 Genebass		disease	Age started wearing glasses or contact lenses	http://purl.obolibrary.org/obo/MONDO_0004892	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Age started wearing glasses or contact lenses	http://www.ebi.ac.uk/efo/EFO_0004731	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age started wearing glasses or contact lenses	http://www.ebi.ac.uk/efo/EFO_0004731	GWAS Catalog	2022-06-10
 Genebass		disease	Age started wearing glasses or contact lenses	http://www.ebi.ac.uk/efo/EFO_0004847	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Age started wearing glasses or contact lenses	http://www.ebi.ac.uk/efo/EFO_0004847	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age stroke diagnosed	http://www.ebi.ac.uk/efo/EFO_0000712	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age stroke diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Age when diabetes-related eye disease diagnosed	http://www.ebi.ac.uk/efo/EFO_0004918	GWAS Catalog	2022-06-10
@@ -12137,10 +12130,8 @@ Genomics England Panel App		disease	Alagille syndrome 1	http://www.orpha.net/ORD
 Genomics England Panel App		disease	Alagille syndrome 2	http://www.orpha.net/ORDO/Orphanet_52	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Alanine	http://www.ebi.ac.uk/efo/EFO_0009765	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Alanine aminotransferase	http://www.ebi.ac.uk/efo/EFO_0004735	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Alanine aminotransferase	http://www.ebi.ac.uk/efo/EFO_0004735	GWAS Catalog	2022-06-10
 ClinVar		disease	Albinism, oculocutaneous, type VII	http://www.orpha.net/ORDO/Orphanet_352745	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Albumin	http://www.ebi.ac.uk/efo/EFO_0004535	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Albumin	http://www.ebi.ac.uk/efo/EFO_0004535	GWAS Catalog	2022-06-10
 Genebass		disease	Alcohol	http://www.ebi.ac.uk/efo/EFO_0004329	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Alcohol intake in grams per day	http://www.ebi.ac.uk/efo/EFO_0004329	Irene Lopez	2022-06-16 00:00:00
 CTTV-indication		disease	Alcohol intolerance	http://purl.obolibrary.org/obo/HP_0001033	Sirarat Sarntivijai	2015-03-24 12:00:00
@@ -12152,7 +12143,6 @@ Target safety		disease	aldosterone secretion	http://purl.obolibrary.org/obo/GO_0
 Genomics England Panel App		disease	ALEXANDER DISEASE	http://www.orpha.net/ORDO/Orphanet_58	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 CTTV-indication		disease	Alimentary/metabolic disease	http://www.ebi.ac.uk/efo/EFO_0000589	Sirarat Sarntivijai	2015-03-24 12:00:00
 Genebass		disease	Alkaline phosphatase	http://www.ebi.ac.uk/efo/EFO_0004533	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Alkaline phosphatase	http://www.ebi.ac.uk/efo/EFO_0004533	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Alkalosis	http://purl.obolibrary.org/obo/HP_0001948	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Alkaptonuria	http://www.orpha.net/ORDO/Orphanet_56	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	All cause liver disease (viral causes removed)	http://www.ebi.ac.uk/efo/EFO_0001421	Irene Lopez	2022-06-16 00:00:00
@@ -12163,7 +12153,6 @@ Target safety		disease	allergic responses of flare, flush and wheal	http://www.e
 PheWAS Catalog		disease	Allergic rhinitis	http://www.ebi.ac.uk/efo/EFO_0005854	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Allergies, other	http://www.ebi.ac.uk/efo/EFO_0003785	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Allergy/adverse effect of penicillin	http://www.ebi.ac.uk/efo/EFO_0009482	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-PheWAS Catalog		disease	Alopecia	http://www.orpha.net/ORDO/Orphanet_79364	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Alopecia	http://www.orpha.net/ORDO/Orphanet_79364	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Alopecia Areata	http://www.ebi.ac.uk/efo/EFO_0004192	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Alopecia congenita keratosis palmoplantaris	http://www.orpha.net/ORDO/Orphanet_1010	Gautier Koscielny	2017-06-06 12:00:00
@@ -12267,7 +12256,6 @@ PheWAS Catalog		disease	Anisometropia	http://purl.obolibrary.org/obo/HP_0012803	
 AstraZeneca PheWAS Portal		disease	Ankle spacing width	http://www.ebi.ac.uk/efo/EFO_0004324	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Ankle spacing width (left)	http://www.ebi.ac.uk/efo/EFO_0004324	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Ankle spacing width (right)	http://www.ebi.ac.uk/efo/EFO_0004324	GWAS Catalog	2022-06-10
-PheWAS Catalog		disease	Ankylosing spondylitis	http://www.ebi.ac.uk/efo/EFO_0003898	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Ankylosing spondylitis	http://www.ebi.ac.uk/efo/EFO_0003898	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Ankylosis of joint	http://purl.obolibrary.org/obo/MONDO_0002257	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Anomalies of jaw size/symmetry	http://purl.obolibrary.org/obo/HP_0030791	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -12279,9 +12267,7 @@ PheWAS Catalog		disease	Anorexia	http://purl.obolibrary.org/obo/HP_0002039	Elise
 PheWAS Catalog		disease	Anterior pituitary disorders	http://www.ebi.ac.uk/efo/EFO_0009607	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Anterior segment anomalies with or without cataract	http://www.orpha.net/ORDO/Orphanet_107	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Anterior thigh lean muscle volume (left)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Anterior thigh lean muscle volume (left)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Anterior thigh lean muscle volume (right)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Anterior thigh lean muscle volume (right)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Target safety		disease	anterograde amnesia	http://www.ebi.ac.uk/efo/EFO_1001454	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	anti-emetic effects	http://www.ebi.ac.uk/efo/EFO_0009848	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	anti-inflammatory activities	http://purl.obolibrary.org/obo/GO_0050728	Irene Lopez	2021-11-02 12:00:00
@@ -12324,9 +12310,7 @@ PheWAS Catalog		disease	Aplastic anemia	http://purl.obolibrary.org/obo/HP_000191
 Target safety		disease	apnea	http://purl.obolibrary.org/obo/HP_0002104	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	apnoea	http://purl.obolibrary.org/obo/HP_0002104	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Apolipoprotein A	http://www.ebi.ac.uk/efo/EFO_0004732	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Apolipoprotein A	http://www.ebi.ac.uk/efo/EFO_0004732	GWAS Catalog	2022-06-10
 Genebass		disease	Apolipoprotein B	http://www.ebi.ac.uk/efo/EFO_0004615	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Apolipoprotein B	http://www.ebi.ac.uk/efo/EFO_0004615	GWAS Catalog	2022-06-10
 ClinVar		disease	Apolipoprotein C2 deficiency	http://www.orpha.net/ORDO/Orphanet_444490	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Apparent mineralocorticoid excess,	http://www.orpha.net/ORDO/Orphanet_320	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Appendiceal conditions	http://www.ebi.ac.uk/efo/EFO_0009542	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -12348,21 +12332,13 @@ AstraZeneca PheWAS Portal		disease	Arm BMD (bone mineral density) (right)	http:/
 AstraZeneca PheWAS Portal		disease	Arm bone area (left)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Arm bone area (right)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat mass (left)	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat mass (left)	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat mass (right)	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat mass (right)	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat-free mass (left)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat-free mass (left)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Arm fat-free mass (right)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm fat-free mass (right)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Arm predicted mass (left)	http://www.ebi.ac.uk/efo/EFO_0004302	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm predicted mass (left)	http://www.ebi.ac.uk/efo/EFO_0004302	GWAS Catalog	2022-06-10
 Genebass		disease	Arm predicted mass (right)	http://www.ebi.ac.uk/efo/EFO_0004302	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Arm predicted mass (right)	http://www.ebi.ac.uk/efo/EFO_0004302	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Arm tissue fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Arm tissue fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Arm total mass (left)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
@@ -12424,7 +12400,6 @@ PheWAS Catalog		disease	Ascites (non malignant)	http://purl.obolibrary.org/obo/H
 PheWAS Catalog		disease	ASCVD	http://www.ebi.ac.uk/efo/EFO_0003914	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Aseptic necrosis of bone	http://www.ebi.ac.uk/efo/EFO_0004259	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Aspartate aminotransferase	http://www.ebi.ac.uk/efo/EFO_0004736	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Aspartate aminotransferase	http://www.ebi.ac.uk/efo/EFO_0004736	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Aspartylglucosaminuria	http://www.orpha.net/ORDO/Orphanet_93	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Aspartylglucosaminuria  (Patients may be tall for their age, but lack of a growth spurt in puberty typically causes adults to be short)	http://www.orpha.net/ORDO/Orphanet_93	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Asphyxiating thoracic dystrophy 2	http://www.orpha.net/ORDO/Orphanet_474	Gautier Koscielny	2017-06-06 12:00:00
@@ -12453,7 +12428,6 @@ PheWAS Catalog		disease	Atherosclerosis of the extremities	http://www.ebi.ac.uk/
 Target safety		disease	atherothrombosis	http://www.ebi.ac.uk/efo/EFO_1000883	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Atopic/contact dermatitis due to other or unspecified	http://www.ebi.ac.uk/efo/EFO_0005319	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Atransferrinemia	http://www.orpha.net/ORDO/Orphanet_1195	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Target safety		disease	atrial fibrillation	http://www.ebi.ac.uk/efo/EFO_0000275	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Atrial fibrillation	http://www.ebi.ac.uk/efo/EFO_0000275	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Atrial fibrillation and flutter	http://www.ebi.ac.uk/efo/EFO_0000275	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Atrial fibrillation and flutter	http://www.ebi.ac.uk/efo/EFO_0003911	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -12574,12 +12548,10 @@ Genomics England Panel App		disease	Basal ganglia calcification, idiopathic, 4	h
 Genomics England Panel App		disease	Basal ganglia calcification, idiopathic, 5	http://www.orpha.net/ORDO/Orphanet_1980	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Basal ganglia calcification, idiopathic, 6	http://www.orpha.net/ORDO/Orphanet_1980	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Basal metabolic rate	http://www.ebi.ac.uk/efo/EFO_0007777	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Basal metabolic rate	http://www.ebi.ac.uk/efo/EFO_0007777	GWAS Catalog	2022-06-10
 ClinVar		disease	Basan syndrome	http://www.orpha.net/ORDO/Orphanet_1658	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Basel-Vanagaite-Smirin-Yosef syndrome	http://www.orpha.net/ORDO/Orphanet_464738	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Basophill count	http://www.ebi.ac.uk/efo/EFO_0005090	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Basophill percentage	http://www.ebi.ac.uk/efo/EFO_0007992	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Basophill percentage	http://www.ebi.ac.uk/efo/EFO_0007992	GWAS Catalog	2022-06-10
 ClinVar		disease	Beaded hair	http://www.orpha.net/ORDO/Orphanet_573	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Beare-Stevenson Cutis Gyrata Syndrome	http://www.orpha.net/ORDO/Orphanet_1555	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Beaulieu-Boycott-Innes syndrome	http://www.orpha.net/ORDO/Orphanet_363444	Gautier Koscielny	2017-06-06 12:00:00
@@ -12631,7 +12603,6 @@ PheWAS Catalog		disease	Bipolar	http://www.ebi.ac.uk/efo/EFO_0000289	Eliseo Papa
 Genebass		disease	Bipolar disorder status	http://www.ebi.ac.uk/efo/EFO_0000289	Irene Lopez	2022-06-16 00:00:00
 ClinVar		disease	Birk Barel mental retardation dysmorphism syndrome	http://www.orpha.net/ORDO/Orphanet_166108	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Birth weight	http://www.ebi.ac.uk/efo/EFO_0004344	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Birth weight	http://www.ebi.ac.uk/efo/EFO_0004344	GWAS Catalog	2022-06-10
 Genebass		disease	Birth weight known	http://www.ebi.ac.uk/efo/EFO_0004344	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	BK VP1 antigen for Human Polyomavirus BKV	http://www.ebi.ac.uk/efo/EFO_0600074	GWAS Catalog	2022-06-10
 Cancer Biomarkers		disease	Bladder carcinoma	http://www.ebi.ac.uk/efo/EFO_0000292	Irene Lopez	2021-08-09 12:00:00
@@ -12654,13 +12625,11 @@ PheWAS Catalog		disease	Blood vessel replaced	http://www.ebi.ac.uk/efo/EFO_00106
 Genomics England Panel App		disease	BLOOM SYNDROME	http://www.orpha.net/ORDO/Orphanet_125	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	blurred vision	http://purl.obolibrary.org/obo/HP_0000622	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Body fat percentage	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Body fat percentage	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 Genebass		disease	Body fat percentage adjusted for body mass index (BFPadjBMI)	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Body fat percentage adjusted for body mass index (BFPadjBMI) female	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Body fat percentage adjusted for body mass index (BFPadjBMI) male	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Body fat percentage female	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Body mass index (BMI)	http://www.ebi.ac.uk/efo/EFO_0004340	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Body mass index (BMI)	http://www.ebi.ac.uk/efo/EFO_0004340	GWAS Catalog	2022-06-10
 Genebass		disease	Body mass index (BMI) female	http://www.ebi.ac.uk/efo/EFO_0004340	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Body mass index (BMI) male	http://www.ebi.ac.uk/efo/EFO_0004340	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Body surface area	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -12742,7 +12711,6 @@ Genomics England Panel App		disease	Burn-McKeown syndrome	http://www.orpha.net/O
 PheWAS Catalog		disease	Bursitis	http://www.ebi.ac.uk/efo/EFO_1000941	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Buschke-Ollendorff syndrome	http://www.orpha.net/ORDO/Orphanet_1306	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	C-reactive protein	http://www.ebi.ac.uk/efo/EFO_0004458	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	C-reactive protein	http://www.ebi.ac.uk/efo/EFO_0004458	GWAS Catalog	2022-06-10
 Genebass		disease	C18 Malignant neoplasm of colon	http://www.ebi.ac.uk/efo/EFO_1001951	Irene Lopez	2022-06-16 00:00:00
 ClinVar		disease	C1q deficiency	http://www.orpha.net/ORDO/Orphanet_169147	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	C20 Malignant neoplasm of rectum	http://www.ebi.ac.uk/efo/EFO_1000657	Irene Lopez	2022-06-16 00:00:00
@@ -12766,7 +12734,6 @@ ClinVar		disease	Café-au-lait macules with pulmonary stenosis	http://www.orpha.
 AstraZeneca PheWAS Portal		disease	CagA antigen for Helicobacter pylori	http://www.ebi.ac.uk/efo/EFO_1000961	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Calcaneal spur; Exostosis NOS	http://purl.obolibrary.org/obo/MONDO_0002181	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Calcium	http://www.ebi.ac.uk/efo/EFO_0004838	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Calcium	http://www.ebi.ac.uk/efo/EFO_0004838	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Calculus of bile duct	http://www.ebi.ac.uk/efo/EFO_1000865	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Calculus of kidney	http://www.ebi.ac.uk/efo/EFO_0003845	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Calculus of lower urinary tract	http://purl.obolibrary.org/obo/MONDO_0004828	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -12950,7 +12917,6 @@ ClinVar		disease	CATSPER-Related Male Infertility	http://www.orpha.net/ORDO/Orph
 ClinVar		disease	Caudal duplication anomaly	http://www.orpha.net/ORDO/Orphanet_1756	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Cd59 deficiency	http://www.orpha.net/ORDO/Orphanet_169464	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Cd8 deficiency, familial	http://www.orpha.net/ORDO/Orphanet_169085	Gautier Koscielny	2017-06-06 12:00:00
-PheWAS Catalog		disease	Celiac disease	http://www.ebi.ac.uk/efo/EFO_0001060	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Celiac disease	http://www.ebi.ac.uk/efo/EFO_0001060	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Celiac or tropical sprue	http://purl.obolibrary.org/obo/MONDO_0001078	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Celiac or tropical sprue	http://www.ebi.ac.uk/efo/EFO_0001060	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -13115,7 +13081,6 @@ Genomics England Panel App		disease	Cholestasis, progressive familial intrahepat
 Genomics England Panel App		disease	Cholestasis, progressive familial intrahepatic 2	http://www.orpha.net/ORDO/Orphanet_172	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Cholesteatoma	http://www.ebi.ac.uk/efo/EFO_1000675	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Cholesterol	http://www.ebi.ac.uk/efo/EFO_0004574	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Cholesterol	http://www.ebi.ac.uk/efo/EFO_0004574	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Chondrocalcinosis	http://purl.obolibrary.org/obo/HP_0000934	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Chondrocalcinosis 2	http://www.orpha.net/ORDO/Orphanet_1416	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Chondrodysplasia acromesomelic with genital anomalies	http://www.orpha.net/ORDO/Orphanet_2098	Gautier Koscielny	2017-06-06 12:00:00
@@ -13496,7 +13461,6 @@ Genomics England Panel App		disease	Craniosynostosis And Dental Anomalies	http:/
 Genomics England Panel App		disease	Craniosynostosis, type 2	http://www.orpha.net/ORDO/Orphanet_1541	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Creatine phosphokinase, elevated serum	http://www.orpha.net/ORDO/Orphanet_206599	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Creatinine	http://www.ebi.ac.uk/efo/EFO_0004518	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Creatinine	http://www.ebi.ac.uk/efo/EFO_0004518	GWAS Catalog	2022-06-10
 Genebass		disease	Creatinine (enzymatic) in urine	http://www.ebi.ac.uk/efo/EFO_0004518	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Creatinine (enzymatic) in urine	http://www.ebi.ac.uk/efo/EFO_0007934	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Creutzfeldt-Jakob disease	http://www.ebi.ac.uk/efo/EFO_0004226	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -13522,7 +13486,6 @@ PheWAS Catalog		disease	Cyst and pseudocyst of pancreas	http://purl.obolibrary.o
 PheWAS Catalog		disease	Cyst of kidney, acquired	http://www.ebi.ac.uk/efo/EFO_0008619	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cyst or abscess of Bartholin's gland	http://www.ebi.ac.uk/efo/EFO_0009469	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Cystatin C	http://www.ebi.ac.uk/efo/EFO_0004617	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Cystatin C	http://www.ebi.ac.uk/efo/EFO_0004617	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Cystic Fibrosis	http://www.orpha.net/ORDO/Orphanet_586	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Cystic kidney disease	http://www.ebi.ac.uk/efo/EFO_0008615	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Cystic mastopathy	http://www.ebi.ac.uk/efo/EFO_0003014	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -13947,7 +13910,6 @@ CTTV-indication		disease	Diarrhoea	http://purl.obolibrary.org/obo/HP_0002014	Sir
 Genebass		disease	Diastolic blood pressure	http://www.ebi.ac.uk/efo/EFO_0006336	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Diastolic blood pressure adjusted for body mass index (DBPadjBMI)	http://www.ebi.ac.uk/efo/EFO_0006336	David Ochoa	2022-06-16 00:00:00
 Genebass		disease	Diastolic blood pressure, automated reading	http://www.ebi.ac.uk/efo/EFO_0006336	David Ochoa	2022-06-16 00:00:00
-Genebass		disease	Diastolic blood pressure, automated reading	http://www.ebi.ac.uk/efo/EFO_0006336	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Diastolic blood pressure| automated reading	http://www.ebi.ac.uk/efo/EFO_0006336	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Diastolic blood pressure| manual reading	http://www.ebi.ac.uk/efo/EFO_0006336	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Diastolic brachial blood pressure	http://www.ebi.ac.uk/efo/EFO_0006336	GWAS Catalog	2022-06-10
@@ -13967,7 +13929,6 @@ ClinVar		disease	Dilated cardiomyopathy 2A	http://www.orpha.net/ORDO/Orphanet_15
 PheWAS Catalog		disease	Diplopia and disorders of binocular vision	http://purl.obolibrary.org/obo/HP_0000651	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Diplopia and disorders of binocular vision	http://www.ebi.ac.uk/efo/EFO_0009535	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Direct bilirubin	http://www.ebi.ac.uk/efo/EFO_0004570	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Direct bilirubin	http://www.ebi.ac.uk/efo/EFO_0004570	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Discrepancy between dMRI brain image and T1 brain image	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Discrepancy between rfMRI brain image and T1 brain image	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Discrepancy between SWI brain image and T1 brain image	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -14249,9 +14210,7 @@ CTTV-indication		disease	Enuresis	http://purl.obolibrary.org/obo/HP_0010677	Sira
 PheWAS Catalog		disease	Eosinophilia	http://purl.obolibrary.org/obo/HP_0001880	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Cancer Biomarkers		disease	Eosinophilic chronic leukemia	http://www.ebi.ac.uk/efo/EFO_1000178	Irene Lopez	2021-08-09 12:00:00
 Genebass		disease	Eosinophill count	http://www.ebi.ac.uk/efo/EFO_0004842	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Eosinophill count	http://www.ebi.ac.uk/efo/EFO_0004842	GWAS Catalog	2022-06-10
 Genebass		disease	Eosinophill percentage	http://www.ebi.ac.uk/efo/EFO_0007991	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Eosinophill percentage	http://www.ebi.ac.uk/efo/EFO_0007991	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Ependymoma	http://www.ebi.ac.uk/efo/EFO_1000028	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Epidermolysis bullosa simplex with migratory circinate erythema	http://www.orpha.net/ORDO/Orphanet_158681	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Epidermolysis bullosa simplex with mottled pigmentation	http://www.orpha.net/ORDO/Orphanet_79397	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -14527,7 +14486,6 @@ AstraZeneca PheWAS Portal		disease	Forced expiratory volume in 1-second (FEV1)| 
 AstraZeneca PheWAS Portal		disease	Forced expiratory volume in 1-second (FEV1)| predicted	http://www.ebi.ac.uk/efo/EFO_0004314	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Forced expiratory volume in 1-second (FEV1)| predicted percentage	http://www.ebi.ac.uk/efo/EFO_0004314	GWAS Catalog	2022-06-10
 Genebass		disease	Forced vital capacity (FVC)	http://www.ebi.ac.uk/efo/EFO_0004312	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Forced vital capacity (FVC)	http://www.ebi.ac.uk/efo/EFO_0004312	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Forced vital capacity (FVC) Z-score	http://www.ebi.ac.uk/efo/EFO_0004312	GWAS Catalog	2022-06-10
 Genebass		disease	Forced vital capacity (FVC), Best measure	http://www.ebi.ac.uk/efo/EFO_0004312	David Ochoa	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Forced vital capacity (FVC)| Best measure	http://www.ebi.ac.uk/efo/EFO_0004312	GWAS Catalog	2022-06-10
@@ -14641,7 +14599,6 @@ Target safety		disease	gallbladder contraction	http://purl.obolibrary.org/obo/HP
 Genomics England Panel App		disease	Galloway Mowat Syndrome	http://www.orpha.net/ORDO/Orphanet_2065	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Galloway-Mowat syndrome	http://www.orpha.net/ORDO/Orphanet_2065	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Gamma glutamyltransferase	http://www.ebi.ac.uk/efo/EFO_0004532	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Gamma glutamyltransferase	http://www.ebi.ac.uk/efo/EFO_0004532	GWAS Catalog	2022-06-10
 ClinVar		disease	Gamma-glutamylcysteine synthetase deficiency, hemolytic anemia due to	http://www.orpha.net/ORDO/Orphanet_33574	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Gangrene	http://www.ebi.ac.uk/efo/EFO_0008574	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Gardner Syndrome	http://www.orpha.net/ORDO/Orphanet_79665	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -14733,14 +14690,12 @@ PheWAS Catalog		disease	Glossodynia	http://purl.obolibrary.org/obo/MONDO_0043237
 ClinVar		disease	Glucocorticoid deficiency with achalasia	http://www.orpha.net/ORDO/Orphanet_869	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Glucocorticoid resistance	http://www.orpha.net/ORDO/Orphanet_786	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Glucose	http://www.ebi.ac.uk/efo/EFO_0004468	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Glucose	http://www.ebi.ac.uk/efo/EFO_0004468	GWAS Catalog	2022-06-10
 Genebass		disease	Glucose (NMR metabolite)	http://www.ebi.ac.uk/efo/EFO_0004468	Irene Lopez	2022-06-16 00:00:00
 Genomics England Panel App		disease	GLUT1 deficiency syndrome 2	http://www.orpha.net/ORDO/Orphanet_98811	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Glutamine deficiency, congenital	http://www.orpha.net/ORDO/Orphanet_71278	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Glutathione synthetase deficiency	http://www.orpha.net/ORDO/Orphanet_32	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Glutathione synthetase deficiency of erythrocytes, hemolytic anemia due to	http://www.orpha.net/ORDO/Orphanet_32	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Glycated haemoglobin (HbA1c)	http://www.ebi.ac.uk/efo/EFO_0004541	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Glycated haemoglobin (HbA1c)	http://www.ebi.ac.uk/efo/EFO_0004541	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Glycerol kinase deficiency	http://www.orpha.net/ORDO/Orphanet_408	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Glycine encephalopathy	http://www.orpha.net/ORDO/Orphanet_407	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Glycogen Storage Disease	http://www.orpha.net/ORDO/Orphanet_263297	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -14807,9 +14762,7 @@ AstraZeneca PheWAS Portal		disease	Gynoid total mass	http://www.ebi.ac.uk/efo/EF
 PheWAS Catalog		disease	H. pylori	http://www.ebi.ac.uk/efo/EFO_1000961	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Had menopause	http://www.ebi.ac.uk/efo/EFO_0003922	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Haematocrit percentage	http://www.ebi.ac.uk/efo/EFO_0004348	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Haematocrit percentage	http://www.ebi.ac.uk/efo/EFO_0004348	GWAS Catalog	2022-06-10
 Genebass		disease	Haemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004509	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Haemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004509	GWAS Catalog	2022-06-10
 Genebass		disease	Haemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004528	Irene Lopez	2022-06-16 00:00:00
 CTTV-indication		disease	Haemolytic uraemic syndrome	http://purl.obolibrary.org/obo/HP_0005575	Sirarat Sarntivijai	2015-03-24 12:00:00
 Genomics England Panel App		disease	Haim-Munk syndrome	http://www.orpha.net/ORDO/Orphanet_2342	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -14822,9 +14775,7 @@ PheWAS Catalog		disease	Hammer toe (acquired	http://www.ebi.ac.uk/efo/EFO_100133
 ClinVar		disease	Hand foot uterus syndrome	http://www.orpha.net/ORDO/Orphanet_2438	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Hand grip strength	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Hand grip strength (left)	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Hand grip strength (left)	http://www.ebi.ac.uk/efo/EFO_0006941	GWAS Catalog	2022-06-10
 Genebass		disease	Hand grip strength (right)	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Hand grip strength (right)	http://www.ebi.ac.uk/efo/EFO_0006941	GWAS Catalog	2022-06-10
 Genebass		disease	Hand grip strength adjusted for height and weight (HGSadjHtWt)	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Hand grip strength adjusted for height and weight (HGSadjHtWt) female	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Hand grip strength adjusted for height and weight (HGSadjHtWt) male	http://www.ebi.ac.uk/efo/EFO_0006941	Irene Lopez	2022-06-16 00:00:00
@@ -14838,7 +14789,6 @@ ClinVar		disease	Hay-Wells syndrome of ectodermal dysplasia	http://www.orpha.net
 ClinVar		disease	Hb SS disease	http://www.orpha.net/ORDO/Orphanet_232	Gautier Koscielny	2017-06-06 12:00:00
 AstraZeneca PheWAS Portal		disease	HBe antigen for Hepatitis B Virus	http://www.ebi.ac.uk/efo/EFO_0004197	GWAS Catalog	2022-06-10
 Genebass		disease	HDL cholesterol	http://www.ebi.ac.uk/efo/EFO_0004612	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	HDL cholesterol	http://www.ebi.ac.uk/efo/EFO_0004612	GWAS Catalog	2022-06-10
 Cancer Biomarkers		disease	Head and neck cancer	http://www.ebi.ac.uk/efo/EFO_0006859	Irene Lopez	2021-08-09 12:00:00
 Cancer Biomarkers		disease	Head and neck squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0000181	Irene Lopez	2021-08-09 12:00:00
 AstraZeneca PheWAS Portal		disease	Head BMC (bone mineral content)	http://www.ebi.ac.uk/efo/EFO_0007621	GWAS Catalog	2022-06-10
@@ -14850,7 +14800,6 @@ Target safety		disease	hearing impairment	http://www.ebi.ac.uk/efo/EFO_0004238	I
 PheWAS Catalog		disease	Hearing loss	http://www.ebi.ac.uk/efo/EFO_0004238	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Heart and brain malformation syndrome	http://www.orpha.net/ORDO/Orphanet_79499	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	heart attack	http://www.ebi.ac.uk/efo/EFO_0000612	Irene Lopez	2021-11-02 12:00:00
-Target safety		disease	heart failure	http://www.ebi.ac.uk/efo/EFO_0003144	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Heart Failure	http://www.ebi.ac.uk/efo/EFO_0003144	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Heart failure NOS	http://www.ebi.ac.uk/efo/EFO_0003144	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 AstraZeneca PheWAS Portal		disease	Heart rate during PWA	http://www.ebi.ac.uk/efo/EFO_0004326	GWAS Catalog	2022-06-10
@@ -14862,9 +14811,7 @@ PheWAS Catalog		disease	Heartburn	http://purl.obolibrary.org/obo/HP_0002020	Elis
 Genebass		disease	Heel bone mineral density	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Heel bone mineral density (BMD)	http://www.ebi.ac.uk/efo/EFO_0009270	GWAS Catalog	2022-06-10
 Genebass		disease	Heel bone mineral density (BMD) (left)	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Heel bone mineral density (BMD) (left)	http://www.ebi.ac.uk/efo/EFO_0009270	GWAS Catalog	2022-06-10
 Genebass		disease	Heel bone mineral density (BMD) (right)	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Heel bone mineral density (BMD) (right)	http://www.ebi.ac.uk/efo/EFO_0009270	GWAS Catalog	2022-06-10
 Genebass		disease	Heel bone mineral density (BMD) T-score, automated	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Heel bone mineral density (BMD) T-score, automated (left)	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Heel bone mineral density (BMD) T-score, automated (right)	http://www.ebi.ac.uk/efo/EFO_0009270	Irene Lopez	2022-06-16 00:00:00
@@ -14961,12 +14908,9 @@ ClinVar		disease	Heterotaxy, visceral, 6, autosomal	http://www.orpha.net/ORDO/Or
 ClinVar		disease	Heterotopia, periventricular, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_2149	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Hidradenitis	http://purl.obolibrary.org/obo/MONDO_0002260	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	High light scatter reticulocyte count	http://www.ebi.ac.uk/efo/EFO_0007986	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	High light scatter reticulocyte count	http://www.ebi.ac.uk/efo/EFO_0007986	GWAS Catalog	2022-06-10
 Genebass		disease	High light scatter reticulocyte percentage	http://www.ebi.ac.uk/efo/EFO_0010700	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	High light scatter reticulocyte percentage	http://www.ebi.ac.uk/efo/EFO_0010700	GWAS Catalog	2022-06-10
 ClinVar		disease	High molecular weight kininogen deficiency	http://www.orpha.net/ORDO/Orphanet_483	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Hip circumference	http://www.ebi.ac.uk/efo/EFO_0005093	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Hip circumference	http://www.ebi.ac.uk/efo/EFO_0005093	GWAS Catalog	2022-06-10
 Genebass		disease	Hip circumference adjusted for body mass index (HCadjBMI)	http://www.ebi.ac.uk/efo/EFO_0005093	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Hip circumference adjusted for body mass index (HCadjBMI) female	http://www.ebi.ac.uk/efo/EFO_0005093	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Hip circumference adjusted for body mass index (HCadjBMI) male	http://www.ebi.ac.uk/efo/EFO_0005093	Irene Lopez	2022-06-16 00:00:00
@@ -15213,7 +15157,6 @@ AstraZeneca PheWAS Portal		disease	IE1B antigen for Human Herpesvirus-6	http://w
 ClinVar		disease	IFAP syndrome with or without BRESHECK syndrome	http://www.orpha.net/ORDO/Orphanet_2273	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	IFAP syndrome with or without BRESHECK syndrome	http://www.orpha.net/ORDO/Orphanet_85284	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	IGF-1	http://www.ebi.ac.uk/efo/EFO_0004627	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	IGF-1	http://www.ebi.ac.uk/efo/EFO_0004627	GWAS Catalog	2022-06-10
 ClinVar		disease	IL21R immunodeficiency	http://www.orpha.net/ORDO/Orphanet_357329	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Ileostomy status	http://www.ebi.ac.uk/efo/EFO_0010681	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Ill-defined descriptions and complications of heart disease	http://www.ebi.ac.uk/efo/EFO_0003777	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -15582,7 +15525,6 @@ ClinVar		disease	Lattice corneal dystrophy type 3A	http://www.orpha.net/ORDO/Orp
 ClinVar		disease	Lattice corneal dystrophy Type III	http://www.orpha.net/ORDO/Orphanet_98957	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Laurin-Sandrow syndrome	http://www.orpha.net/ORDO/Orphanet_2378	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	LDL direct	http://www.ebi.ac.uk/efo/EFO_0004611	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	LDL direct	http://www.ebi.ac.uk/efo/EFO_0004611	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Leber congenital amaurosis	http://www.orpha.net/ORDO/Orphanet_65	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Leber congenital amaurosis 1	http://www.orpha.net/ORDO/Orphanet_65	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Leber congenital amaurosis 10	http://www.orpha.net/ORDO/Orphanet_65	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -15613,22 +15555,14 @@ AstraZeneca PheWAS Portal		disease	Leg BMD (bone mineral density) (right)	http:/
 AstraZeneca PheWAS Portal		disease	Leg bone area (left)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Leg bone area (right)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat mass (left)	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat mass (left)	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat mass (right)	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat mass (right)	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat-free mass (left)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat-free mass (left)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Leg fat-free mass (right)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg fat-free mass (right)	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Leg pain on walking	http://purl.obolibrary.org/obo/HP_0012514	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Leg predicted mass (left)	http://www.ebi.ac.uk/efo/EFO_0004302	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg predicted mass (left)	http://www.ebi.ac.uk/efo/EFO_0004302	GWAS Catalog	2022-06-10
 Genebass		disease	Leg predicted mass (right)	http://www.ebi.ac.uk/efo/EFO_0004302	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Leg predicted mass (right)	http://www.ebi.ac.uk/efo/EFO_0004302	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Leg tissue fat percentage (left)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Leg tissue fat percentage (right)	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Leg total mass (left)	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
@@ -15726,7 +15660,6 @@ Genomics England Panel App		disease	Lipodystrophy, familial partial, 2	http://ww
 Target safety		disease	lipolysis	http://www.ebi.ac.uk/efo/EFO_0009876	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Lipoma	http://www.ebi.ac.uk/efo/EFO_0000759	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Lipoprotein A	http://www.ebi.ac.uk/efo/EFO_0006925	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Lipoprotein A	http://www.ebi.ac.uk/efo/EFO_0006925	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Lipoprotein disorders	http://www.ebi.ac.uk/efo/EFO_0000589	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Lipoprotein glomerulopathy	http://www.orpha.net/ORDO/Orphanet_329481	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Lipoprotein lipase deficiency	http://www.orpha.net/ORDO/Orphanet_309015	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -15796,9 +15729,7 @@ ClinVar		disease	Lymphedema, hereditary, ID	http://www.orpha.net/ORDO/Orphanet_7
 ClinVar		disease	Lymphedema, primary, with myelodysplasia	http://www.orpha.net/ORDO/Orphanet_3226	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Lymphedema-distichiasis syndrome	http://www.orpha.net/ORDO/Orphanet_33001	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Lymphocyte count	http://www.ebi.ac.uk/efo/EFO_0004587	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Lymphocyte count	http://www.ebi.ac.uk/efo/EFO_0004587	GWAS Catalog	2022-06-10
 Genebass		disease	Lymphocyte percentage	http://www.ebi.ac.uk/efo/EFO_0007993	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Lymphocyte percentage	http://www.ebi.ac.uk/efo/EFO_0007993	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Lymphoid leukemia	http://www.ebi.ac.uk/efo/EFO_0004289	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Lymphoid leukemia, chronic	http://www.ebi.ac.uk/efo/EFO_0004289	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Cancer Biomarkers		disease	Lymphoma	http://www.ebi.ac.uk/efo/EFO_0000574	Irene Lopez	2021-08-09 12:00:00
@@ -15934,11 +15865,8 @@ AstraZeneca PheWAS Portal		disease	Mean carotid IMT (intima-medial thickness) at
 AstraZeneca PheWAS Portal		disease	Mean carotid IMT (intima-medial thickness) at 210 degrees	http://www.ebi.ac.uk/efo/EFO_0007117	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean carotid IMT (intima-medial thickness) at 240 degrees	http://www.ebi.ac.uk/efo/EFO_0007117	GWAS Catalog	2022-06-10
 Genebass		disease	Mean corpuscular haemoglobin	http://www.ebi.ac.uk/efo/EFO_0004527	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean corpuscular haemoglobin	http://www.ebi.ac.uk/efo/EFO_0004527	GWAS Catalog	2022-06-10
 Genebass		disease	Mean corpuscular haemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004528	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean corpuscular haemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004528	GWAS Catalog	2022-06-10
 Genebass		disease	Mean corpuscular volume	http://www.ebi.ac.uk/efo/EFO_0004526	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean corpuscular volume	http://www.ebi.ac.uk/efo/EFO_0004526	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean FA in anterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean FA in anterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean FA in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -15999,74 +15927,47 @@ AstraZeneca PheWAS Portal		disease	Mean FA in uncinate fasciculus on FA skeleton
 AstraZeneca PheWAS Portal		disease	Mean ICVF in anterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in anterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cingulum cingulate gyrus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cingulum cingulate gyrus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cingulum cingulate gyrus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cingulum cingulate gyrus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cingulum hippocampus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cingulum hippocampus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in cingulum hippocampus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in cingulum hippocampus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in corticospinal tract on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in corticospinal tract on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in external capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in external capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in external capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in medial lemniscus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in medial lemniscus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in middle cerebellar peduncle on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in middle cerebellar peduncle on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in pontine crossing tract on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in posterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-Genebass		disease	Mean ICVF in posterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in posterior thalamic radiation on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior thalamic radiation on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in posterior thalamic radiation on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in retrolenticular part of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in retrolenticular part of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in retrolenticular part of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in sagittal stratum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in sagittal stratum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in sagittal stratum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in splenium of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in splenium of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in superior fronto-occipital fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ICVF in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ICVF in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ICVF in uncinate fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16097,14 +15998,12 @@ AstraZeneca PheWAS Portal		disease	Mean ISOVF in medial lemniscus on FA skeleton
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in middle cerebellar peduncle on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in pontine crossing tract on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ISOVF in posterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior thalamic radiation on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in posterior thalamic radiation on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean ISOVF in retrolenticular part of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean ISOVF in retrolenticular part of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in retrolenticular part of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in sagittal stratum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean ISOVF in sagittal stratum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16127,15 +16026,12 @@ AstraZeneca PheWAS Portal		disease	Mean L1 in anterior limb of internal capsule 
 AstraZeneca PheWAS Portal		disease	Mean L1 in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in cingulum cingulate gyrus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in cingulum cingulate gyrus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in cingulum hippocampus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in cingulum hippocampus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in corticospinal tract on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in corticospinal tract on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in corticospinal tract on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in external capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in external capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16168,11 +16064,8 @@ AstraZeneca PheWAS Portal		disease	Mean L1 in superior fronto-occipital fascicul
 AstraZeneca PheWAS Portal		disease	Mean L1 in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L1 in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L1 in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in uncinate fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L1 in uncinate fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in anterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16187,16 +16080,12 @@ AstraZeneca PheWAS Portal		disease	Mean L2 in cingulum cingulate gyrus on FA ske
 AstraZeneca PheWAS Portal		disease	Mean L2 in cingulum hippocampus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in cingulum hippocampus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in corticospinal tract on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in corticospinal tract on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in corticospinal tract on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in external capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in external capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16220,9 +16109,7 @@ AstraZeneca PheWAS Portal		disease	Mean L2 in superior cerebellar peduncle on FA
 AstraZeneca PheWAS Portal		disease	Mean L2 in superior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in superior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in superior fronto-occipital fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in superior fronto-occipital fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L2 in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L2 in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L2 in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16247,16 +16134,13 @@ AstraZeneca PheWAS Portal		disease	Mean L3 in external capsule on FA skeleton (l
 AstraZeneca PheWAS Portal		disease	Mean L3 in external capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L3 in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L3 in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Mean L3 in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in medial lemniscus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in medial lemniscus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L3 in medial lemniscus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in middle cerebellar peduncle on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in pontine crossing tract on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in posterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
@@ -16279,7 +16163,6 @@ AstraZeneca PheWAS Portal		disease	Mean L3 in superior corona radiata on FA skel
 AstraZeneca PheWAS Portal		disease	Mean L3 in superior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in superior fronto-occipital fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean L3 in superior fronto-occipital fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean L3 in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean L3 in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Mean L3 in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16295,9 +16178,7 @@ AstraZeneca PheWAS Portal		disease	Mean MD in anterior limb of internal capsule 
 AstraZeneca PheWAS Portal		disease	Mean MD in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MD in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MD in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MD in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MD in cerebral peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in cingulum cingulate gyrus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in cingulum cingulate gyrus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in cingulum hippocampus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16308,7 +16189,6 @@ AstraZeneca PheWAS Portal		disease	Mean MD in external capsule on FA skeleton (l
 AstraZeneca PheWAS Portal		disease	Mean MD in external capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in fornix cres+stria terminalis on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MD in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MD in fornix cres+stria terminalis on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MD in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Mean MD in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MD in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16343,7 +16223,6 @@ AstraZeneca PheWAS Portal		disease	Mean MD in uncinate fasciculus on FA skeleton
 AstraZeneca PheWAS Portal		disease	Mean MD in uncinate fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in anterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MO in anterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MO in anterior corona radiata on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16362,7 +16241,6 @@ AstraZeneca PheWAS Portal		disease	Mean MO in fornix cres+stria terminalis on FA
 AstraZeneca PheWAS Portal		disease	Mean MO in fornix on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MO in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MO in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in medial lemniscus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in medial lemniscus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16375,7 +16253,6 @@ AstraZeneca PheWAS Portal		disease	Mean MO in posterior limb of internal capsule
 AstraZeneca PheWAS Portal		disease	Mean MO in posterior thalamic radiation on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in posterior thalamic radiation on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MO in retrolenticular part of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MO in retrolenticular part of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in retrolenticular part of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in sagittal stratum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in sagittal stratum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16389,9 +16266,7 @@ AstraZeneca PheWAS Portal		disease	Mean MO in superior fronto-occipital fascicul
 AstraZeneca PheWAS Portal		disease	Mean MO in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MO in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MO in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean MO in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean MO in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in uncinate fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean MO in uncinate fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in anterior corona radiata on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16399,7 +16274,6 @@ AstraZeneca PheWAS Portal		disease	Mean OD in anterior corona radiata on FA skel
 Genebass		disease	Mean OD in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Mean OD in anterior limb of internal capsule on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean OD in anterior limb of internal capsule on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in body of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Mean OD in cerebral peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16419,7 +16293,6 @@ AstraZeneca PheWAS Portal		disease	Mean OD in fornix on FA skeleton	http://www.e
 AstraZeneca PheWAS Portal		disease	Mean OD in genu of corpus callosum on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in inferior cerebellar peduncle on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean OD in inferior cerebellar peduncle on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in medial lemniscus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in medial lemniscus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in middle cerebellar peduncle on FA skeleton	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
@@ -16444,16 +16317,11 @@ AstraZeneca PheWAS Portal		disease	Mean OD in superior fronto-occipital fascicul
 AstraZeneca PheWAS Portal		disease	Mean OD in superior longitudinal fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in superior longitudinal fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean OD in tapetum on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean OD in tapetum on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean OD in uncinate fasciculus on FA skeleton (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean OD in uncinate fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	Daniel Suveges	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean OD in uncinate fasciculus on FA skeleton (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Mean platelet (thrombocyte) volume	http://www.ebi.ac.uk/efo/EFO_0004584	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean platelet (thrombocyte) volume	http://www.ebi.ac.uk/efo/EFO_0004584	GWAS Catalog	2022-06-10
 Genebass		disease	Mean reticulocyte volume	http://www.ebi.ac.uk/efo/EFO_0010701	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Mean reticulocyte volume	http://www.ebi.ac.uk/efo/EFO_0010701	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean rfMRI head motion| averaged across space and time points	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean signal-to-noise ratio (SNR)| (left)	http://www.ebi.ac.uk/efo/EFO_0007616	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Mean signal-to-noise ratio (SNR)| (right)	http://www.ebi.ac.uk/efo/EFO_0007616	GWAS Catalog	2022-06-10
@@ -16483,23 +16351,15 @@ AstraZeneca PheWAS Portal		disease	Median T2star in accumbens (right)	http://www
 AstraZeneca PheWAS Portal		disease	Median T2star in amygdala (left)	http://www.ebi.ac.uk/efo/EFO_0006934	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median T2star in amygdala (right)	http://www.ebi.ac.uk/efo/EFO_0006934	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in caudate (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in caudate (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in caudate (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in caudate (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median T2star in hippocampus (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median T2star in hippocampus (right)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in pallidum (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in pallidum (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in pallidum (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in pallidum (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in putamen (left)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in putamen (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in putamen (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in putamen (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in thalamus (left)	http://www.ebi.ac.uk/efo/EFO_0004464	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in thalamus (left)	http://www.ebi.ac.uk/efo/EFO_0004464	GWAS Catalog	2022-06-10
 Genebass		disease	Median T2star in thalamus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Median T2star in thalamus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median z-statistic (in group-defined amygdala activation mask) for faces-shapes contrast	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median z-statistic (in group-defined mask) for faces activation	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Median z-statistic (in group-defined mask) for faces-shapes contrast	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -16661,7 +16521,6 @@ ClinVar		disease	Methylmalonyl-CoA epimerase deficiency	http://www.orpha.net/ORD
 Genomics England Panel App		disease	Mevalonic aciduria	http://www.orpha.net/ORDO/Orphanet_29	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Michelin-tire baby	http://www.orpha.net/ORDO/Orphanet_2505	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Microalbumin in urine	http://www.ebi.ac.uk/efo/EFO_0010967	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Microalbumin in urine	http://www.ebi.ac.uk/efo/EFO_0010967	GWAS Catalog	2022-06-10
 Genomics England Panel App		disease	Microcephalic Osteodysplastic Primordial Dwarfism	http://www.orpha.net/ORDO/Orphanet_2637	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly	http://purl.obolibrary.org/obo/HP_0000252	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Microcephaly 1, Primary, Autosomal Recessive	http://www.orpha.net/ORDO/Orphanet_2512	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -16777,9 +16636,7 @@ AstraZeneca PheWAS Portal		disease	momp A antigen for Chlamydia trachomatis	http
 AstraZeneca PheWAS Portal		disease	momp D antigen for Chlamydia trachomatis	http://www.ebi.ac.uk/efo/EFO_0007205	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Monday average acceleration	http://www.ebi.ac.uk/efo/EFO_0008002	GWAS Catalog	2022-06-10
 Genebass		disease	Monocyte count	http://www.ebi.ac.uk/efo/EFO_0005091	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Monocyte count	http://www.ebi.ac.uk/efo/EFO_0005091	GWAS Catalog	2022-06-10
 Genebass		disease	Monocyte percentage	http://www.ebi.ac.uk/efo/EFO_0007989	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Monocyte percentage	http://www.ebi.ac.uk/efo/EFO_0007989	GWAS Catalog	2022-06-10
 ClinVar		disease	Mononeuropathy of the median nerve, mild	http://www.ebi.ac.uk/efo/EFO_0004143	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	mood change	http://www.ebi.ac.uk/efo/EFO_0004247	Irene Lopez	2021-11-02 12:00:00
 PheWAS Catalog		disease	Mood disorders	http://www.ebi.ac.uk/efo/EFO_0004247	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -17095,9 +16952,7 @@ Genomics England Panel App		disease	Neutropenia, severe congenital, 7, autosomal
 Genomics England Panel App		disease	Neutropenia, severe congenital, X-linked	http://www.orpha.net/ORDO/Orphanet_86788	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Target safety		disease	neutrophil collection within the sinusoids	http://purl.obolibrary.org/obo/GO_2000428	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Neutrophill count	http://www.ebi.ac.uk/efo/EFO_0004833	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Neutrophill count	http://www.ebi.ac.uk/efo/EFO_0004833	GWAS Catalog	2022-06-10
 Genebass		disease	Neutrophill percentage	http://www.ebi.ac.uk/efo/EFO_0007990	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Neutrophill percentage	http://www.ebi.ac.uk/efo/EFO_0007990	GWAS Catalog	2022-06-10
 ClinVar		disease	Nevus comedonicus	http://www.orpha.net/ORDO/Orphanet_64754	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Nevus, non-neoplastic	http://www.ebi.ac.uk/efo/EFO_0000625	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Newfoundland rod-cone dystrophy	http://www.orpha.net/ORDO/Orphanet_791	Gautier Koscielny	2017-06-06 12:00:00
@@ -17475,9 +17330,7 @@ Genomics England Panel App		disease	Pachyonychia congenita 4	http://www.orpha.ne
 Genomics England Panel App		disease	Pachyonychia Congenita, Type 1	http://www.orpha.net/ORDO/Orphanet_2309	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Pachyonychia Congenita, Type 2	http://www.orpha.net/ORDO/Orphanet_2309	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Pack years adult smoking as proportion of life span exposed to smoking	http://www.ebi.ac.uk/efo/EFO_0005671	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Pack years adult smoking as proportion of life span exposed to smoking	http://www.ebi.ac.uk/efo/EFO_0005671	GWAS Catalog	2022-06-10
 Genebass		disease	Pack years of smoking	http://www.ebi.ac.uk/efo/EFO_0005671	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Pack years of smoking	http://www.ebi.ac.uk/efo/EFO_0005671	GWAS Catalog	2022-06-10
 ClinVar		disease	Paget disease of bone 2, early-onset	http://www.ebi.ac.uk/efo/EFO_0004261	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Paget disease of bone 6	http://www.ebi.ac.uk/efo/EFO_0004261	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Paget disease of bone, familial	http://www.ebi.ac.uk/efo/EFO_0004261	Gautier Koscielny	2017-06-06 12:00:00
@@ -17671,7 +17524,6 @@ PheWAS Catalog		disease	Phlebitis and thrombophlebitis of lower extremities	http
 PheWAS Catalog		disease	Phlebitis and thrombophlebitis of lower extremities	http://www.ebi.ac.uk/efo/EFO_1001395	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Phobia	http://www.ebi.ac.uk/efo/EFO_1001908	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Phosphate	http://www.ebi.ac.uk/efo/EFO_0010968	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Phosphate	http://www.ebi.ac.uk/efo/EFO_0010968	GWAS Catalog	2022-06-10
 ClinVar		disease	Phosphoglycerate dehydrogenase deficiency	http://www.orpha.net/ORDO/Orphanet_79351	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Phosphoglycerate kinase 1 deficiency	http://www.orpha.net/ORDO/Orphanet_713	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Phosphoribosylpyrophosphate synthetase superactivity	http://www.orpha.net/ORDO/Orphanet_3222	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -17703,11 +17555,8 @@ ClinVar		disease	Plasminogen activator inhibitor type 1 deficiency	http://www.or
 ClinVar		disease	Plasminogen deficiency, type I	http://www.orpha.net/ORDO/Orphanet_722	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	platelet aggregation	http://purl.obolibrary.org/obo/GO_0070527	Irene Lopez	2021-11-02 12:00:00
 Genebass		disease	Platelet count	http://www.ebi.ac.uk/efo/EFO_0004309	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Platelet count	http://www.ebi.ac.uk/efo/EFO_0004309	GWAS Catalog	2022-06-10
 Genebass		disease	Platelet crit	http://www.ebi.ac.uk/efo/EFO_0007985	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Platelet crit	http://www.ebi.ac.uk/efo/EFO_0007985	GWAS Catalog	2022-06-10
 Genebass		disease	Platelet distribution width	http://www.ebi.ac.uk/efo/EFO_0007984	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Platelet distribution width	http://www.ebi.ac.uk/efo/EFO_0007984	GWAS Catalog	2022-06-10
 ClinVar		disease	Platelet-type bleeding disorder 18	http://www.orpha.net/ORDO/Orphanet_420566	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Platelet-type bleeding disorder 19	http://www.orpha.net/ORDO/Orphanet_438207	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Platyspondylic lethal skeletal dysplasia Torrance type	http://www.orpha.net/ORDO/Orphanet_85166	Gautier Koscielny	2017-06-06 12:00:00
@@ -17810,9 +17659,7 @@ PheWAS Catalog		disease	Posterior pituitary disorders	http://www.ebi.ac.uk/efo/E
 ClinVar		disease	Posterior polymorphous corneal dystrophy 1	http://www.orpha.net/ORDO/Orphanet_98973	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Posterior polymorphous corneal dystrophy 3	http://www.orpha.net/ORDO/Orphanet_98973	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Posterior thigh lean muscle volume (left)	http://www.ebi.ac.uk/efo/EFO_0005106	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Posterior thigh lean muscle volume (left)	http://www.ebi.ac.uk/efo/EFO_0005106	GWAS Catalog	2022-06-10
 Genebass		disease	Posterior thigh lean muscle volume (right)	http://www.ebi.ac.uk/efo/EFO_0005106	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Posterior thigh lean muscle volume (right)	http://www.ebi.ac.uk/efo/EFO_0005106	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Postinflammatory pulmonary fibrosis	http://purl.obolibrary.org/obo/MONDO_0001438	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Postlaminectomy syndrome	http://www.ebi.ac.uk/efo/EFO_0009518	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Postmenopausal atrophic vaginitis	http://purl.obolibrary.org/obo/MONDO_0001410	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -18015,9 +17862,7 @@ AstraZeneca PheWAS Portal		disease	Recent medication for COPD (Chronic Obstructi
 AstraZeneca PheWAS Portal		disease	Recent medication for hayfever or allergic rhinitis	http://purl.obolibrary.org/obo/GO_0042493	GWAS Catalog	2022-06-10
 Genebass		disease	Recent poor appetite or overeating	http://www.ebi.ac.uk/efo/EFO_0005203	Kirill Tsukanov	2022-06-16 00:00:00
 Genebass		disease	Red blood cell (erythrocyte) count	http://www.ebi.ac.uk/efo/EFO_0004305	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Red blood cell (erythrocyte) count	http://www.ebi.ac.uk/efo/EFO_0004305	GWAS Catalog	2022-06-10
 Genebass		disease	Red blood cell (erythrocyte) distribution width	http://www.ebi.ac.uk/efo/EFO_0009188	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Red blood cell (erythrocyte) distribution width	http://www.ebi.ac.uk/efo/EFO_0009188	GWAS Catalog	2022-06-10
 Target safety		disease	redness in the face	http://purl.obolibrary.org/obo/HP_0031284	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	reduced insulin secretion	http://purl.obolibrary.org/obo/HP_0040216	Irene Lopez	2021-11-02 12:00:00
 Target safety		disease	reduced REM sleep	http://purl.obolibrary.org/obo/GO_0042322	Irene Lopez	2021-11-02 12:00:00
@@ -18065,10 +17910,8 @@ PheWAS Catalog		disease	Respiratory insufficiency	http://purl.obolibrary.org/obo
 PheWAS Catalog		disease	Restless legs syndrome	http://www.ebi.ac.uk/efo/EFO_0004270	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Retention of urine	http://purl.obolibrary.org/obo/HP_0000016	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Reticulocyte count	http://www.ebi.ac.uk/efo/EFO_0007986	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Reticulocyte count	http://www.ebi.ac.uk/efo/EFO_0007986	GWAS Catalog	2022-06-10
 Genebass		disease	Reticulocyte percentage	http://www.ebi.ac.uk/efo/EFO_0007986	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Reticulocyte percentage	http://www.ebi.ac.uk/efo/EFO_0010700	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Reticulocyte percentage	http://www.ebi.ac.uk/efo/EFO_0010700	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Reticulosarcoma	http://www.ebi.ac.uk/efo/EFO_0005287	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Retinal Cone Dystrophy	http://www.orpha.net/ORDO/Orphanet_71862	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 ClinVar		disease	Retinal cone dystrophy 3A	http://www.orpha.net/ORDO/Orphanet_49382	Gautier Koscielny	2017-06-06 12:00:00
@@ -18250,7 +18093,6 @@ Genomics England Panel App		disease	Sclerosteosis 2	http://www.orpha.net/ORDO/Or
 Genomics England Panel App		disease	Scoliosis, idiopathic 3	http://www.ebi.ac.uk/efo/EFO_0005423	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Sea-blue histiocyte disease	http://www.orpha.net/ORDO/Orphanet_158029	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Seated height	http://www.ebi.ac.uk/efo/EFO_0011011	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Seated height	http://www.ebi.ac.uk/efo/EFO_0011011	GWAS Catalog	2022-06-10
 Genebass		disease	Seating box height	http://www.ebi.ac.uk/efo/EFO_0011011	Kirill Tsukanov	2022-06-16 00:00:00
 PheWAS Catalog		disease	Sebaceous cyst	http://www.ebi.ac.uk/efo/EFO_1000243	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Seborrhea	http://www.ebi.ac.uk/efo/EFO_1000764	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -18315,7 +18157,6 @@ Target safety		disease	sexual dysfunction	http://www.ebi.ac.uk/efo/EFO_0004714	I
 PheWAS Catalog		disease	Sexually transmitted infections (not HIV or hepatitis)	http://purl.obolibrary.org/obo/MONDO_0021681	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Shaheen syndrome	http://www.orpha.net/ORDO/Orphanet_363523	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	SHBG	http://www.ebi.ac.uk/efo/EFO_0004696	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	SHBG	http://www.ebi.ac.uk/efo/EFO_0004696	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Shock	http://purl.obolibrary.org/obo/HP_0031273	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Short QT syndrome 1	http://www.orpha.net/ORDO/Orphanet_51083	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Short QT syndrome 2	http://www.orpha.net/ORDO/Orphanet_51083	Gautier Koscielny	2017-06-06 12:00:00
@@ -18364,7 +18205,6 @@ Genomics England Panel App		disease	Simpson-Golabi-Behmel syndrome, type 1	http:
 Genomics England Panel App		disease	Simpson-Golabi-Behmel syndrome, type 2	http://www.orpha.net/ORDO/Orphanet_373	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 PheWAS Catalog		disease	Sinoatrial node dysfunction (Bradycardia)	http://purl.obolibrary.org/obo/HP_0001662	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Sitting height	http://www.ebi.ac.uk/efo/EFO_0011011	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Sitting height	http://www.ebi.ac.uk/efo/EFO_0011011	GWAS Catalog	2022-06-10
 Genebass		disease	Sitting height female	http://www.ebi.ac.uk/efo/EFO_0011011	Kirill Tsukanov	2022-06-16 00:00:00
 Genebass		disease	Sitting height male	http://www.ebi.ac.uk/efo/EFO_0011011	Kirill Tsukanov	2022-06-16 00:00:00
 Genomics England Panel App		disease	Sjogren-Larsson syndrome	http://www.orpha.net/ORDO/Orphanet_816	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -19369,7 +19209,6 @@ Genomics England Panel App		disease	Squamous cell carcinoma	http://www.ebi.ac.uk
 Cancer Biomarkers		disease	Squamous cell lung carcinoma	http://www.ebi.ac.uk/efo/EFO_0000708	Irene Lopez	2021-08-09 12:00:00
 AstraZeneca PheWAS Portal		disease	Standard deviation of acceleration	http://www.ebi.ac.uk/efo/EFO_0008002	GWAS Catalog	2022-06-10
 Genebass		disease	Standing height	http://www.ebi.ac.uk/efo/EFO_0004339	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Standing height	http://www.ebi.ac.uk/efo/EFO_0004339	GWAS Catalog	2022-06-10
 Genebass		disease	Standing height female	http://www.ebi.ac.uk/efo/EFO_0004339	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Standing height male	http://www.ebi.ac.uk/efo/EFO_0004339	Irene Lopez	2022-06-16 00:00:00
 ClinVar		disease	Stapes ankylosis with broad thumb and toes	http://www.orpha.net/ORDO/Orphanet_140917	Gautier Koscielny	2017-06-06 12:00:00
@@ -19416,7 +19255,6 @@ PheWAS Catalog		disease	Stricture/obstruction of ureter	http://purl.obolibrary.o
 PheWAS Catalog		disease	Stricture/obstruction of ureter	http://purl.obolibrary.org/obo/MONDO_0002674	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Stroke	http://www.ebi.ac.uk/efo/EFO_0000712	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Stroke volume during PWA	http://www.ebi.ac.uk/efo/EFO_0004311	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Stroke volume during PWA	http://www.ebi.ac.uk/efo/EFO_0004311	GWAS Catalog	2022-06-10
 ClinVar		disease	Stromme syndrome	http://www.orpha.net/ORDO/Orphanet_444069	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Subarachnoid hemorrhage	http://www.ebi.ac.uk/efo/EFO_0000713	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Subarachnoid hemorrhage (injury)	http://www.ebi.ac.uk/efo/EFO_0000546	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -19526,7 +19364,6 @@ Target safety		disease	testicular degeneration	http://purl.obolibrary.org/obo/HP
 PheWAS Catalog		disease	Testicular dysfunction	http://www.ebi.ac.uk/efo/EFO_0009601	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Testicular hypofunction	http://www.ebi.ac.uk/efo/EFO_0009601	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Testosterone	http://www.ebi.ac.uk/efo/EFO_0004908	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Testosterone	http://www.ebi.ac.uk/efo/EFO_0004908	GWAS Catalog	2022-06-10
 ClinVar		disease	Tetraamelia, autosomal recessive	http://www.orpha.net/ORDO/Orphanet_3301	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Tetralogy of Fallot	http://purl.obolibrary.org/obo/HP_0001636	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 CTTV-indication		disease	Thalassaemia	http://purl.obolibrary.org/obo/HP_0005560	Sirarat Sarntivijai	2015-03-24 12:00:00
@@ -19585,7 +19422,6 @@ PheWAS Catalog		disease	Thyroiditis	http://purl.obolibrary.org/obo/MONDO_0004126
 PheWAS Catalog		disease	Thyrotoxicosis with or without goiter	http://www.ebi.ac.uk/efo/EFO_0009190	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Tibia, hypoplasia or aplasia of, with polydactyly	http://www.orpha.net/ORDO/Orphanet_3332	Gautier Koscielny	2017-06-06 12:00:00
 Target safety		disease	tingling/weakness in limbs	http://purl.obolibrary.org/obo/MONDO_0044967	Irene Lopez	2021-11-02 12:00:00
-PheWAS Catalog		disease	Tinnitus	http://purl.obolibrary.org/obo/HP_0000360	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Tinnitus	http://purl.obolibrary.org/obo/HP_0000360	Irene Lopez	2022-06-16 00:00:00
 PheWAS Catalog		disease	Tobacco use disorder	http://www.ebi.ac.uk/efo/EFO_0003768	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Target safety		disease	tongue swelling	http://www.ebi.ac.uk/efo/EFO_1000951	Irene Lopez	2021-11-02 12:00:00
@@ -19595,7 +19431,6 @@ PheWAS Catalog		disease	Torticollis	http://purl.obolibrary.org/obo/HP_0000473	El
 AstraZeneca PheWAS Portal		disease	Total abdominal adipose tissue index	http://www.ebi.ac.uk/efo/EFO_0004764	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total adipose tissue volume	http://www.ebi.ac.uk/efo/EFO_0004764	GWAS Catalog	2022-06-10
 Genebass		disease	Total bilirubin	http://www.ebi.ac.uk/efo/EFO_0004570	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Total bilirubin	http://www.ebi.ac.uk/efo/EFO_0004570	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total BMC (bone mineral content)	http://www.ebi.ac.uk/efo/EFO_0007621	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total BMD (bone mineral density)	http://www.ebi.ac.uk/efo/EFO_0003923	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total BMD (bone mineral density) (left)	http://www.ebi.ac.uk/efo/EFO_0003923	GWAS Catalog	2022-06-10
@@ -19608,18 +19443,14 @@ AstraZeneca PheWAS Portal		disease	Total mass	http://www.ebi.ac.uk/efo/EFO_00049
 AstraZeneca PheWAS Portal		disease	Total mass	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total peripheral resistance during PWA	http://www.ebi.ac.uk/efo/EFO_0005278	GWAS Catalog	2022-06-10
 Genebass		disease	Total protein	http://www.ebi.ac.uk/efo/EFO_0004536	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Total protein	http://www.ebi.ac.uk/efo/EFO_0004536	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total sugars	http://www.ebi.ac.uk/efo/EFO_0003939	GWAS Catalog	2022-06-10
 Genebass		disease	Total thigh muscle volume	http://www.ebi.ac.uk/efo/EFO_0005106	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Total thigh muscle volume	http://www.ebi.ac.uk/efo/EFO_0005106	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total tissue fat percentage	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Total trunk fat	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Total volume of white matter hyperintensities (from T1 and T2_FLAIR images)	http://www.ebi.ac.uk/efo/EFO_0008320	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Total volume of white matter hyperintensities (from T1 and T2_FLAIR images)	http://www.ebi.ac.uk/efo/EFO_0008320	GWAS Catalog	2022-06-10
 Genebass		disease	Touchscreen duration	http://purl.obolibrary.org/obo/GO_0007610	Irene Lopez	2022-06-16 00:00:00
 Genomics England Panel App		disease	Townes-Brocks Syndrome	http://www.orpha.net/ORDO/Orphanet_857	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Townsend deprivation index at recruitment	http://www.ebi.ac.uk/efo/EFO_0009711	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Townsend deprivation index at recruitment	http://www.ebi.ac.uk/efo/EFO_0009711	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Toxic effect of venom	http://www.ebi.ac.uk/efo/EFO_0008546	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Toxic erythema	http://www.ebi.ac.uk/efo/EFO_0010687	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Toxic multinodular goiter	http://www.ebi.ac.uk/efo/EFO_0009191	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -19653,7 +19484,6 @@ Genomics England Panel App		disease	Trifunctional protein deficiency	http://www.
 PheWAS Catalog		disease	Trigeminal nerve disorders [CN5]	http://www.ebi.ac.uk/efo/EFO_0009569	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Triglyceride storage disease with ichthyosis	http://www.orpha.net/ORDO/Orphanet_98907	Gautier Koscielny	2017-06-06 12:00:00
 Genebass		disease	Triglycerides	http://www.ebi.ac.uk/efo/EFO_0004530	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Triglycerides	http://www.ebi.ac.uk/efo/EFO_0004530	GWAS Catalog	2022-06-10
 ClinVar		disease	Trigonocephaly 1	http://www.orpha.net/ORDO/Orphanet_3366	Gautier Koscielny	2017-06-06 12:00:00
 ClinVar		disease	Trigonocephaly 2	http://www.orpha.net/ORDO/Orphanet_3366	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Triphalangeal thumb-polysyndactyly syndrome	http://www.orpha.net/ORDO/Orphanet_2950	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -19666,13 +19496,10 @@ AstraZeneca PheWAS Portal		disease	Trunk BMD (bone mineral density) (left)	http:
 AstraZeneca PheWAS Portal		disease	Trunk BMD (bone mineral density) (right)	http://www.ebi.ac.uk/efo/EFO_0020105	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Trunk bone area	http://www.ebi.ac.uk/efo/EFO_0020105	GWAS Catalog	2022-06-10
 Genebass		disease	Trunk fat mass	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Trunk fat mass	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Trunk fat percentage	http://www.ebi.ac.uk/efo/EFO_0004324	GWAS Catalog	2022-06-10
 Genebass		disease	Trunk fat percentage	http://www.ebi.ac.uk/efo/EFO_0007800	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Trunk fat-free mass	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Trunk fat-free mass	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Trunk predicted mass	http://www.ebi.ac.uk/efo/EFO_0004324	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Trunk predicted mass	http://www.ebi.ac.uk/efo/EFO_0004324	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Trunk tissue fat percentage	http://www.ebi.ac.uk/efo/EFO_0007800	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Trunk total mass	http://www.ebi.ac.uk/efo/EFO_0004512	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Trunk total mass	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
@@ -19701,7 +19528,6 @@ ClinVar		disease	Tyrosine kinase 2 deficiency	http://www.orpha.net/ORDO/Orphanet
 Genomics England Panel App		disease	Tyrosinemia, type I	http://www.orpha.net/ORDO/Orphanet_882	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 AstraZeneca PheWAS Portal		disease	U14 antigen for Human Herpesvirus-7	http://www.ebi.ac.uk/efo/EFO_0007309	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Ulcer of esophagus	http://purl.obolibrary.org/obo/MONDO_0044782	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
-PheWAS Catalog		disease	Ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	Irene Lopez	2022-06-16 00:00:00
 Genomics England Panel App		disease	Ullrich Congenital Muscular Dystrophy	http://www.orpha.net/ORDO/Orphanet_75840	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Ullrich congenital muscular dystrophy 1	http://www.orpha.net/ORDO/Orphanet_75840	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -24844,9 +24670,7 @@ PheWAS Catalog		disease	Unspecified polyarthropathy or polyarthritis involving m
 PheWAS Catalog		disease	Unstable angina (intermediate coronary syndrome)	http://www.ebi.ac.uk/efo/EFO_1000985	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Upper gastrointestinal congenital anomalies	http://www.ebi.ac.uk/efo/EFO_0010282	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genebass		disease	Urate	http://www.ebi.ac.uk/efo/EFO_0004531	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Urate	http://www.ebi.ac.uk/efo/EFO_0004531	GWAS Catalog	2022-06-10
 Genebass		disease	Urea	http://www.ebi.ac.uk/efo/EFO_0009795	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Urea	http://www.ebi.ac.uk/efo/EFO_0009795	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	UreA antigen for Helicobacter pylori	http://www.ebi.ac.uk/efo/EFO_1000961	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Urethral hypermobility/ISD	http://purl.obolibrary.org/obo/MONDO_0001721	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 PheWAS Catalog		disease	Urethral hypermobility/ISD	http://www.ebi.ac.uk/efo/EFO_0009689	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -24965,7 +24789,6 @@ AstraZeneca PheWAS Portal		disease	Vitamin B12	http://www.ebi.ac.uk/efo/EFO_0003
 AstraZeneca PheWAS Portal		disease	Vitamin B6	http://www.ebi.ac.uk/efo/EFO_0003939	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Vitamin C	http://www.ebi.ac.uk/efo/EFO_0003939	GWAS Catalog	2022-06-10
 Genebass		disease	Vitamin D	http://www.ebi.ac.uk/efo/EFO_0004631	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Vitamin D	http://www.ebi.ac.uk/efo/EFO_0004631	GWAS Catalog	2022-06-10
 PheWAS Catalog		disease	Vitamin D deficiency	http://www.ebi.ac.uk/efo/EFO_0003762	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 ClinVar		disease	Vitamin d hydroxylation-deficient rickets, type 1b	http://www.orpha.net/ORDO/Orphanet_289157	Gautier Koscielny	2017-06-06 12:00:00
 PheWAS Catalog		disease	Vitamin deficiency	http://www.ebi.ac.uk/efo/EFO_0005878	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
@@ -24990,7 +24813,6 @@ AstraZeneca PheWAS Portal		disease	Volume of brain| grey+white matter (normalise
 AstraZeneca PheWAS Portal		disease	Volume of caudate (left)	http://www.ebi.ac.uk/efo/EFO_0004830	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of caudate (right)	http://www.ebi.ac.uk/efo/EFO_0004830	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter (normalised for head size)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Amygdala (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Amygdala (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25013,7 +24835,6 @@ AstraZeneca PheWAS Portal		disease	Volume of grey matter in Cuneal Cortex (left)
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Cuneal Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Frontal Medial Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Frontal Medial Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Frontal Medial Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Frontal Operculum Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Frontal Operculum Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Frontal Orbital Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25040,7 +24861,6 @@ AstraZeneca PheWAS Portal		disease	Volume of grey matter in Insular Cortex (left
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Insular Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Intracalcarine Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Intracalcarine Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Intracalcarine Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in IX Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in IX Cerebellum (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex) (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25080,16 +24900,12 @@ AstraZeneca PheWAS Portal		disease	Volume of grey matter in Planum Polare (right
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Planum Temporale (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Planum Temporale (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Postcentral Gyrus (left)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Postcentral Gyrus (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Postcentral Gyrus (right)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Postcentral Gyrus (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Precentral Gyrus (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Precentral Gyrus (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Precuneous Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Precuneous Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Precuneous Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Putamen (left)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Putamen (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Putamen (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Subcallosal Cortex (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Subcallosal Cortex (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25117,7 +24933,6 @@ AstraZeneca PheWAS Portal		disease	Volume of grey matter in Temporal Occipital F
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Temporal Pole (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Temporal Pole (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in Thalamus (left)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in Thalamus (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Thalamus (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in V Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in V Cerebellum (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25132,9 +24947,7 @@ AstraZeneca PheWAS Portal		disease	Volume of grey matter in Vermis VIIIa Cerebel
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Vermis VIIIb Cerebellum	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in Vermis X Cerebellum	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in VI Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in VI Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of grey matter in VI Cerebellum (right)	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of grey matter in VI Cerebellum (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in VIIb Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in VIIb Cerebellum (right)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of grey matter in VIIIa Cerebellum (left)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
@@ -25148,7 +24961,6 @@ AstraZeneca PheWAS Portal		disease	Volume of hippocampus (right)	http://www.ebi.
 AstraZeneca PheWAS Portal		disease	Volume of pallidum (left)	http://www.ebi.ac.uk/efo/EFO_0006933	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of pallidum (right)	http://www.ebi.ac.uk/efo/EFO_0006933	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of peripheral cortical grey matter	http://www.ebi.ac.uk/efo/EFO_0005420	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of peripheral cortical grey matter	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of peripheral cortical grey matter (normalised for head size)	http://www.ebi.ac.uk/efo/EFO_0005420	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of putamen (left)	http://www.ebi.ac.uk/efo/EFO_0006932	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of putamen (right)	http://www.ebi.ac.uk/efo/EFO_0006932	GWAS Catalog	2022-06-10
@@ -25157,7 +24969,6 @@ AstraZeneca PheWAS Portal		disease	Volume of thalamus (right)	http://www.ebi.ac.
 AstraZeneca PheWAS Portal		disease	Volume of ventricular cerebrospinal fluid	http://www.ebi.ac.uk/efo/EFO_0008080	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of ventricular cerebrospinal fluid (normalised for head size)	http://www.ebi.ac.uk/efo/EFO_0008080	GWAS Catalog	2022-06-10
 Genebass		disease	Volume of white matter	http://www.ebi.ac.uk/efo/EFO_0008320	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Volume of white matter	http://www.ebi.ac.uk/efo/EFO_0008320	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volume of white matter (normalised for head size)	http://www.ebi.ac.uk/efo/EFO_0008320	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Volumetric scaling from T1 head image to standard space	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Target safety		disease	vomiting	http://purl.obolibrary.org/obo/HP_0002017	Irene Lopez	2021-11-02 12:00:00
@@ -25172,7 +24983,6 @@ Genomics England Panel App		disease	Waardenburg Syndrome, Type 3	http://www.orph
 Genomics England Panel App		disease	Wagner Syndrome	http://www.orpha.net/ORDO/Orphanet_898	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Waisman syndrome	http://www.orpha.net/ORDO/Orphanet_2379	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Waist circumference	http://www.ebi.ac.uk/efo/EFO_0004342	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Waist circumference	http://www.ebi.ac.uk/efo/EFO_0004342	GWAS Catalog	2022-06-10
 Genebass		disease	Waist circumference adjusted for body mass index (WCadjBMI)	http://www.ebi.ac.uk/efo/EFO_0007789	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Waist circumference adjusted for body mass index (WCadjBMI) female	http://www.ebi.ac.uk/efo/EFO_0007789	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Waist circumference adjusted for body mass index (WCadjBMI) male	http://www.ebi.ac.uk/efo/EFO_0007789	Irene Lopez	2022-06-16 00:00:00
@@ -25201,7 +25011,6 @@ Genomics England Panel App		disease	Weaver Syndrome	http://www.orpha.net/ORDO/Or
 Genomics England Panel App		disease	WEAVER SYNDROME 2	http://www.orpha.net/ORDO/Orphanet_3447	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 AstraZeneca PheWAS Portal		disease	Wednesday average acceleration	http://www.ebi.ac.uk/efo/EFO_0008002	GWAS Catalog	2022-06-10
 Genebass		disease	Weight	http://www.ebi.ac.uk/efo/EFO_0004338	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weight	http://www.ebi.ac.uk/efo/EFO_0004338	GWAS Catalog	2022-06-10
 Genebass		disease	Weight adjusted for height	http://www.ebi.ac.uk/efo/EFO_0004338	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Weight adjusted for height female	http://www.ebi.ac.uk/efo/EFO_0004338	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Weight adjusted for height male	http://www.ebi.ac.uk/efo/EFO_0004338	Irene Lopez	2022-06-16 00:00:00
@@ -25286,7 +25095,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean ICVF in tract uncinate fascicul
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract acoustic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract acoustic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean ISOVF in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract cingulate gyrus part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract cingulate gyrus part of cingulum (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25300,7 +25108,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract inferior longitu
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract inferior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract medial lemniscus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean ISOVF in tract medial lemniscus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract medial lemniscus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract middle cerebellar peduncle	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract parahippocampal part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean ISOVF in tract parahippocampal part of cingulum (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25324,7 +25131,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract forceps major	http:
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract forceps minor	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract inferior fronto-occipital fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean L1 in tract inferior fronto-occipital fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract inferior fronto-occipital fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract inferior longitudinal fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract inferior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract medial lemniscus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25338,7 +25144,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract superior longitudin
 Genebass		disease	Weighted-mean L1 in tract superior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract superior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean L1 in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract superior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract uncinate fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L1 in tract uncinate fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25372,7 +25177,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean L2 in tract superior thalamic r
 AstraZeneca PheWAS Portal		disease	Weighted-mean L2 in tract uncinate fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L2 in tract uncinate fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean L3 in tract acoustic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract acoustic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract acoustic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -25398,15 +25202,12 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract posterior thalamic 
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract superior longitudinal fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract superior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean L3 in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract superior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract uncinate fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean L3 in tract uncinate fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MD in tract acoustic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract acoustic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract acoustic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MD in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MD in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract cingulate gyrus part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -25429,7 +25230,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract posterior thalamic 
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract superior longitudinal fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract superior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MD in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract superior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract superior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract uncinate fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MD in tract uncinate fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -25437,13 +25237,11 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract acoustic radiation 
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract acoustic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract anterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MO in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract anterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract cingulate gyrus part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract cingulate gyrus part of cingulum (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract corticospinal tract (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract corticospinal tract (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MO in tract forceps major	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract forceps major	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract forceps minor	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract inferior fronto-occipital fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract inferior fronto-occipital fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25451,7 +25249,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract inferior longitudin
 Genebass		disease	Weighted-mean MO in tract inferior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract inferior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean MO in tract medial lemniscus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract medial lemniscus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract medial lemniscus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract middle cerebellar peduncle	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean MO in tract parahippocampal part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25473,7 +25270,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract cingulate gyrus par
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract corticospinal tract (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract corticospinal tract (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean OD in tract forceps major	http://www.ebi.ac.uk/efo/EFO_0007849	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract forceps major	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract forceps minor	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract inferior fronto-occipital fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract inferior fronto-occipital fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
@@ -25485,7 +25281,6 @@ AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract middle cerebellar p
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract parahippocampal part of cingulum (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract parahippocampal part of cingulum (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 Genebass		disease	Weighted-mean OD in tract posterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract posterior thalamic radiation (left)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract posterior thalamic radiation (right)	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract superior longitudinal fasciculus (left)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Weighted-mean OD in tract superior longitudinal fasciculus (right)	http://www.ebi.ac.uk/efo/EFO_0007849	GWAS Catalog	2022-06-10
@@ -25503,7 +25298,6 @@ Genebass		disease	Wheeze or whistling in the chest in last year	http://www.ebi.a
 PheWAS Catalog		disease	Wheezing	http://www.ebi.ac.uk/efo/EFO_0009715	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	WHIM syndrome	http://www.orpha.net/ORDO/Orphanet_51636	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	White blood cell (leukocyte) count	http://www.ebi.ac.uk/efo/EFO_0004308	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	White blood cell (leukocyte) count	http://www.ebi.ac.uk/efo/EFO_0004308	GWAS Catalog	2022-06-10
 Genebass		disease	Whole body fat free mass	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Whole body fat free mass adjusted for body mass index (WBFFMadjBMI)	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Whole body fat free mass adjusted for body mass index (WBFFMadjBMI) female	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
@@ -25511,11 +25305,8 @@ Genebass		disease	Whole body fat free mass adjusted for body mass index (WBFFMad
 Genebass		disease	Whole body fat free mass female	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Whole body fat free mass male	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Whole body fat mass	http://www.ebi.ac.uk/efo/EFO_0005409	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Whole body fat mass	http://www.ebi.ac.uk/efo/EFO_0005409	GWAS Catalog	2022-06-10
 Genebass		disease	Whole body fat-free mass	http://www.ebi.ac.uk/efo/EFO_0004995	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Whole body fat-free mass	http://www.ebi.ac.uk/efo/EFO_0004995	GWAS Catalog	2022-06-10
 Genebass		disease	Whole body water mass	http://www.ebi.ac.uk/efo/EFO_0009805	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Whole body water mass	http://www.ebi.ac.uk/efo/EFO_0009805	GWAS Catalog	2022-06-10
 ClinVar		disease	Wieacker syndrome	http://www.orpha.net/ORDO/Orphanet_3454	Gautier Koscielny	2017-06-06 12:00:00
 Genomics England Panel App		disease	Wieacker-Wolff syndrome	http://www.orpha.net/ORDO/Orphanet_3454	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Wilms tumor	http://www.ebi.ac.uk/efo/EFO_1000056	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
