@@ -6171,7 +6171,7 @@ Genebass		disease	Sitting height female	EFO_0011011	Kirill Tsukanov	2022-06-16 0
 Genebass		disease	Sitting height male	EFO_0011011	Kirill Tsukanov	2022-06-16 00:00:00
 Genebass		disease	Smoking status	EFO_0006527	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Smoking/smokers in household	EFO_0008361	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Sodium in urine	EFO_0005116	Irene Lopez	2022-06-16 00:00:00
+Genebass		disease	Sodium in urine	EFO_0021522	Irene Lopez	2022-07-12 00:00:00
 Genebass		disease	Standing height	EFO_0004339	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Standing height female	EFO_0004339	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Standing height male	EFO_0004339	Irene Lopez	2022-06-16 00:00:00
@@ -6292,7 +6292,7 @@ Genebass		disease	Whole body water mass	EFO_0009805	Irene Lopez	2022-06-16 00:00
 Genebass		disease	Year of birth	EFO_0004950	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z08 Follow-up examination after treatment for malignant neoplasm	EFO_0000311	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z09 Follow-up examination after treatment for conditions other than malignant neoplasms	EFO_0030038	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Z12 Special screening examination for neoplasms	EFO_0002571	Irene Lopez	2022-06-16 00:00:00
+Genebass		disease	Z12 Special screening examination for neoplasms	EFO_0021523	Irene Lopez	2022-07-12 00:00:00
 Genebass		disease	Z80 Family history of malignant neoplasm	EFO_0009640	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z85 Personal history of malignant neoplasm	EFO_0000311	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	23050#HSV-1 seropositivity for Herpes Simplex virus-1	EFO_0007036	GWAS Catalog	2022-06-10
@@ -22386,13 +22386,13 @@ AstraZeneca PheWAS Portal		disease	41202#Z099#Z09.9 Follow-up examination after 
 AstraZeneca PheWAS Portal		disease	41202#Z11#Z11 Special screening examination for infectious and parasitic diseases	EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z110#Z11.0 Special screening examination for intestinal infectious diseases	EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z112#Z11.2 Special screening examination for other bacterial diseases	EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z12#Z12 Special screening examination for neoplasms	EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z120#Z12.0 Special screening examination for neoplasm of stomach	EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	EFO_0009517	GWAS Catalog	2022-06-10
+AstraZeneca PheWAS Portal		disease	41202#Z12#Z12 Special screening examination for neoplasms	EFO_0021523	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z120#Z12.0 Special screening examination for neoplasm of stomach	EFO_0021523	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	EFO_0009517	Irene Lopez	2022-07-12
 AstraZeneca PheWAS Portal		disease	41202#Z13#Z13 Special screening examination for other diseases and disorders	EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z130#Z13.0 Special screening examination for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	EFO_0004542	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z131#Z13.1 Special screening examination for diabetes mellitus	EFO_0004542	GWAS Catalog	2022-06-10
@@ -25410,7 +25410,7 @@ AstraZeneca PheWAS Portal		disease	High light scatter reticulocyte count	EFO_000
 AstraZeneca PheWAS Portal		disease	Microalbumin in urine	EFO_0010967	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Creatinine (enzymatic) in urine	EFO_0007934	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Potassium in urine	HP_0012598	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	Sodium in urine	EFO_0009282	GWAS Catalog	2022-06-10
+AstraZeneca PheWAS Portal		disease	Sodium in urine	EFO_0021522	Irene Lopez	2022-07-12
 AstraZeneca PheWAS Portal		disease	Albumin	EFO_0004535	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Alkaline phosphatase	EFO_0004533	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	Alanine aminotransferase	EFO_0004735	GWAS Catalog	2022-06-10
