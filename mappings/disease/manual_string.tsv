@@ -7685,13 +7685,13 @@ AstraZeneca PheWAS Portal		disease	41202#Z099#Z09.9 Follow-up examination after 
 AstraZeneca PheWAS Portal		disease	41202#Z11#Z11 Special screening examination for infectious and parasitic diseases	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z110#Z11.0 Special screening examination for intestinal infectious diseases	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z112#Z11.2 Special screening examination for other bacterial diseases	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z12#Z12 Special screening examination for neoplasms	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z120#Z12.0 Special screening examination for neoplasm of stomach	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
-AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
+AstraZeneca PheWAS Portal		disease	41202#Z12#Z12 Special screening examination for neoplasms	http://www.ebi.ac.uk/efo/EFO_0021523	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z120#Z12.0 Special screening examination for neoplasm of stomach	http://www.ebi.ac.uk/efo/EFO_0021523	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
 AstraZeneca PheWAS Portal		disease	41202#Z13#Z13 Special screening examination for other diseases and disorders	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z130#Z13.0 Special screening examination for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z131#Z13.1 Special screening examination for diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
@@ -18237,8 +18237,8 @@ Target safety		disease	smooth-muscle contraction	http://purl.obolibrary.org/obo/
 Target safety		disease	smooth-muscle contraction (prostate in particular, effects on the lower urinary tract)	http://purl.obolibrary.org/obo/GO_0006939	Irene Lopez	2021-11-02 12:00:00
 Genomics England Panel App		disease	Sneddon syndrome	http://www.orpha.net/ORDO/Orphanet_820	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genomics England Panel App		disease	Snowflake vitreoretinal degeneration	http://www.orpha.net/ORDO/Orphanet_91496	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
-Genebass		disease	Sodium in urine	http://www.ebi.ac.uk/efo/EFO_0005116	Irene Lopez	2022-06-16 00:00:00
-AstraZeneca PheWAS Portal		disease	Sodium in urine	http://www.ebi.ac.uk/efo/EFO_0009282	GWAS Catalog	2022-06-10
+Genebass		disease	Sodium in urine	http://www.ebi.ac.uk/efo/EFO_0021522	Irene Lopez	2022-06-16 00:00:00
+AstraZeneca PheWAS Portal		disease	Sodium in urine	http://www.ebi.ac.uk/efo/EFO_0021522	GWAS Catalog	2022-06-10
 Cancer Biomarkers		disease	Solid tumors	http://purl.obolibrary.org/obo/NCIT_C9292	Irene Lopez	2021-08-09 12:00:00
 PheWAS Catalog		disease	Somatoform disorder	http://www.ebi.ac.uk/efo/EFO_0009687	Eliseo Papa, Asier Gonzalez	2020-04-07 12:00:00
 Genomics England Panel App		disease	Sorsby fundus  dystrophy	http://www.orpha.net/ORDO/Orphanet_59181	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
@@ -25348,7 +25348,7 @@ Genomics England Panel App		disease	Yunis Varon syndrome	http://www.orpha.net/OR
 Genomics England Panel App		disease	Yunis-Varon syndrome	http://www.orpha.net/ORDO/Orphanet_3472	Denise Carvalho-Silva, Ian Dunham, Gautier Koscielny, Naveen Aranganathan	2017-05-24 12:00:00
 Genebass		disease	Z08 Follow-up examination after treatment for malignant neoplasm	http://www.ebi.ac.uk/efo/EFO_0000311	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z09 Follow-up examination after treatment for conditions other than malignant neoplasms	http://www.ebi.ac.uk/efo/EFO_0030038	Irene Lopez	2022-06-16 00:00:00
-Genebass		disease	Z12 Special screening examination for neoplasms	http://www.ebi.ac.uk/efo/EFO_0002571	Irene Lopez	2022-06-16 00:00:00
+Genebass		disease	Z12 Special screening examination for neoplasms	http://www.ebi.ac.uk/efo/EFO_0021523	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z80 Family history of malignant neoplasm	http://www.ebi.ac.uk/efo/EFO_0009640	Irene Lopez	2022-06-16 00:00:00
 Genebass		disease	Z85 Personal history of malignant neoplasm	http://www.ebi.ac.uk/efo/EFO_0000311	Irene Lopez	2022-06-16 00:00:00
 AstraZeneca PheWAS Portal		disease	ZEBRA antigen for Epstein-Barr Virus	http://www.ebi.ac.uk/efo/EFO_0006930	GWAS Catalog	2022-06-10
