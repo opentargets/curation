@@ -7687,11 +7687,11 @@ AstraZeneca PheWAS Portal		disease	41202#Z110#Z11.0 Special screening examinatio
 AstraZeneca PheWAS Portal		disease	41202#Z112#Z11.2 Special screening examination for other bacterial diseases	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z12#Z12 Special screening examination for neoplasms	http://www.ebi.ac.uk/efo/EFO_0021523	Irene Lopez	2022-07-12
 AstraZeneca PheWAS Portal		disease	41202#Z120#Z12.0 Special screening examination for neoplasm of stomach	http://www.ebi.ac.uk/efo/EFO_0021523	Irene Lopez	2022-07-12
-AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
-AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
-AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
-AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
-AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	http://www.ebi.ac.uk/efo/EFO_0009517	Irene Lopez	2022-07-12
+AstraZeneca PheWAS Portal		disease	41202#Z121#Z12.1 Special screening examination for neoplasm of intestinal tract	http://www.ebi.ac.uk/efo/EFO_0021523	Kirill Tsukanov	2022-08-15
+AstraZeneca PheWAS Portal		disease	41202#Z125#Z12.5 Special screening examination for neoplasm of prostate	http://www.ebi.ac.uk/efo/EFO_0021523	Kirill Tsukanov	2022-08-15
+AstraZeneca PheWAS Portal		disease	41202#Z126#Z12.6 Special screening examination for neoplasm of bladder	http://www.ebi.ac.uk/efo/EFO_0021523	Kirill Tsukanov	2022-08-15
+AstraZeneca PheWAS Portal		disease	41202#Z128#Z12.8 Special screening examination for neoplasm of other sites	http://www.ebi.ac.uk/efo/EFO_0021523	Kirill Tsukanov	2022-08-15
+AstraZeneca PheWAS Portal		disease	41202#Z129#Z12.9 Special screening examination for neoplasm| unspecified	http://www.ebi.ac.uk/efo/EFO_0021523	Kirill Tsukanov	2022-08-15
 AstraZeneca PheWAS Portal		disease	41202#Z13#Z13 Special screening examination for other diseases and disorders	http://www.ebi.ac.uk/efo/EFO_0009517	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z130#Z13.0 Special screening examination for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
 AstraZeneca PheWAS Portal		disease	41202#Z131#Z13.1 Special screening examination for diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0004542	GWAS Catalog	2022-06-10
