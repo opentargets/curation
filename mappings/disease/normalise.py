@@ -34,7 +34,7 @@ before_deduplication_count = len(mappings)
 mappings = (
     mappings
     .sort_values('ANNOTATION_DATE', ascending=False)
-    .groupby(by=['normalised_string', 'normalised_id'])
+    .groupby(by=['normalised_string', 'normalised_id'], as_index=False)
     .first()
 )
 print(f'    Duplicates: {before_deduplication_count - len(mappings)} (removed)')
@@ -46,6 +46,7 @@ print(f'      Not in EFO: {count_and_save_mappings(mappings[mappings["is_obsolet
 print(f'      In EFO but obsolete: {count_and_save_mappings(mappings[mappings["is_obsolete"] == True], "3b_obsolete.tsv")}')
 print(f'      In EFO and live (current): {count_and_save_mappings(mappings[mappings["is_obsolete"] == False], "3c_live.tsv")}')
 
-# Remove the extra columns and output the normalised dataframe.
+# Sort the dataset by disease, remove the extra columns, and output the normalised dataframe.
+mappings = mappings.sort_values(by=['normalised_string', 'SEMANTIC_TAG'])
 mappings = mappings[['STUDY', 'BIOENTITY', 'PROPERTY_TYPE', 'PROPERTY_VALUE', 'SEMANTIC_TAG', 'ANNOTATOR', 'ANNOTATION_DATE']]
 print(f'\nTotal mappings after normalisation: {count_and_save_mappings(mappings, "manual_string_NORM.tsv")}')
