@@ -29,3 +29,6 @@ Associations of 60 genes with autism were identified by analyzing de novo and ra
 
 ### Fat distributionn Publication
 16 genes associated with fat distribution (BMI-adjusted WHR) were identified by analysing missense variants from WES data. Most of them with a protective direction of effect. The data is pulled from the Table 1 of their publication (https://www.nature.com/articles/s41467-022-32398-7.pdf). Only associations with a p-value < 3.6 × 10−7 are included.
+
+### Parkinson Publication
+9 genes associated with Parkinson disease were identified by analysing rare variants from WES and WGS data of different cohorts. The data is curated from Table 1 (data about the population) and Table 2 and 3 (https://www.medrxiv.org/content/10.1101/2022.11.08.22280168v1.full). We report the results of the meta analyses when they show exome wide significance, otherwise we show the significant result on the independent sample.
