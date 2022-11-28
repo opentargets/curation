@@ -1,6 +1,7 @@
 ## Mappings
 
 Label to ontology mappings of different nature:
+  - `pValueText.tsv`: resolving p-value annotation in GWAS Catalog association table using their [abbreviation list](https://www.ebi.ac.uk/gwas/docs/abbreviations)
   - [biosystem](../mappings/biosystem).
     - Labels of anatomical structures such as tissues, organs or systems are mapped to the [UBERON ontology](https://uberon.github.io).
     - Labels of cell lines are mapped to the [Cell Line Ontology](http://www.clo-ontology.org).
