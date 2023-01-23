@@ -32,3 +32,6 @@ Associations of 60 genes with autism were identified by analyzing de novo and ra
 
 ### Parkinson Publication
 9 genes associated with Parkinson disease were identified by analysing rare variants from WES and WGS data of different cohorts. The data is curated from Table 1 (data about the population) and Table 2 and 3 (https://www.medrxiv.org/content/10.1101/2022.11.08.22280168v1.full). We report the results of the meta analyses when they show exome wide significance, otherwise we show the significant result on the independent sample.
+
+### Cardiovascular metabolic biomarkers
+16 genes associated with 226 NMR biomarkers of the lipid metabolism that are relevant in cardiovascular disase. The meta-analysis was done on individuals from the INTERVAL cohort based on WES and WGS data that was oylled from the Supplementary Table 2 (aggregation of LOF variants) and Supplementary Table 3 (aggregation of LOF and deleterious missense variants) (https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008605#sec019). The significance threshold of the meta-analysis is set at 2.5E-6. 
