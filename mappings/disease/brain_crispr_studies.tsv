@@ -1,0 +1,24 @@
+studyId	diseaseFromSource	diseaseFromSourceMappedId	contrast
+iAstrocyte-Phagocytosis-ITC-CRISPRi	neurodegenerative disease	EFO_0005772	
+iAstrocyte-Phagocytosis-Veh-CRISPRi	neurodegenerative disease	EFO_0005772	
+iAstrocyte-VCAM1-ITC-CRISPRi	neuroinflammatory disorders	EFO_0020092	
+iAstrocyte-LAMP1-ITC-CRISPRi	neurodegenerative disease, lysosomal storage disease, AD, PD, MS	EFO_0005772, MONDO_0002561, MONDO_0004975, MONDO_0005301, MONDO_0005180	
+iAstrocyte-LAMP1-Veh-CRISPRi	neurodegenerative disease, lysosomal storage disease, AD, PD, MS	EFO_0005772, MONDO_0002561, MONDO_0004975, MONDO_0005301, MONDO_0005180	
+iAstrocyte-LysoTracker-ITC-CRISPRi	neurodegenerative disease, lysosomal storage disease, AD, PD, MS	EFO_0005772, MONDO_0002561, MONDO_0004975, MONDO_0005301, MONDO_0005180	
+iAstrocyte-LysoTracker-Veh-CRISPRi	neurodegenerative disease, lysosomal storage disease, AD, PD, MS	EFO_0005772, MONDO_0002561, MONDO_0004975, MONDO_0005301, MONDO_0005180	
+iTF-Microglia-Immune Activation-CRISPRi	neuroinflammatory disorders	EFO_0020092	
+iTF-Microglia-Phagocytosis-CRISPRi	neurodegenerative disease	EFO_0005772	
+iTF-Microglia-Phagocytosis-CRISPRa	neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-CellRox-CRISPRi	neurodegenerative disease, ageing	EFO_0005772, GO_0007568	
+Glutamatergic Neuron-FeRhoNox-CRISPRi	neurodegenerative disease, ageing	EFO_0005772, GO_0007568	
+Glutamatergic Neuron-Liperfluo-CRISPRi	neurodegenerative disease, ageing	EFO_0005772, GO_0007568	
+Glutamatergic Neuron-Lysotracker-CRISPRi	neurodegenerative disease, lysosomal storage disease, ageing	EFO_0005772, MONDO_0002561, GO_0007568	
+Glutamatergic Neuron-No Antioxidants-Survival-CRISPRa	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-No Antioxidants-Survival-CRISPRi	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-PSAP KO-No Antioxidants-Survival-CRISPRa	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-PSAP KO-No Antioxidants-Survival-CRISPRi	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-PSAP KO-Survival-CRISPRa	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-PSAP KO-Survival-CRISPRi	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-Survival-CRISPRa	essential genes / neurodegenerative disease	EFO_0005772	
+Glutamatergic Neuron-Survival-CRISPRi	essential genes / neurodegenerative disease	EFO_0005772	
+HSPC-CD34-CRISPRn	Leukemia 	EFO_0000565	
