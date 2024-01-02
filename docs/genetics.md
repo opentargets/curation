@@ -1,4 +1,4 @@
-# Curated input data for OpenTargets Genetics
+# Curated input data for Open Targets Genetics
 
 
 ## GWAS Catalog study curation
@@ -8,7 +8,7 @@ This `.tsv` file contains list of GWAS Catalog study identifiers that have harmo
 ### Schema
 
 - **studyId** - GCST study accession to identify study
-- **analysisFlag** - comment on the applied statistical method authors used that might have downstream implication in our pipelines.
+- **upateAnalysisFlags** - comment on the applied statistical method authors used that might have downstream implication in our pipelines.
 - **updateStudyType** - if a study is not really a GWAS, but a qtl. This string will be picked up and replace the `type` value in the study index.
-- **qualityControls** - `|` separated list of identified issues that prevent the study from ingestion.
+- **upateQualityControls** - `|` separated list of identified issues that prevent the study from ingestion.
 - **isCurated** - boolean flag indicating if the study went through curation.
