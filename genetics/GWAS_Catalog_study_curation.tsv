@@ -1,4 +1,4 @@
-studyId	upateAnalysisFlags	updateStudyType	upateQualityControls	isCurated
+studyId	analysisFlag	studyType	qualityControl	isCurated
 GCST90013791				True
 GCST90267986				True
 GCST90270050				True
