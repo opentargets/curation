@@ -6,3 +6,4 @@ See instructions for:
 - [Mappings](docs/mappings.md)
 - [Gene Burden annotation](docs/gene_burden.md)
 - [Target Safety annotation](docs/target_safety.md)
+- [Curation for OpenTargets Genetics](docs/genetics.md)
