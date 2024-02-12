@@ -7,3 +7,4 @@ See instructions for:
 - [Gene Burden annotation](docs/gene_burden.md)
 - [Target Safety annotation](docs/target_safety.md)
 - [Curation for OpenTargets Genetics](docs/genetics.md)
+- [Extraction of observed phenotypes from pharmacogenetics studies](docs/pharmacogenetics.md)
