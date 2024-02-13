@@ -1,30 +1,40 @@
-oncotreeLineage,tissueId,tissueName
-Ovary/Fallopian Tube,UBERON_0003975,internal female genitalia
-Myeloid,UBERON_0012429,hematopoietic tissue
-Bowel,UBERON_0000160,intestine
-Skin,UBERON_0002097,skin of body
-Bladder/Urinary Tract,UBERON_0001008,renal system
-Lung,UBERON_0002048,lung
-Kidney,UBERON_0002113,kidney
-Breast,UBERON_0000310,breast
-Lymphoid,UBERON_0001744,lymphoid tissue
-Pancreas,UBERON_0001264,pancreas
-CNS/Brain,UBERON_0001017,central nervous system
-Soft Tissue,UBERON_0034929,external soft tissue zone
-Bone,UBERON_0002481,bone tissue
-Fibroblast,CL_0000057,fibroblast
-Esophagus/Stomach,UBERON_0004921,subdivision of digestive tract
-Thyroid,UBERON_0002046,thyroid gland
-Peripheral Nervous System,UBERON_0000010,Peripheral Nervous System
-Pleura,UBERON_0000977,pleura
-Prostate,UBERON_0002367,prostate gland
-Biliary Tract,UBERON_0002394,bile duct
-Head and Neck,UBERON_0007811,craniocervical region
-Uterus,UBERON_0000995,uterus
-Ampulla of Vater,UBERON_0004913,hepatopancreatic ampulla
-Liver,UBERON_0002107,liver
-Cervix,UBERON_0000002,uterine cervix
-Eye,UBERON_0000970,eye
-Vulva/Vagina,UBERON_0000997,mammalian vulva
-Adrenal Gland,UBERON_0002369,adrenal gland
-Testis,UBERON_0000473,testis
+tissueFromSource,tissueId,tissueName
+adrenal gland,UBERON_0002369,adrenal gland
+ampulla of vater,UBERON_0004913,hepatopancreatic ampulla
+biliary tract,UBERON_0002394,bile duct
+bladder,UBERON_0001255,urinary bladder
+bladder/urinary tract,UBERON_0001008,renal system
+bone,UBERON_0002481,bone tissue
+bowel,UBERON_0000160,intestine
+breast,UBERON_0000310,breast
+cervix,UBERON_0000002,uterine cervix
+central nervous system,UBERON_0001017,central nervous system
+endometrium,UBERON_0001295,endometrium
+esophagus,UBERON_0001043,esophagus
+esophagus/stomach,UBERON_0004921,subdivision of digestive tract
+eye,UBERON_0000970,eye
+fibroblast,CL_0000057,fibroblast
+haematopoietic and lymphoid,UBERON_0002193,hemolymphoid system
+head and neck,UBERON_0007811,craniocervical region
+kidney,UBERON_0002113,kidney
+large intestine,UBERON_0000059,large intestine
+liver,UBERON_0002107,liver
+lung,UBERON_0002048,lung
+lymphoid,UBERON_0001744,lymphoid tissue
+myeloid,UBERON_0012429,hematopoietic tissue
+ovary,UBERON_0000992,ovary
+ovary/fallopian tube,UBERON_0003975,internal female genitalia
+pancreas,UBERON_0001264,pancreas
+peripheral nervous system,UBERON_0000010,Peripheral Nervous System
+placenta,UBERON_0001987,placenta
+pleura,UBERON_0000977,pleura
+prostate,UBERON_0002367,prostate gland
+skin,UBERON_0002097,skin of body
+small intestine,UBERON_0002108,small intestine
+soft tissue,UBERON_0034929,external soft tissue zone
+stomach,UBERON_0000945,stomach
+testis,UBERON_0000473,testis
+thyroid,UBERON_0002046,thyroid gland
+uterus,UBERON_0000995,uterus
+vulva,UBERON_0000997,mammalian vulva
+vulva/vagina,UBERON_0000997,mammalian vulva
