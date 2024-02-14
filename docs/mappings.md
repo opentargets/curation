@@ -1,15 +1,8 @@
 ## Mappings
 
-Label to ontology mappings of different nature:
-  - .
-    - Labels of anatomical structures such as tissues, organs or systems are mapped to the [UBERON ontology](https://uberon.github.io).
-    - Labels of cell lines are mapped to the [Cell Line Ontology](http://www.clo-ontology.org).
-  - 
-
-
 ## Biosystems mappings
 
-[biosystem](../mappings/biosystem) contains tissue, organ labels mappings to [UBERON](https://www.ebi.ac.uk/ols4/ontologies/uberon); labels to cell lines to [Cell-line ontology](https://www.ebi.ac.uk/ols4/ontologies/clo). 
+[biosystem](../mappings/biosystem) contains tissue, organ labels mappings to [UBERON](https://www.ebi.ac.uk/ols4/ontologies/uberon); while labels to cell lines to [Cell-line ontology](https://www.ebi.ac.uk/ols4/ontologies/clo). 
 
 ### DepMap/Cell Model Passport mappings
 
