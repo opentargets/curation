@@ -1,0 +1,370 @@
+﻿biosampleName,biosampleId,annotation,confidence
+natural killer cell,CL_0000623,natural killer cell,High
+"CD4-positive, CD25-positive, alpha-beta regulatory T cell",CL_0000792,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",Good
+"CD4-positive, alpha-beta T cell",CL_0000624,"CD4-positive, alpha-beta T cell",Good
+suprapubic skin,UBERON_0036149,suprapubic skin,Good
+spleen,UBERON_0002106,spleen,Medium
+T-helper 17 cell,CL_0000899,T-helper 17 cell,Good
+"CD8-positive, alpha-beta T cell",CL_0000625,"CD8-positive, alpha-beta T cell",Good
+"central memory CD8-positive, alpha-beta T cell",CL_0000907,"central memory CD8-positive, alpha-beta T cell",Good
+CD14-positive monocyte,CL_0001054,CD14-positive monocyte,Good
+dorsolateral prefrontal cortex,UBERON_0009834,dorsolateral prefrontal cortex,Good
+left lung,UBERON_0002168,left lung,Good
+posterior cingulate gyrus,UBERON_0002740,posterior cingulate gyrus,Good
+"naive thymus-derived CD4-positive, alpha-beta T cell",CL_0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",Good
+"CD8-positive, alpha-beta memory T cell",CL_0000909,"CD8-positive, alpha-beta memory T cell",Good
+kidney,UBERON_0002113,kidney,Medium
+"activated CD4-positive, alpha-beta regulatory T cell",CL_0000896,"activated CD4-positive, alpha-beta T cell",Medium
+T-helper 2 cell,CL_0000546,T-helper 2 cell,Good
+T-cell,CL_0000084,T cell,Good
+"naive thymus-derived CD8-positive, alpha-beta T cell",CL_0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",Good
+left colon,UBERON_0008971,left colon,Good
+HCT116,EFO_0002824,HCT116,Good
+T-helper 1 cell,CL_0000545,T-helper 1 cell,Good
+"effector memory CD4-positive, alpha-beta T cell",CL_0000905,"effector memory CD4-positive, alpha-beta T cell",Good
+mucosa of descending colon,UBERON_0004992,mucosa of descending colon,Good
+"effector CD4-positive, alpha-beta T cell",CL_0000905,"effector memory CD4-positive, alpha-beta T cell",Good
+T-helper 9 cell,CL_0002061,T-helper 9 cell,Good
+breast epithelium,UBERON_0008367,breast epithelium,Good
+"activated effector memory CD4-positive, alpha-beta T cell",CL_0000905,"effector memory CD4-positive, alpha-beta T cell",Medium
+OCI-LY7,EFO_0006711,OCI-LY7,Good
+right lobe of liver,UBERON_0001114,right lobe of liver,Good
+activated T-cell,CL_0000906,"activated CD8-positive, alpha-beta T cell",Medium
+"stimulated activated naive CD8-positive, alpha-beta T cell",CL_0000906,"activated CD8-positive, alpha-beta T cell",Medium
+right cardiac atrium,UBERON_0002078,right cardiac atrium,Good
+memory B cell,CL_0000787,memory B cell,High
+"effector memory CD8-positive, alpha-beta T cell",CL_0000913,"effector memory CD8-positive, alpha-beta T cell",Good
+"stimulated activated effector memory CD8-positive, alpha-beta T cell",CL_0000913,"effector memory CD8-positive, alpha-beta T cell",Medium
+upper lobe of right lung,UBERON_0002170,upper lobe of right lung,Good
+heart left ventricle,UBERON_0002084,heart left ventricle,Good
+K562,EFO_0002067,K562,Good
+sciatic nerve,UBERON_0001322,sciatic nerve,Good
+pancreas,UBERON_0001264,pancreas,Medium
+"CD4-positive, alpha-beta memory T cell",CL_0000897,"CD4-positive, alpha-beta memory T cell",Good
+"stimulated activated CD4-positive, alpha-beta T cell",CL_0000896,"activated CD4-positive, alpha-beta T cell",Medium
+tibial artery,UBERON_0007610,tibial artery,Good
+aorta,UBERON_0000947,aorta,Good
+"activated CD4-positive, alpha-beta T cell",CL_0000896,"activated CD4-positive, alpha-beta T cell",Good
+T-helper 22 cell,CL_0000912,helper T cell,Medium
+lower lobe of left lung,UBERON_0008953,lower lobe of left lung,Good
+"activated CD8-positive, alpha-beta memory T cell",CL_0000907,"central memory CD8-positive, alpha-beta T cell",Medium
+Right ventricle myocardium inferior,UBERON_0006567,right ventricle myocardium,Medium
+colonic mucosa,UBERON_0000317,colonic mucosa,Medium
+lower leg skin,UBERON_0004264,lower leg skin,Good
+astrocyte,CL_0000127,astrocyte,Good
+uterus,UBERON_0000995,uterus,Medium
+ovary,UBERON_0000992,ovary,Good
+"stimulated activated CD8-positive, alpha-beta memory T cell",CL_0000907,"central memory CD8-positive, alpha-beta T cell",Medium
+placenta,UBERON_0001987,placenta,Good
+posterior vena cava,UBERON_0001072,inferior vena cava,Good
+G401,EFO_0002179,G401,Good
+activated T-helper 9 cell,CL_0000912,helper T cell,Medium
+Peyer's patch,UBERON_0001211,Peyer's patch,Good
+Right ventricle myocardium superior,UBERON_0006567,right ventricle myocardium,Good
+heart right ventricle,UBERON_0002080,heart right ventricle,Good
+gastrocnemius medialis,UBERON_0011907,gastrocnemius medialis,Good
+RWPE2,EFO_0007610,RWPE2,Good
+ascending aorta,UBERON_0001496,ascending aorta,Good
+"activated naive CD4-positive, alpha-beta T cell",EFO_0010105,CD4-positive T-lymphocyte count,Medium
+transverse colon,UBERON_0001157,transverse colon,Good
+CD1c-positive myeloid dendritic cell,CL_0002399,CD1c-positive myeloid dendritic cell,Good
+adrenal gland,UBERON_0002369,adrenal gland,Good
+left lobe of liver,UBERON_0001115,left lobe of liver,Good
+psoas muscle,UBERON_0001298,psoas major muscle,Good
+sigmoid colon,UBERON_0001159,sigmoid colon,Good
+left cardiac atrium,UBERON_0002079,left cardiac atrium,Good
+activated gamma-delta T cell,UBERON_0010393,T cell domain,Medium
+left ventricle myocardium inferior,UBERON_0006566,left ventricle myocardium,Medium
+activated T-helper 1 cell,UBERON_0010393,T cell domain,Medium
+"activated CD4-positive, alpha-beta memory T cell",CL_0000904,"central memory CD4-positive, alpha-beta T cell",Medium
+hematopoietic multipotent progenitor cell,CL_0000837,hematopoietic multipotent progenitor cell,Good
+BE2C,EFO_0005725,BE(2)-C,Good
+HL-60,EFO_0002793,HL-60,Good
+chondrocyte,CL_0000138,chondrocyte,Good
+"activated naive CD8-positive, alpha-beta T cell",CL_0000906,"activated CD8-positive, alpha-beta T cell",Medium
+activated B cell,CL_0000236,B cell,Good
+GM12892,EFO_0002786,GM12892,Good
+inflammatory macrophage,CL_0000863,inflammatory macrophage,High
+NAMALWA,EFO_0002246,NAMALWA,Good
+SJSA1,EFO_0002330,SJSA1,Good
+head of caudate nucleus,UBERON_0002626,head of caudate nucleus,Good
+B cell,CL_0000236,B cell,High
+tibial nerve,UBERON_0001323,tibial nerve,Good
+upper lobe of left lung,UBERON_0008952,upper lobe of left lung,Good
+Caco-2,EFO_0001099,Caco-2,Good
+A673,EFO_0002106,A673,Good
+LNCaP clone FGC,EFO_0005726,LNCaP clone FGC,Good
+prostate gland,UBERON_0002367,prostate gland,Good
+small intestine,UBERON_0002108,small intestine,Good
+large intestine,UBERON_0000059,large intestine,Good
+body of pancreas,UBERON_0001150,body of pancreas,Good
+CMK,EFO_0003037,CMK,Good
+dermis blood vessel endothelial cell,CL_2000010,dermis blood vessel endothelial cell,Good
+GM10266,EFO_0005335,GM10266,Good
+naive B cell,CL_0000788,naive B cell,High
+thymus,UBERON_0002370,thymus,Medium
+GM12865,EFO_0005338,GM12865,Good
+HuH-7,EFO_0005384,HuH-7,Good
+heart,UBERON_0000948,heart,Good
+D721Med,EFO_0005696,D721Med,Good
+GM13977,EFO_0005346,GM13977,Good
+H54,,,
+ecto neural progenitor cell,,,
+thyroid gland,UBERON_0002046,thyroid gland,Medium
+pons,UBERON_0000988,pons,Good
+left ventricle myocardium superior,UBERON_0006566,left ventricle myocardium,Medium
+globus pallidus,UBERON_0001875,globus pallidus,Good
+chorion,UBERON_0004027,chorionic plate,Medium
+A549,EFO_0001086,A549,Good
+"common myeloid progenitor, CD34-positive",CL_0001059,"common myeloid progenitor, CD34-positive",Good
+thoracic aorta,UBERON_0001515,thoracic aorta,Good
+GM12878,EFO_0002784,GM12878,Good
+suppressor macrophage,CL_0000862,suppressor macrophage,Good
+PC-9,EFO_0002847,PC-9,Good
+lower lobe of right lung,UBERON_0002171,lower lobe of right lung,Good
+"activated CD8-positive, alpha-beta T cell",CL_0000906,"activated CD8-positive, alpha-beta T cell",Good
+ureter,UBERON_0000056,ureter,Good
+mesenteric fat pad,UBERON_0015143,mesenteric fat pad,Good
+IMR-90,EFO_0001196,IMR-90,Good
+glomerular endothelial cell,CL_0002188,glomerular endothelial cell,High
+HepG2,EFO_0001187,HepG2,Good
+glutamatergic neuron,CL_0000679,glutamatergic neuron,Good
+8988T,EFO_0005713,8988T,Medium
+trophoblast cell,CL_0000351,trophoblast cell,Good
+fibroblast of villous mesenchyme,UBERON_8600039,chorionic villous mesenchyme,Medium
+activated T-helper 2 cell,CL_0000546,T-helper 2 cell,Medium
+stomach,UBERON_0000945,stomach,Good
+Calu3,EFO_0002819,Calu3,Good
+Ammon's horn,UBERON_0001954,Ammon's horn,Good
+lung microvascular endothelial cell,CL_2000016,lung microvascular endothelial cell,Good
+dermis microvascular lymphatic vessel endothelial cell,CL_2000041,dermis microvascular lymphatic vessel endothelial cell,Good
+GM19239,EFO_0002789,GM19239,Good
+testis,UBERON_0000473,testis,Medium
+SJCRH30,EFO_0005722,SJRH30,Good
+T follicular helper cell,CL_0002038,T follicular helper cell,Good
+omental fat pad,UBERON_0010414,omental fat pad,Good
+stimulated activated naive B cell,CL_0000788,naive B cell,Medium
+germinal center,CL_0000844,germinal center B cell,Good
+foreskin fibroblast,CL_1001608,foreskin fibroblast,Good
+left hindlimb,UBERON_0002103,hindlimb,Good
+kidney capillary endothelial cell,CL_1000892,kidney capillary endothelial cell,Good
+mesenchymal stem cell,EFO_0000586,mesenchymal stem cell,Medium
+HeLa-S3,EFO_0002791,HeLa-S3,Good
+bronchial epithelial cell,CL_0000066,epithelial cell,Good
+right hindlimb,UBERON_0002103,hindlimb,Good
+endothelial cell,CL_0000115,endothelial cell,High
+islet precursor cell,CL_0002351,progenitor cell of endocrine pancreas,
+myocyte,CL_0000187,muscle cell,Good
+liver,UBERON_0002107,liver,Medium
+midbrain,UBERON_0001891,midbrain,Good
+WTC11,EFO_0009747,GM25256,
+DND-41,EFO_0007074,DND-41,Good
+KBM-7,EFO_0005903,KBM-7,Good
+right atrium auricular region,UBERON_0006631,right atrium auricular region,Good
+ELF-1,EFO_0005901,ELF-1,Good
+GM20000,EFO_0005352,GM20000,Good
+HT-29,EFO_0001193,HT-29,Good
+GM06990,EFO_0002783,GM06990,Good
+RPMI8226,EFO_0002322,RPMI8226,Good
+frontal cortex,UBERON_0001870,frontal cortex,Good
+NB4,EFO_0002798,NB4,Good
+mesothelial cell of epicardium,CL_0011019,mesothelial cell of epicardium,Good
+"central memory CD4-positive, alpha-beta T cell",CL_0000904,"central memory CD4-positive, alpha-beta T cell",Good
+cardiac septum,UBERON_0002099,cardiac septum,Good
+endodermal cell,CL_0000223,endodermal cell,Good
+brain microvascular endothelial cell,CL_2000044,brain microvascular endothelial cell,Good
+MCF-7,EFO_0001203,MCF-7,Good
+left forelimb,UBERON_0002102,forelimb,Good
+putamen,UBERON_0001874,putamen,Good
+cerebellar cortex,UBERON_0002129,cerebellar cortex,Good
+GM13976,EFO_0005345,GM13976,Good
+hepatocyte,CL_0000182,hepatocyte,High
+coronary artery,UBERON_0001621,coronary artery,Good
+limb,UBERON_0002101,limb,Good
+neural crest cell,CL_0000333,migratory neural crest cell,Good
+endothelial cell of umbilical vein,CL_0002618,endothelial cell of umbilical vein,Good
+progenitor cell of endocrine pancreas,CL_0002351,progenitor cell of endocrine pancreas,Good
+cerebellum,UBERON_0002037,cerebellum,Medium
+tongue,UBERON_0001723,tongue,Good
+myotube,CL_0002372,myotube,Good
+osteocyte,CL_0000137,osteocyte,Good
+WI38,EFO_0001260,WI38,Good
+kidney tubule cell,CL_1000507,kidney tubule cell,Good
+fibroblast of the aortic adventitia,CL_0002547,fibroblast of the aortic adventitia,Good
+GM18507,EFO_0002787,GM18507,Good
+left kidney,UBERON_0004538,left kidney,Good
+RPMI7951,EFO_0005712,RPMI-7951,Good
+H9,EFO_0003045,H9,Good
+HK-2,EFO_0022529,HK-2,Good
+inferior parietal cortex,OBA_2050040,inferior parietal cortex volume,Good
+superior temporal gyrus,UBERON_0002769,superior temporal gyrus,Good
+cardiac fibroblast,CL_0002548,fibroblast of cardiac tissue,Good
+GM23338,EFO_0007950,GM23338,Good
+type B pancreatic cell,CL_0000169,type B pancreatic cell,High
+osteoblast,CL_0000062,osteoblast,Good
+GM19238,EFO_0002788,GM19238,Good
+nephron progenitor cell,UBERON_0010536,nephron progenitor,Good
+GM19240,EFO_0002790,GM19240,Good
+femur,UBERON_0000981,femur,Good
+"Jurkat, Clone E6-1",BTO_0001948,JURKAT E-6.1 cell,Good
+H1,EFO_0003042,H1-hESC,Good
+Karpas-422,EFO_0005719,Karpas 422,Good
+glomerular visceral epithelial cell,CL_0000653,podocyte,Good
+keratinocyte,CL_0000312,keratinocyte,Good
+right forelimb,UBERON_0002102,forelimb,Good
+mucosa of gallbladder,UBERON_0005033,mucosa of gallbladder,Good
+fibroblast of peridontal ligament,CL_2000017,fibroblast of peridontal ligament,Good
+hepatic stellate cell,CL_0000632,hepatic stellate cell,High
+AG08396,CL_0002553,fibroblast of lung,
+fibroblast of pulmonary artery,CL_0002557,fibroblast of pulmonary artery,Good
+Daoy,EFO_0005698,Daoy,Good
+M059J,EFO_0005697,M059J,Good
+RKO,EFO_0001232,RKO,Good
+LoVo,EFO_0006639,LoVo,Good
+HFF-Myc,EFO_0005710,HFF-Myc,Good
+pulmonary artery endothelial cell,CL_1001568,pulmonary artery endothelial cell,Good
+renal cortex interstitium,UBERON_0005270,renal cortex interstitium,Good
+GM12891,EFO_0002785,GM12891,Good
+medulla oblongata,UBERON_0001896,medulla oblongata,Good
+lung,UBERON_0002048,lung,Good
+cardiac muscle cell,CL_0000746,cardiac muscle cell,Good
+fibroblast of mammary gland,CL_0002555,fibroblast of mammary gland,Good
+A172,EFO_0002101,A172,Good
+GM10248,EFO_0005334,GM10248,Good
+muscle of trunk,UBERON_0001774,skeletal muscle of trunk,Good
+HAP-1,EFO_0007598,HAP-1,Good
+eye,UBERON_0000970,eye,Good
+Panc1,EFO_0002713,Panc1,Good
+astrocyte of the hippocampus,CL_0002604,hippocampal astrocyte,Good
+HFFc6,EFO_0009318,HFFc6,Good
+umbilical cord,UBERON_0002331,umbilical cord,Good
+renal cortical epithelial cell,CL_0002584,renal cortical epithelial cell,Good
+renal pelvis,UBERON_0001224,renal pelvis,Good
+amniotic epithelial cell,CL_0002536,epithelial cell of amnion,Good
+SW480,EFO_0002083,SW480,Good
+epithelial cell of proximal tubule,CL_0002306,epithelial cell of proximal tubule,High
+mesodermal cell,CL_0000222,mesodermal cell,Good
+vagina,UBERON_0000996,vagina,Good
+HTR-8/SVneo,EFO_0005709,HTR8/SVneo,Good
+kidney glomerular epithelial cell,CL_1000510,kidney glomerular epithelial cell,Good
+immature natural killer cell,CL_0000823,immature natural killer cell,Good
+muscle of leg,UBERON_0001383,muscle of leg,Good
+ACHN,EFO_0002108,ACHN,Good
+choroid plexus epithelial cell,CL_0000706,choroid plexus epithelial cell,Good
+esophagus squamous epithelium,UBERON_0006920,esophagus squamous epithelium,Good
+T47D,EFO_0001247,T-47D cell,Good
+WERI-Rb-1,EFO_0005715,WERI-Rb-1,Good
+HuH-7.5,EFO_0005384,HuH-7,Good
+mammary epithelial cell,CL_0002327,mammary gland epithelial cell,Good
+EH,EFO_0007748,EH,Good
+skeletal muscle myoblast,CL_0000515,skeletal muscle myoblast,Good
+smooth muscle cell of the brain vasculature,CL_0002590,smooth muscle cell of the brain vasculature,Good
+muscle of arm,UBERON_0001499,muscle of arm,Good
+iris pigment epithelial cell,UBERON_0002506,iris epithelium,Good
+epithelial cell of esophagus,CL_0002252,epithelial cell of esophagus,Good
+fibroblast of dermis,CL_0002551,fibroblast of dermis,Good
+astrocyte of the cerebellum,CL_0002603,astrocyte of the cerebellum,Good
+ELR,EFO_0007750,ELR,Good
+right lung,UBERON_0002167,right lung,Good
+GM23248,EFO_0005723,GM23248,Good
+RWPE1,EFO_0002323,RWPE1,Good
+amniotic stem cell,EFO_1000068,Acute Leukemia,Good
+SK-N-SH,EFO_0003072,SK-N-SH,Good
+retinal pigment epithelial cell,CL_0002586,retinal pigment epithelial cell,Good
+occipital lobe,UBERON_0002021,occipital lobe,Good
+BJ,EFO_0002779,BJ,Good
+right kidney,UBERON_0002113,kidney,Medium
+foreskin keratinocyte,CL_1001606,foreskin keratinocyte,Good
+muscle of back,UBERON_0002324,muscle of back,Good
+brain,UBERON_0000955,brain,Good
+iPS DF 19.11,EFO_0007096,iPS DF 19.11,Good
+C803,UBERON_0003037,septum,
+kidney epithelial cell,CL_0002518,kidney epithelial cell,Good
+GM04503,CL_0000057,fibroblast,
+AG08395,CL_0000057,fibroblast,
+SK-MEL-5,EFO_0005720,SK-MEL-5,Good
+COLO829,EFO_0002140,COLO829,Good
+fibroblast of skin of left quadriceps,UBERON_0001377,quadriceps femoris,Medium
+fibroblast of the conjunctiva,CL_0002550,fibroblast of the conjunctiva,Good
+L1-S8,CL_0010004,mononuclear cell of bone marrow,
+L1-S8R,EFO_0005740,iPSC derived cell line,
+hindlimb muscle,UBERON_0003663,hindlimb muscle,Good
+AG10803,CL_0000057,fibroblast,
+LHCN-M2,CL_0000056,myoblast,
+AG04450,CL_0000057,fibroblast,
+SK-N-DZ,EFO_0005721,SK-N-DZ,Good
+MCF 10A,EFO_0001200,MCF 10A,Good
+EL,EFO_0000574,lymphoma,
+Ishikawa,EFO_0005718,Ishikawa,Good
+NCI-H929,EFO_0001221,NCI-H929,Good
+D341Med,EFO_0002157,D341Med,Good
+left renal cortex interstitium,UBERON_0018117,left renal cortex interstitium,Good
+bipolar neuron,CL_0000748,retinal bipolar neuron,Good
+caudate nucleus,UBERON_0001873,caudate nucleus,Good
+HCEC 1CT,EFO_0009500,HCEC 1CT,Good
+RCC 7860,EFO_0000681,renal cell carcinoma,
+PC-3,EFO_0002074,PC-3,Good
+fibroblast of lung,CL_0002553,fibroblast of lung,Good
+right renal pelvis,UBERON_0018116,right renal pelvis,Good
+middle frontal gyrus,UBERON_0002702,middle frontal gyrus,Good
+H7,EFO_0005904,H7-hESC,
+foreskin melanocyte,CL_2000045,foreskin melanocyte,Good
+fibroblast of gingiva,CL_0002552,fibroblast of gingiva,Good
+epidermal melanocyte,CL_2000000,epidermal melanocyte,Good
+iPS-NIHi7,EFO_0007953,iPS-NIHi7,Good
+fibroblast of skin of left biceps,EFO_0004198,skin neoplasm,Good
+GM04504,CL_0000057,fibroblast,
+RCC,CLO_0009975,BB65-RCC cell,Good
+iPS DF 4.7,EFO_0007097,iPS DF 4.7,Good
+astrocyte of the spinal cord,CL_0002606,astrocyte of the spinal cord,Good
+spinal cord,UBERON_0002240,spinal cord,Good
+non-pigmented ciliary epithelial cell,EFO_0001641,epithelial cell derived cell line,Medium
+NT2/D1,EFO_0005236,NT2/D1,Good
+AG09309,CL_0000057,fibroblast,
+MG63,EFO_0002234,MG63,Good
+left renal pelvis,UBERON_0018115,left renal pelvis,Good
+MM.1S,EFO_0005724,MM.1S,Good
+retina,UBERON_0000966,retina,Good
+fibroblast of skin of abdomen,CL_2000013,fibroblast of skin of abdomen,Good
+fibroblast of skin of scalp,CL_4006001,fibroblast of skin of scalp,Good
+stromal cell of bone marrow,CL_0010001,stromal cell of bone marrow,Good
+urothelium cell line,EFO_0005913,urothelium cell line,Good
+adipocyte,CL_0000136,adipocyte,Good
+fibroblast of skin of back,CL_0011022,fibroblast of skin of back,Good
+fibroblast of skin of right quadriceps,UBERON_0001377,quadriceps femoris,Medium
+cardiac myoblast,CL_0000513,cardiac muscle myoblast,Good
+iPS DF 6.9,EFO_0007098,iPS DF 6.9,Good
+right renal cortex interstitium,UBERON_0018118,right renal cortex interstitium,Good
+fibroblast of skin of right biceps,EFO_0004198,skin neoplasm,Good
+AG04449,CL_0000057,fibroblast,
+AG20443,CL_0000057,fibroblast,
+cardiovascular progenitor cell,CL_0002664,cardioblast,Good
+AG09319,CL_0000057,fibroblast,
+H4,EFO_0002184,H4,Good
+HPDE6-E6E7,EFO_0005711,HPDE6-E6E7,Good
+GM03348,CL_0000057,fibroblast,
+forelimb muscle,UBERON_0003662,forelimb muscle,Good
+fibroblast of upper back skin,CL_0011021,fibroblast of upper back skin,Good
+HS-5,CL_0000057,fibroblast,
+iPS-NIHi11,EFO_0007952,iPS-NIHi11,Good
+Caki2,EFO_0002150,Caki2,Good
+HT1080,EFO_0002059,HT-1080 cell,Good
+NCI-H226,EFO_0002285,NCI-H226,Good
+HEK293T,EFO_0001082,293T,Good
+SK-N-MC,EFO_0002860,SK-N-MC,Good
+esophagus muscularis mucosa,UBERON_0004648,esophagus muscularis mucosa,Good
+neuronal stem cell,CL_0000047,neural stem cell,Good
+mesendoderm,UBERON_0000089,hypoblast (generic),Good
+NCI-H460,EFO_0003044,NCI-H460,Good
+iPS DF 19.7,EFO_0007095,iPS DF 19.7,Good
+HS-27A,EFO_0005283,HS-27A,Good
+dedifferentiated amniotic fluid mesenchymal stem cell,EFO_0000586,mesenchymal stem cell,Good
+epithelial cell of prostate,CL_0002231,epithelial cell of prostate,Good
+brain pericyte,CL_2000043,brain pericyte,Good
+neural progenitor cell,CL_0000047,neural stem cell,Good
+CWRU1,EFO_0009501,CWRU1,Good
+skeletal muscle cell,CL_0000188,cell of skeletal muscle,Medium
+urinary bladder,UBERON_0001255,urinary bladder,Medium
+embryonic facial prominence,UBERON_0012314,embryonic facial prominence,Good
+skin of body,UBERON_0002097,skin of body,Good
+GM12864,EFO_0005337,GM12864,Good
