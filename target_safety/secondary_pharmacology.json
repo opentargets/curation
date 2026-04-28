@@ -1,1 +1,4832 @@
-[{"id":"ENSG00000141867","event":"Gastrointestinal toxicity observed in rats","eventId":"EFO_0011050","Type":"Preclinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000069535","event":"Hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000069535","event":"dizziness","eventId":"EFO_0009847","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000069535","event":"diarrhoea","eventId":"HP_0002014","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000069535","event":"dyskinesia","eventId":"EFO_1000904","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000069535","event":"hallucinations","eventId":"HP_0000738","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000158748","event":"reduced appetite","eventId":"EFO_0005203","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000158748","event":"weight loss","eventId":"HP_0001824","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"Hypergastrinaemia","eventId":"MONDO_0001770","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"increased gastric pH due to suppression of gastric acid secretion","eventId":"MONDO_0001318","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"higher incidence of diarrhoea","eventId":"HP_0002014","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"dyspepsia","eventId":"EFO_0008533","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"flatulence","eventId":"EFO_0009669","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"nausea","eventId":"HP_0002018","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000151577","event":"Severe akathisia","eventId":"EFO_1000903","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000151577","event":"insomnia","eventId":"EFO_0004698","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000151577","event":"nausea","eventId":"HP_0002018","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"Hot flashes","eventId":"HP_0031217","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"osteoporosis","eventId":"EFO_0003882","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002481","tissueLabel":"bone"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"breast atrophy","eventId":"EFO_0009483","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"vaginal atrophy","eventId":"MONDO_0001433","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"impacts sexual development","eventId":"EFO_0000512","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082175","event":"Contraceptive","eventId":"EFO_0009520","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000131759","event":"Negative effects on testicular histology and spermatogenesis","eventId":"EFO_0009555","Type":"Preclinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000117984","event":"retinal photoreceptor degradation","eventId":"MONDO_0004580","Type":"Preclinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000970","tissueLabel":"ocular"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000172175","event":"Severe reduction in regulatory T cells","eventId":null,"Type":"Preclinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000172175","event":"signs of immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX)-like pathology","eventId":"MONDO_0010580","Type":"Preclinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157103","event":"Tremor","eventId":"HP_0001337","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157103","event":"ataxia","eventId":"HP_0001251","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157103","event":"asthenia","eventId":"EFO_0007625","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157103","event":"sedation","eventId":"EFO_0009868","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"Ataxia","eventId":"HP_0001251","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"diabetes","eventId":"EFO_0000400","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolism"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"growth retardation","eventId":"HP_0001510","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"immunodeficiency","eventId":"MONDO_0021094","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"neurodevelopmental disorder","eventId":"EFO_0010642","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"speech disorder","eventId":"MONDO_0004730","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000149311","event":"premature ageing","eventId":"EFO_0022597","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000087586","event":"Mutagenic effect","eventId":"CHEBI_25435","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"genetic toxicity"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000178999","event":"Mutagenic effect","eventId":"CHEBI_25435","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"genetic toxicity"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000087586","event":"neutropenia","eventId":"MONDO_0001475","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000178999","event":"neutropenia","eventId":"MONDO_0001475","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"Skin rash","eventId":"HP_0000988","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002097","tissueLabel":"skin"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"ALT increase","eventId":"EFO_0004735","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"AST increase","eventId":"EFO_0004736","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"diarrhoea","eventId":"HP_0002014","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"interstitial lung disease","eventId":"EFO_0004244","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001004","tissueLabel":"respiratory"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"ocular keratitis","eventId":"EFO_0009449","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000970","tissueLabel":"ocular"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"decreased appetite","eventId":"EFO_0005203","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"epithelial inflammation","eventId":null,"Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"cardiomyopathy","eventId":"EFO_0000318","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"alopecia","eventId":"MONDO_0004907","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"weight loss","eventId":"HP_0001824","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"Hyperphosphataemia","eventId":"HP_0002905","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolism"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"fatigue","eventId":"HP_0012378","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"AST elevations","eventId":"EFO_0004736","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"anaemia","eventId":"MONDO_0002280","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"decreased platelet count","eventId":"HP_0001873","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"dry eye","eventId":"EFO_1000906","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000970","tissueLabel":"ocular"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"keratitis","eventId":"EFO_0009449","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000970","tissueLabel":"ocular"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000102755","event":"Haemorrhage","eventId":"MP_0001914","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000102755","event":"hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000102755","event":"brain natriuretic peptide increase","eventId":"EFO_0006920","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000949","tissueLabel":"metabolic\/endocrine"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000102755","event":"impaired healing","eventId":null,"Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000102755","event":"hyponatraemia","eventId":"HP_0002902","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolism"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"Carcinogenicity","eventId":"EFO_0011046","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"motor dysfunction","eventId":"EFO_1001902","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"neurotoxicity","eventId":"EFO_0011057","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"renal failure","eventId":"EFO_1002048","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001008","tissueLabel":"renal"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"tissue hyperplasia","eventId":"EFO_0000536","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"cardiac dysfunction","eventId":"EFO_0000319","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"male infertility","eventId":"EFO_0000545","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"female infertility","eventId":"EFO_0000545","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"insulin resistance","eventId":"EFO_0002614","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"abnormal bone development","eventId":"EFO_0005541","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002481","tissueLabel":"bone"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"Hyperglycaemia","eventId":"HP_0003074","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000949","tissueLabel":"metabolic\/endocrine"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"cardiac hypertrophy","eventId":"EFO_0002503","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"hyperlipidaemia","eventId":"MONDO_0021187","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"Hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"proteinuria","eventId":"HP_0000093","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001008","tissueLabel":"renal"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"aneurysm","eventId":"EFO_0009659","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"decreased appetite","eventId":"EFO_0005203","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"fatigue","eventId":"HP_0012378","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"haemorrhage","eventId":"MP_0001914","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"nausea","eventId":"HP_0002018","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"rash","eventId":"HP_0000988","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002097","tissueLabel":"skin"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"vomiting","eventId":"HP_0002013","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000128052","event":"myocardial hypoperfusion","eventId":"EFO_1001375","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"Anaemia","eventId":"MONDO_0002280","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"neutropenia","eventId":"MONDO_0001475","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"rash","eventId":"HP_0000988","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002097","tissueLabel":"skin"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"thrombocytopenia","eventId":"HP_0001873","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"cardiac disorder","eventId":"EFO_0000319","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"haematotoxicity","eventId":"EFO_0011051","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000076984","event":"Cognitive disorder","eventId":"MONDO_0002039","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000076984","event":"schizophrenia","eventId":"MONDO_0005090","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000076984","event":"sensorimotor disorder","eventId":"EFO_0001058","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"Cognitive disorder","eventId":"MONDO_0002039","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"dizziness","eventId":"EFO_0009847","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"weight loss","eventId":"HP_0001824","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"weight gain","eventId":"EFO_0004566","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"peripheral sensory neuropathy","eventId":"HP_0000763","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"myalgia","eventId":"HP_0003326","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005090","tissueLabel":"muscle"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"ataxia","eventId":"HP_0001251","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"dysgeusia","eventId":"HP_0000223","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"orthostatic hypotension","eventId":"EFO_0005252","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"Abnormal myelination","eventId":"HP_0012447","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"hypoglycaemia","eventId":"HP_0001943","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"ketoacidosis","eventId":"EFO_1000897","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"nervous system disorder","eventId":"EFO_0000618","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"seizure","eventId":"HP_0001250","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"mutagenic effect","eventId":"CHEBI_25435","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"peripheral neuropathy","eventId":"EFO_0004149","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000152256","event":"testicular disorder","eventId":"EFO_0009601","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"Hyperglycaemia","eventId":"HP_0003074","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"weight loss","eventId":"HP_0001824","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"cytogenic abnormality","eventId":"EFO_0000336","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"cellular (genetic disorder)"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"autoimmunity","eventId":"HP_0002960","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"colitis","eventId":"EFO_0003872","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"rash","eventId":"HP_0000988","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002097","tissueLabel":"skin"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"Hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"QT prolongation","eventId":"HP_0001657","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"cardiac hypertrophy","eventId":"EFO_0002503","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"metabolism disorder","eventId":"EFO_0000589","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"reduced platelet adhesion","eventId":"EFO_0010598","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"reduced platelet aggregation","eventId":"GO_0070527","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"platelet overproduction","eventId":"HP_0001894","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"Anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"cardiac dysfunction","eventId":"EFO_0000319","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"GI inflammation","eventId":"HP_0004386","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"lymphatic disorder","eventId":"EFO_0007352","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002465","tissueLabel":"lymph"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"pulmonary hypertension","eventId":"MONDO_0005149","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001004","tissueLabel":"respiratory"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"hypotension","eventId":"EFO_0005251","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"cytopenia","eventId":"HP_0001871","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"conjunctival hyperaemia","eventId":"EFO_0003822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000970","tissueLabel":"ocular"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"hypertrophic cardiomyopathy","eventId":"EFO_0000538","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000067900","event":"anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"Anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"cytopenia","eventId":"HP_0001871","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"GI disorder","eventId":"EFO_0010282","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"lymphatic disorder","eventId":"EFO_0007352","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002465","tissueLabel":"lymph"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"pulmonary hypertension","eventId":"MONDO_0005149","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001004","tissueLabel":"respiratory"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"cardiac dysfunction","eventId":"EFO_0000319","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"Pleural effusion","eventId":"HP_0002202","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001004","tissueLabel":"respiratory"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"pulmonary arterial hypertension","eventId":"EFO_0001361","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"bone disorder","eventId":"EFO_0004260","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002481","tissueLabel":"bone"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"platelet dysfunction","eventId":"MONDO_0002245","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002371","tissueLabel":"blood\/bone marrow"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"cell hypertrophy","eventId":"EFO_0002460","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000125834","event":"Hypertension","eventId":"HP_0000822","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000125834","event":"QT prolongation","eventId":"HP_0001657","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000125834","event":"arterial thrombosis","eventId":"HP_0004420","Type":"Clinical","effects":{"direction":"Inhibition","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000110148","event":"anxiety","eventId":"EFO_0005230","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000151577","event":"Facilitate reward reinforcement","eventId":"EFO_0008396","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000151577","event":"role in facilitating drug addiction\/dependence","eventId":"EFO_0003890","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"Pancreatitis","eventId":"EFO_0000278","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"pancreas"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"fat necrosis","eventId":"EFO_0009426","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001013","tissueLabel":"adipose"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"diffuse hyperplasia of the epithelium in the gallbladder","eventId":"MONDO_0005043","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002110","tissueLabel":"gallbladder"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"neutrophilic inflammation in the gallbladder","eventId":"HP_0001082","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002110","tissueLabel":"gallbladder"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"hyperplasia of the periportal bile ducts","eventId":"MONDO_0005043","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"periportal vasculitis\/perivasculitis","eventId":"HP_0002633","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000179921","event":"multifocal hepatocellular necrosis in liver","eventId":"EFO_0009426","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000183695","event":"histamine-like adverse drug reactions","eventId":"EFO_0009658","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169836","event":"Contraction of gastric smooth muscle and ileum","eventId":"GO_0006939","Type":"Preclinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0005409","tissueLabel":"GI"},"studies":{"description":null,"name":null,"type":"preclinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"Increased risk of thrombosis","eventId":"MONDO_0000831","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"irregular menstruation in females","eventId":"EFO_0010270","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000091831","event":"breast tissue growth in males","eventId":"HP_0000771","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082175","event":"Emergency contraceptives","eventId":"EFO_0009520","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082175","event":"induction of medical abortion","eventId":"EFO_1001491","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000990","tissueLabel":"reproductive"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000146648","event":"Hepatotoxicity","eventId":"EFO_0011052","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"Hypoglycaemia","eventId":"HP_0001943","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"hypophosphataemia","eventId":"MONDO_0000313","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"decreased food intake","eventId":"EFO_0005203","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"weight loss","eventId":"HP_0001824","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000077782","event":"reduced sweet taste","eventId":"HP_0000223","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"Mitochondrial toxicity","eventId":null,"Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000082701","event":"myocardial fibrosis","eventId":"HP_0001685","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"Carcinogenicity","eventId":"EFO_0011046","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000171105","event":"neoplasm\/ malignancy","eventId":"EFO_0000616","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"Carcinogenicity","eventId":"EFO_0011046","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"mastocytosis","eventId":"EFO_0009001","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000157404","event":"neovascularization","eventId":null,"Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000076984","event":"Melorheostosis","eventId":"MONDO_0007970","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002481","tissueLabel":"bone"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"Anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"epilepsy","eventId":"HP_0001250","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"seizures","eventId":"EFO_0000474","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000198400","event":"grey matter heterotopia","eventId":"HP_0002282","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"Decreased appetite","eventId":"EFO_0005203","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"nausea","eventId":"HP_0002018","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"fatigue","eventId":"HP_0012378","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"breast cancer","eventId":"MONDO_0007254","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"cardiac hypertrophy","eventId":"EFO_0002503","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"cytopenia","eventId":"HP_0001871","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"glycosylated haemoglobin increase","eventId":"EFO_0004541","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":"metabolic"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"lymphopenia","eventId":"MONDO_0003783","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002405","tissueLabel":"immune"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000105851","event":"pancreatic steatosis","eventId":"EFO_0008527","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"pancreas"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"Tumour promotion: increased metabolism and increased cell migration\/invasion","eventId":"EFO_0011046","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"abnormal platelet production and function","eventId":"MONDO_0002245","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":null,"tissueLabel":null},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"liver fibrosis","eventId":"EFO_0006890","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002107","tissueLabel":"liver"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000169398","event":"skin fibrosis","eventId":"EFO_0006890","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0002097","tissueLabel":"skin"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"Memory impairment","eventId":"EFO_0001072","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000134318","event":"nervous system disorder","eventId":"EFO_0000618","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"Abnormal behaviour","eventId":"EFO_0000677","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"anxiety","eventId":"EFO_0005230","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"cognitive disorder","eventId":"MONDO_0002039","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001017","tissueLabel":"CNS"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"deep vein thrombosis","eventId":"EFO_0003907","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0004535","tissueLabel":"CV"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"thrombocytopenia","eventId":"HP_0001873","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0000178","tissueLabel":"blood"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"},{"id":"ENSG00000197122","event":"pulmonary oedema","eventId":"EFO_1001134","Type":"Clinical","effects":{"direction":"Activation","dosing":null},"biosamples":{"cellFormat":null,"cellLabel":null,"tissueId":"UBERON_0001004","tissueLabel":"respiratory"},"studies":{"description":null,"name":null,"type":"clinical"},"datasource":"Brennan et al. (2024)","literature":"38773351"}]
+[
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Gastrointestinal toxicity observed in rats",
+    "eventId": "EFO_0011050",
+    "id": "ENSG00000141867",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000069535",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dizziness",
+    "eventId": "EFO_0009847",
+    "id": "ENSG00000069535",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "diarrhoea",
+    "eventId": "HP_0002014",
+    "id": "ENSG00000069535",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dyskinesia",
+    "eventId": "MONDO_0006732",
+    "id": "ENSG00000069535",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hallucinations",
+    "eventId": "HP_0000738",
+    "id": "ENSG00000069535",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "reduced appetite",
+    "eventId": "MONDO_0005451",
+    "id": "ENSG00000158748",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "weight loss",
+    "eventId": "HP_0001824",
+    "id": "ENSG00000158748",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hypergastrinaemia",
+    "eventId": "MONDO_0001770",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "increased gastric pH due to suppression of gastric acid secretion",
+    "eventId": "MONDO_0001318",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "higher incidence of diarrhoea",
+    "eventId": "HP_0002014",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dyspepsia",
+    "eventId": "MONDO_0002268",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "flatulence",
+    "eventId": "EFO_0009669",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "nausea",
+    "eventId": "HP_0002018",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Severe akathisia",
+    "eventId": "MONDO_0006731",
+    "id": "ENSG00000151577",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "insomnia",
+    "eventId": "MONDO_0013600",
+    "id": "ENSG00000151577",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "nausea",
+    "eventId": "HP_0002018",
+    "id": "ENSG00000151577",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hot flashes",
+    "eventId": "HP_0031217",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002481",
+      "tissueLabel": "bone"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "osteoporosis",
+    "eventId": "MONDO_0005298",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "breast atrophy",
+    "eventId": "MONDO_0002657",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "vaginal atrophy",
+    "eventId": "MONDO_0001433",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "impacts sexual development",
+    "eventId": "MONDO_0005039",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Contraceptive",
+    "eventId": "EFO_0009520",
+    "id": "ENSG00000082175",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Negative effects on testicular histology and spermatogenesis",
+    "eventId": "MONDO_0003150",
+    "id": "ENSG00000131759",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000970",
+      "tissueLabel": "ocular"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "retinal photoreceptor degradation",
+    "eventId": "MONDO_0004580",
+    "id": "ENSG00000117984",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Severe reduction in regulatory T cells",
+    "eventId": "",
+    "id": "ENSG00000172175",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "signs of immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX)-like pathology",
+    "eventId": "MONDO_0010580",
+    "id": "ENSG00000172175",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Tremor",
+    "eventId": "HP_0001337",
+    "id": "ENSG00000157103",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "ataxia",
+    "eventId": "HP_0001251",
+    "id": "ENSG00000157103",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "asthenia",
+    "eventId": "EFO_0007625",
+    "id": "ENSG00000157103",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "sedation",
+    "eventId": "EFO_0009868",
+    "id": "ENSG00000157103",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Ataxia",
+    "eventId": "HP_0001251",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolism"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "diabetes",
+    "eventId": "MONDO_0005015",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "growth retardation",
+    "eventId": "HP_0001510",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "immunodeficiency",
+    "eventId": "MONDO_0021094",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "neurodevelopmental disorder",
+    "eventId": "MONDO_0700092",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "speech disorder",
+    "eventId": "MONDO_0004730",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "premature ageing",
+    "eventId": "EFO_0022597",
+    "id": "ENSG00000149311",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "genetic toxicity"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Mutagenic effect",
+    "eventId": "CHEBI_25435",
+    "id": "ENSG00000087586",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "genetic toxicity"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Mutagenic effect",
+    "eventId": "CHEBI_25435",
+    "id": "ENSG00000178999",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "neutropenia",
+    "eventId": "MONDO_0001475",
+    "id": "ENSG00000087586",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "neutropenia",
+    "eventId": "MONDO_0001475",
+    "id": "ENSG00000178999",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002097",
+      "tissueLabel": "skin"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Skin rash",
+    "eventId": "HP_0000988",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "ALT increase",
+    "eventId": "OBA_2050062",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "AST increase",
+    "eventId": "EFO_0004736",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "diarrhoea",
+    "eventId": "HP_0002014",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001004",
+      "tissueLabel": "respiratory"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "interstitial lung disease",
+    "eventId": "MONDO_0015925",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000970",
+      "tissueLabel": "ocular"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "ocular keratitis",
+    "eventId": "MONDO_0003085",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "decreased appetite",
+    "eventId": "MONDO_0005451",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "epithelial inflammation",
+    "eventId": "",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiomyopathy",
+    "eventId": "MONDO_0004994",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "alopecia",
+    "eventId": "MONDO_0004907",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "weight loss",
+    "eventId": "HP_0001824",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolism"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hyperphosphataemia",
+    "eventId": "MONDO_0000328",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "fatigue",
+    "eventId": "HP_0012378",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "AST elevations",
+    "eventId": "EFO_0004736",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "anaemia",
+    "eventId": "MONDO_0002280",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "decreased platelet count",
+    "eventId": "HP_0001873",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000970",
+      "tissueLabel": "ocular"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dry eye",
+    "eventId": "MONDO_0006733",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000970",
+      "tissueLabel": "ocular"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "keratitis",
+    "eventId": "MONDO_0003085",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Haemorrhage",
+    "eventId": "MP_0001914",
+    "id": "ENSG00000102755",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000102755",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000949",
+      "tissueLabel": "metabolic/endocrine"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "brain natriuretic peptide increase",
+    "eventId": "EFO_0006920",
+    "id": "ENSG00000102755",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "impaired healing",
+    "eventId": "",
+    "id": "ENSG00000102755",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolism"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hyponatraemia",
+    "eventId": "HP_0002902",
+    "id": "ENSG00000102755",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Carcinogenicity",
+    "eventId": "EFO_0011046",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "motor dysfunction",
+    "eventId": "MONDO_0019056",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "neurotoxicity",
+    "eventId": "EFO_0011057",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001008",
+      "tissueLabel": "renal"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "renal failure",
+    "eventId": "MONDO_0001106",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "tissue hyperplasia",
+    "eventId": "MONDO_0005043",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac dysfunction",
+    "eventId": "MONDO_0004995",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "male infertility",
+    "eventId": "MONDO_0005047",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "female infertility",
+    "eventId": "MONDO_0005047",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "insulin resistance",
+    "eventId": "HP_0000855",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002481",
+      "tissueLabel": "bone"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "abnormal bone development",
+    "eventId": "MONDO_0005497",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000949",
+      "tissueLabel": "metabolic/endocrine"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hyperglycaemia",
+    "eventId": "HP_0003074",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac hypertrophy",
+    "eventId": "EFO_0002503",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hyperlipidaemia",
+    "eventId": "MONDO_0021187",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001008",
+      "tissueLabel": "renal"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "proteinuria",
+    "eventId": "HP_0000093",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "aneurysm",
+    "eventId": "EFO_0009659",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "decreased appetite",
+    "eventId": "MONDO_0005451",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "fatigue",
+    "eventId": "HP_0012378",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "haemorrhage",
+    "eventId": "MP_0001914",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "nausea",
+    "eventId": "HP_0002018",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002097",
+      "tissueLabel": "skin"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "rash",
+    "eventId": "HP_0000988",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "vomiting",
+    "eventId": "HP_0002013",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "myocardial hypoperfusion",
+    "eventId": "MONDO_0024644",
+    "id": "ENSG00000128052",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Anaemia",
+    "eventId": "MONDO_0002280",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "neutropenia",
+    "eventId": "MONDO_0001475",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002097",
+      "tissueLabel": "skin"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "rash",
+    "eventId": "HP_0000988",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "thrombocytopenia",
+    "eventId": "HP_0001873",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac disorder",
+    "eventId": "MONDO_0004995",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "haematotoxicity",
+    "eventId": "EFO_0011051",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Cognitive disorder",
+    "eventId": "MONDO_0002039",
+    "id": "ENSG00000076984",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "schizophrenia",
+    "eventId": "MONDO_0005090",
+    "id": "ENSG00000076984",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "sensorimotor disorder",
+    "eventId": "EFO_0001058",
+    "id": "ENSG00000076984",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Cognitive disorder",
+    "eventId": "MONDO_0002039",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dizziness",
+    "eventId": "EFO_0009847",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "weight loss",
+    "eventId": "HP_0001824",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "weight gain",
+    "eventId": "EFO_0004566",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "peripheral sensory neuropathy",
+    "eventId": "HP_0000763",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005090",
+      "tissueLabel": "muscle"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "myalgia",
+    "eventId": "HP_0003326",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "ataxia",
+    "eventId": "HP_0001251",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "dysgeusia",
+    "eventId": "HP_0000223",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "orthostatic hypotension",
+    "eventId": "MONDO_0005469",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Abnormal myelination",
+    "eventId": "HP_0012447",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypoglycaemia",
+    "eventId": "HP_0001943",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "ketoacidosis",
+    "eventId": "MONDO_0012819",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "nervous system disorder",
+    "eventId": "MONDO_0005071",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "seizure",
+    "eventId": "HP_0001250",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "mutagenic effect",
+    "eventId": "CHEBI_25435",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "peripheral neuropathy",
+    "eventId": "EFO_0004149",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "testicular disorder",
+    "eventId": "MONDO_0002329",
+    "id": "ENSG00000152256",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hyperglycaemia",
+    "eventId": "HP_0003074",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "weight loss",
+    "eventId": "HP_0001824",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "cellular (genetic disorder)"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cytogenic abnormality",
+    "eventId": "EFO_0000336",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "autoimmunity",
+    "eventId": "HP_0002960",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "colitis",
+    "eventId": "MONDO_0005292",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002097",
+      "tissueLabel": "skin"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "rash",
+    "eventId": "HP_0000988",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "QT prolongation",
+    "eventId": "HP_0001657",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac hypertrophy",
+    "eventId": "EFO_0002503",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "metabolism disorder",
+    "eventId": "MONDO_0005066",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "reduced platelet adhesion",
+    "eventId": "EFO_0010598",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "reduced platelet aggregation",
+    "eventId": "GO_0070527",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "platelet overproduction",
+    "eventId": "HP_0001894",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac dysfunction",
+    "eventId": "MONDO_0004995",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "GI inflammation",
+    "eventId": "HP_0004386",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002465",
+      "tissueLabel": "lymph"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "lymphatic disorder",
+    "eventId": "MONDO_0005833",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001004",
+      "tissueLabel": "respiratory"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "pulmonary hypertension",
+    "eventId": "MONDO_0005149",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypotension",
+    "eventId": "MONDO_0005468",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cytopenia",
+    "eventId": "HP_0001871",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000970",
+      "tissueLabel": "ocular"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "conjunctival hyperaemia",
+    "eventId": "EFO_0003822",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "hypertrophic cardiomyopathy",
+    "eventId": "MONDO_0005045",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000067900",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cytopenia",
+    "eventId": "HP_0001871",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "GI disorder",
+    "eventId": "EFO_0010282",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002465",
+      "tissueLabel": "lymph"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "lymphatic disorder",
+    "eventId": "MONDO_0005833",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001004",
+      "tissueLabel": "respiratory"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "pulmonary hypertension",
+    "eventId": "MONDO_0005149",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cardiac dysfunction",
+    "eventId": "MONDO_0004995",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001004",
+      "tissueLabel": "respiratory"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Pleural effusion",
+    "eventId": "HP_0002202",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "pulmonary arterial hypertension",
+    "eventId": "MONDO_0015924",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002481",
+      "tissueLabel": "bone"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "bone disorder",
+    "eventId": "MONDO_0005381",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002371",
+      "tissueLabel": "blood/bone marrow"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "platelet dysfunction",
+    "eventId": "MONDO_0002245",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "cell hypertrophy",
+    "eventId": "EFO_0002460",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "Hypertension",
+    "eventId": "HP_0000822",
+    "id": "ENSG00000125834",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "QT prolongation",
+    "eventId": "HP_0001657",
+    "id": "ENSG00000125834",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Inhibition",
+      "dosing": null
+    },
+    "event": "arterial thrombosis",
+    "eventId": "HP_0004420",
+    "id": "ENSG00000125834",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000110148",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Facilitate reward reinforcement",
+    "eventId": "EFO_0008396",
+    "id": "ENSG00000151577",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "role in facilitating drug addiction/dependence",
+    "eventId": "MONDO_0005303",
+    "id": "ENSG00000151577",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "pancreas"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Pancreatitis",
+    "eventId": "MONDO_0004982",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001013",
+      "tissueLabel": "adipose"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "fat necrosis",
+    "eventId": "EFO_0009426",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002110",
+      "tissueLabel": "gallbladder"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "diffuse hyperplasia of the epithelium in the gallbladder",
+    "eventId": "MONDO_0005043",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002110",
+      "tissueLabel": "gallbladder"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "neutrophilic inflammation in the gallbladder",
+    "eventId": "HP_0001082",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "hyperplasia of the periportal bile ducts",
+    "eventId": "MONDO_0005043",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "periportal vasculitis/perivasculitis",
+    "eventId": "MONDO_0018882",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "multifocal hepatocellular necrosis in liver",
+    "eventId": "EFO_0009426",
+    "id": "ENSG00000179921",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "histamine-like adverse drug reactions",
+    "eventId": "EFO_0009658",
+    "id": "ENSG00000183695",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Preclinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0005409",
+      "tissueLabel": "GI"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Contraction of gastric smooth muscle and ileum",
+    "eventId": "GO_0006939",
+    "id": "ENSG00000169836",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "preclinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Increased risk of thrombosis",
+    "eventId": "MONDO_0000831",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "irregular menstruation in females",
+    "eventId": "EFO_0010270",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "breast tissue growth in males",
+    "eventId": "HP_0000771",
+    "id": "ENSG00000091831",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Emergency contraceptives",
+    "eventId": "EFO_0009520",
+    "id": "ENSG00000082175",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000990",
+      "tissueLabel": "reproductive"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "induction of medical abortion",
+    "eventId": "EFO_1001491",
+    "id": "ENSG00000082175",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Hepatotoxicity",
+    "eventId": "EFO_0011052",
+    "id": "ENSG00000146648",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Hypoglycaemia",
+    "eventId": "HP_0001943",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "hypophosphataemia",
+    "eventId": "MONDO_0000313",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "decreased food intake",
+    "eventId": "MONDO_0005451",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "weight loss",
+    "eventId": "HP_0001824",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "reduced sweet taste",
+    "eventId": "HP_0000223",
+    "id": "ENSG00000077782",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Mitochondrial toxicity",
+    "eventId": "",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "myocardial fibrosis",
+    "eventId": "HP_0001685",
+    "id": "ENSG00000082701",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Carcinogenicity",
+    "eventId": "EFO_0011046",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "neoplasm/ malignancy",
+    "eventId": "MONDO_0005070",
+    "id": "ENSG00000171105",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Carcinogenicity",
+    "eventId": "EFO_0011046",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "mastocytosis",
+    "eventId": "MONDO_0007950",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "neovascularization",
+    "eventId": "",
+    "id": "ENSG00000157404",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002481",
+      "tissueLabel": "bone"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Melorheostosis",
+    "eventId": "MONDO_0007970",
+    "id": "ENSG00000076984",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "epilepsy",
+    "eventId": "HP_0001250",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "seizures",
+    "eventId": "MONDO_0005027",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "grey matter heterotopia",
+    "eventId": "HP_0002282",
+    "id": "ENSG00000198400",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Decreased appetite",
+    "eventId": "MONDO_0005451",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "nausea",
+    "eventId": "HP_0002018",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "fatigue",
+    "eventId": "HP_0012378",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "breast cancer",
+    "eventId": "MONDO_0007254",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "cardiac hypertrophy",
+    "eventId": "EFO_0002503",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "cytopenia",
+    "eventId": "HP_0001871",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": "metabolic"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "glycosylated haemoglobin increase",
+    "eventId": "EFO_0004541",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002405",
+      "tissueLabel": "immune"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "lymphopenia",
+    "eventId": "MONDO_0003783",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "pancreas"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "pancreatic steatosis",
+    "eventId": "EFO_0008527",
+    "id": "ENSG00000105851",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Tumour promotion: increased metabolism and increased cell migration/invasion",
+    "eventId": "EFO_0011046",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": null,
+      "tissueLabel": null
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "abnormal platelet production and function",
+    "eventId": "MONDO_0002245",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002107",
+      "tissueLabel": "liver"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "liver fibrosis",
+    "eventId": "EFO_0006890",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0002097",
+      "tissueLabel": "skin"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "skin fibrosis",
+    "eventId": "EFO_0006890",
+    "id": "ENSG00000169398",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Memory impairment",
+    "eventId": "EFO_0001072",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "nervous system disorder",
+    "eventId": "MONDO_0005071",
+    "id": "ENSG00000134318",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "Abnormal behaviour",
+    "eventId": "MONDO_0005084",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "anxiety",
+    "eventId": "HP_0000739",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001017",
+      "tissueLabel": "CNS"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "cognitive disorder",
+    "eventId": "MONDO_0002039",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0004535",
+      "tissueLabel": "CV"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "deep vein thrombosis",
+    "eventId": "EFO_0003907",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0000178",
+      "tissueLabel": "blood"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "thrombocytopenia",
+    "eventId": "HP_0001873",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  },
+  {
+    "Type": "Clinical",
+    "biosamples": {
+      "cellFormat": null,
+      "cellLabel": null,
+      "tissueId": "UBERON_0001004",
+      "tissueLabel": "respiratory"
+    },
+    "datasource": "Brennan et al. (2024)",
+    "effects": {
+      "direction": "Activation",
+      "dosing": null
+    },
+    "event": "pulmonary oedema",
+    "eventId": "MONDO_0006932",
+    "id": "ENSG00000197122",
+    "literature": "38773351",
+    "studies": {
+      "description": null,
+      "name": null,
+      "type": "clinical"
+    }
+  }
+]
