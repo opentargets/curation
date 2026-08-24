@@ -26980,7 +26980,7 @@ AstraZeneca PheWAS Portal		disease	132073#Source of report of N40 hyperplasia of
 AstraZeneca PheWAS Portal		disease	23456#NMR Linoleic Acid to Total Fatty Acids percentage	http://www.ebi.ac.uk/efo/EFO_0022303	Irene Lopez, Daniel Suveges	2024-05-15
 AstraZeneca PheWAS Portal		disease	21002#Weight	http://www.ebi.ac.uk/efo/EFO_0004338	Irene Lopez, Daniel Suveges	2024-05-15
 AstraZeneca PheWAS Portal		disease	30850#Testosterone	http://www.ebi.ac.uk/efo/EFO_0004908	Irene Lopez, Daniel Suveges	2024-05-15
-AstraZeneca PheWAS Portal		disease	30870#Triglycerides	http://www.ebi.ac.uk/efo/EFO_0020947	Irene Lopez, Daniel Suveges	2024-05-15
+AstraZeneca PheWAS Portal		disease	30870#Triglycerides	http://www.ebi.ac.uk/efo/EFO_0004530	Vivien Ho	2026-08-21
 AstraZeneca PheWAS Portal		disease	23316#Leg bone area (right)	http://www.ebi.ac.uk/efo/EFO_0004512	Irene Lopez, Daniel Suveges	2024-05-15
 AstraZeneca PheWAS Portal		disease	41202#D04#Carcinoma in situ of skin	http://purl.obolibrary.org/obo/MONDO_0002531	Irene Lopez, Daniel Suveges	2024-05-15
 AstraZeneca PheWAS Portal		disease	41202#C61#Malignant neoplasm of prostate	http://purl.obolibrary.org/obo/MONDO_0005159	Irene Lopez, Daniel Suveges	2024-05-15
@@ -29951,3 +29951,18 @@ FinnGen R12		disease	Problems related to medical facilities and other health car
 FinnGen R12		disease	Procreative management	http://purl.obolibrary.org/obo/NCIT_C15516		2025-01-30
 FinnGen R12		disease	Tobacco use	http://purl.obolibrary.org/obo/MONDO_0008575		2025-01-30
 FinnGen R12		disease	Tobacco use	http://www.ebi.ac.uk/efo/EFO_0005430		2025-01-30
+BRaVa Consortium		disease	Alanine transaminase	http://purl.obolibrary.org/obo/OBA_2050062	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	LDL cholesterol	http://www.ebi.ac.uk/efo/EFO_0004611	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Colon and rectum cancer	http://purl.obolibrary.org/obo/MONDO_0005575	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Height	http://purl.obolibrary.org/obo/OBA_VT0001253	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Alcohol consumption (drinks per week)	http://www.ebi.ac.uk/efo/EFO_0004329	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Non-rheumatic valvular heart disease	http://purl.obolibrary.org/obo/MONDO_0002869	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Interstitial lung disease and pulmonary sarcoidosis	http://purl.obolibrary.org/obo/MONDO_0015925	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Interstitial lung disease and pulmonary sarcoidosis	http://purl.obolibrary.org/obo/MONDO_0001708	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Inguinal, femoral, and abdominal hernia	http://purl.obolibrary.org/obo/HP_0000023	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Inguinal, femoral, and abdominal hernia	http://www.ebi.ac.uk/efo/EFO_1001791	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Inguinal, femoral, and abdominal hernia	http://purl.obolibrary.org/obo/HP_0004299	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Benign and in situ intestinal neoplasms	http://purl.obolibrary.org/obo/MONDO_0003062	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Benign and in situ intestinal neoplasms	http://purl.obolibrary.org/obo/MONDO_0004698	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Excess, frequent and irregular menstrual bleeding	http://purl.obolibrary.org/obo/HP_0000132	Vivien Ho	2026-08-21
+BRaVa Consortium		disease	Excess, frequent and irregular menstrual bleeding	http://purl.obolibrary.org/obo/HP_0000858	Vivien Ho	2026-08-21
