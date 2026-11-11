@@ -1,0 +1,61 @@
+cellTypeId,biosampleNameFromSource,biosampleId,biosampleName,confidence,cellPopulationLevel,tissueName,tissueId
+BMMC22_B1_B,BMMC B1 B cells,CL_0000819,B-1 B cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_CD14_pos_Mono,BMMC CD14+ monocytes,CL_0001054,CD14-positive monocyte,High,cellType,bone marrow,UBERON_0002371
+BMMC22_CD16_pos_Mono,BMMC CD16+ monocytes,CL_0002396,"CD14-low, CD16-positive monocyte",Good,cellType,bone marrow,UBERON_0002371
+BMMC22_CD4_pos_T_activated,BMMC CD4+ activated T cells,CL_0000896,"activated CD4-positive, alpha-beta T cell",High,cellType,bone marrow,UBERON_0002371
+BMMC22_CD4_pos_T_naive,BMMC CD4+ naive T cells,CL_0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",High,cellType,bone marrow,UBERON_0002371
+BMMC22_CD8_pos_T,BMMC CD8+ T cells,CL_0000625,"CD8-positive, alpha-beta T cell",High,cellType,bone marrow,UBERON_0002371
+BMMC22_CD8_pos_T_naive,BMMC CD8+ naive T cells,CL_0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",High,cellType,bone marrow,UBERON_0002371
+BMMC22_Erythroblast,BMMC erythroblasts,CL_0000765,erythroblast,High,cellType,bone marrow,UBERON_0002371
+BMMC22_G_M_prog,BMMC granulocyte-monocyte progenitors (GMPs),CL_0000557,granulocyte monocyte progenitor cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_HSC,BMMC hematopoietic stem cells (HSCs),CL_0000037,hematopoietic stem cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_ID2_hi_myeloid_prog,BMMC ID2-high myeloid progenitors,CL_0000839,myeloid lineage restricted progenitor cell,Medium,cellType,bone marrow,UBERON_0002371
+BMMC22_ILC,BMMC innate lymphoid cells (ILCs),CL_0001065,innate lymphoid cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Lymph_prog,BMMC lymphoid progenitors,CL_0000838,lymphoid lineage restricted progenitor cell,Good,cellType,bone marrow,UBERON_0002371
+BMMC22_MK_E_prog,BMMC megakaryocytic-erythroid progenitors (MEPs),CL_0000050,megakaryocyte-erythroid progenitor cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_NK,BMMC natural killer (NK) cells,CL_0000623,natural killer cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Naive_CD20_pos_B,BMMC CD20+ naive B cells,CL_0000788,naive B cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Normoblast,BMMC normoblasts,CL_0000765,erythroblast,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Plasma_cell,BMMC plasma cells,CL_0000786,plasma cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Proerythroblast,BMMC proerythroblasts,CL_0000547,proerythroblast,High,cellType,bone marrow,UBERON_0002371
+BMMC22_Transitional_B,BMMC transitional B cells,CL_0000818,transitional stage B cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22_cDC2,BMMC type-2 conventional dendritic cells (cDC2s),CL_0002399,CD1c-positive myeloid dendritic cell,Good,cellType,bone marrow,UBERON_0002371
+BMMC22_pDC,BMMC plasmacytoid dendritic cells (pDCs),CL_0000784,plasmacytoid dendritic cell,High,cellType,bone marrow,UBERON_0002371
+BMMC22,All BMMCs,CL_0010004,mononuclear cell of bone marrow,High,allCells,bone marrow,UBERON_0002371
+BMMC5_B,BMMC B supergroup,CL_0000236,B cell,Good,supergroup,bone marrow,UBERON_0002371
+BMMC5_Dendritic,BMMC dendritic supergroup,CL_0000451,dendritic cell,Good,supergroup,bone marrow,UBERON_0002371
+BMMC5_Erythroid,BMMC erythroid supergroup,CL_0000764,erythroid lineage cell,Good,supergroup,bone marrow,UBERON_0002371
+BMMC5_Myeloid,BMMC myeloid supergroup,CL_0000763,myeloid cell,Good,supergroup,bone marrow,UBERON_0002371
+BMMC5_T,BMMC T supergroup,CL_0000084,T cell,Good,supergroup,bone marrow,UBERON_0002371
+GM12878_10x,GM12878,EFO_0002784,GM12878,High,cellType,,
+HCT116,HCT116,EFO_0002824,HCT116,High,cellType,,
+Jurkat,Jurkat,EFO_0002796,Jurkat,High,cellType,,
+K562_IGVF,K562 (this study),EFO_0002067,K562,High,cellType,,
+PBMC5_B,PBMC B supergroup,CL_0000236,B cell,Good,supergroup,blood,UBERON_0000178
+PBMC5_DC,PBMC dendritic supergroup,CL_0000451,dendritic cell,Good,supergroup,blood,UBERON_0000178
+PBMC5_Mono,PBMC monocyte supergroup,CL_0000576,monocyte,Good,supergroup,blood,UBERON_0000178
+PBMC5_NK,PBMC NK supergroup,CL_0000623,natural killer cell,Good,supergroup,blood,UBERON_0000178
+PBMC5_T,PBMC T supergroup,CL_0000084,T cell,Good,supergroup,blood,UBERON_0000178
+PBMC5,All PBMC supergroups,CL_2000001,peripheral blood mononuclear cell,High,allCells,blood,UBERON_0000178
+PBMC_10_cDC,PBMC cDCs,CL_0000990,conventional dendritic cell,High,cellType,blood,UBERON_0000178
+PBMC_11_CD14.Mono.1,PBMC CD14+ monocytes (1),CL_0001054,CD14-positive monocyte,High,cellType,blood,UBERON_0000178
+PBMC_12_CD14.Mono.2,PBMC CD14+ monocytes (2),CL_0001054,CD14-positive monocyte,High,cellType,blood,UBERON_0000178
+PBMC_13_CD16.Mono,PBMC CD16+ monocytes,CL_0002396,"CD14-low, CD16-positive monocyte",Good,cellType,blood,UBERON_0000178
+PBMC_17_B,PBMC B cells,CL_0000236,B cell,High,cellType,blood,UBERON_0000178
+PBMC_20_CD4.N1,PBMC CD4+ naive T cells,CL_0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",High,cellType,blood,UBERON_0000178
+PBMC_22_CD4.M,PBMC CD4+ memory T cells,CL_0000897,"CD4-positive, alpha-beta memory T cell",High,cellType,blood,UBERON_0000178
+PBMC_24_CD8.CM,PBMC CD8+ central memory (CM) T cells,CL_0000907,"central memory CD8-positive, alpha-beta T cell",High,cellType,blood,UBERON_0000178
+PBMC_25_NK,PBMC natural killer (NK) cells,CL_0000623,natural killer cell,High,cellType,blood,UBERON_0000178
+WTC11,WTC11,EFO_0009747,GM25256,Good,cellType,,
+K562_Wang,K562 (Wang et al.),EFO_0002067,K562,High,cellType,,
+K562_Xu,K562 (Xu et al.),EFO_0002067,K562,High,cellType,,
+Islets_PP,Pancreatic polypeptide cell,CL_0002275,pancreatic PP cell,Good,cellType,pancreas,UBERON_0001264
+Islets_acinar,Pancreatic acinar cells,CL_0002064,pancreatic acinar cell,High,cellType,pancreas,UBERON_0001264
+Islets_alpha,Pancreatic alpha cells,CL_0000171,pancreatic A cell,Good,cellType,pancreas,UBERON_0001264
+Islets_beta,Pancreatic beta cells,CL_0000169,type B pancreatic cell,Good,cellType,pancreas,UBERON_0001264
+Islets_delta,Pancreatic delta cells,CL_0000173,pancreatic D cell,Good,cellType,pancreas,UBERON_0001264
+Islets_duct,Pancreatic duct cells,CL_0002079,pancreatic ductal cell,High,cellType,pancreas,UBERON_0001264
+Islets_endothelial,Pancreatic endothelial cells,CL_0000115,endothelial cell,Good,cellType,pancreas,UBERON_0001264
+Islets_immune,Pancreatic immune cells,CL_0000738,leukocyte,High,cellType,pancreas,UBERON_0001264
+Islets_mesenchymal,Mesenchymal cells (pancreatic),CL_0008019,mesenchymal cell,Good,cellType,pancreas,UBERON_0001264
+Pancreatic_islets,All pancreatic islets,UBERON_0000006,islet of Langerhans,High,allCells,pancreas,UBERON_0001264
