@@ -2,9 +2,6 @@
 
 Manual curation of burden tests from key publications and resources.
 
-### Schizophrenia Consortium
-Associations of 9 genes with schizophrenia. The data is pulled from their downloads page (https://schema.broadinstitute.org/downloads).
-
 ### Epi25 Consortium
 Associations of 2 genes with epilepsy. The data is pulled from their downloads page (https://epi25.broadinstitute.org/downloads).
 
