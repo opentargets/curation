@@ -95,12 +95,12 @@ The rows cover ChEMBL indications that cite a DailyMed label. They were judged a
    - `not_indicated`: absent, or only context, a cause, a side effect or the population;
    - `unsure`.
 2. **Second pass:** for each of the 512 pairs not judged `indicated`, every label that cites the pair was judged the same way (2,134 label–pair judgements).
-3. **A disease is removed from a report only when its own label was not judged `indicated`, whatever the confidence.** This follows the rule of preferring underreporting to false positives. A disease that another drug on the same report is indicated for is kept.
+3. **A disease is removed from a report only when its own label was judged `excluded` or `not_indicated` with confidence ≥ 0.8.** `unsure` verdicts and less confident ones leave the report as it is. A disease that another drug on the same report is indicated for is kept.
 
-Result: 1,391 rows. 159 are limitations of use, 1,228 are uses the label doesn't give, and 4 were unsure. Examples:
+Result: 862 rows. 149 are limitations of use and 713 are uses the label doesn't give. Examples:
 - Limitations of use: levoleucovorin → anemia, mecasermin → hypothyroidism, mesna → thrombocytopenia, icosapent ethyl → pancreatitis (opentargets/issues#4665).
 - Uses the label doesn't give: ipratropium → asthma, ondansetron → cancer.
 
-Eleven rows replace the disease instead of removing it. These are drugs that would otherwise have lost every approved indication, and whose label clearly indicates another disease: conivaptan → hyponatremia, deferoxamine → iron poisoning, buprenorphine and butorphanol → pain, isoproterenol → shock, and levocarnitine → systemic primary carnitine deficiency.
+Eight rows replace the disease instead of removing it. These are drugs that would otherwise have lost every approved indication, and whose label clearly indicates another disease: conivaptan → hyponatremia, deferoxamine → iron poisoning, and buprenorphine and butorphanol → pain.
 
 The judgements are not manually reviewed. Their `reason` gives the verdict, the confidence and the label words they rest on.
