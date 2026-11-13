@@ -104,3 +104,25 @@ Result: 862 rows. 149 are limitations of use and 713 are uses the label doesn't 
 Eight rows replace the disease instead of removing it. These are drugs that would otherwise have lost every approved indication, and whose label clearly indicates another disease: conivaptan → hyponatremia, deferoxamine → iron poisoning, and buprenorphine and butorphanol → pain.
 
 The judgements are not manually reviewed. Their `reason` gives the verdict, the confidence and the label words they rest on.
+
+### EMA indication curation
+
+[clinical/ema](../clinical/ema) corrects the diseases of the reports the Platform's `clinical_report` step builds from the EMA list of medicines (provider `EMA`). The step takes an EMA medicine's diseases from its "Therapeutic area (MeSH)" column, or from diseases extracted from the therapeutic indication text when that column is empty. MeSH areas are coarse and sometimes contradict the indication. For example, Rezdiffra and Kayshild are tagged "Liver Cirrhosis" although both are authorised for **non**-cirrhotic MASH.
+
+#### `indication_corrections.tsv`
+
+Same columns as the ChEMBL file. `reportId` is the EMA product number, e.g. `emea/h/c/006220`. There is one extra kind of row: an **empty `diseaseId`** with a disease id in `correctedDiseaseId` **adds** that disease to the report, labelled `diseaseFromSource`. Additions are keyed on `reportId` and `correctedDiseaseId`. The step applies the corrections after diseases are mapped.
+
+#### How the 2026-11 rows were made
+
+For each of the 2,244 EMA human medicines with a candidate disease, `claude-opus-5-5` read the therapeutic indication and judged every candidate: the mapped MeSH areas and the mapped diseases extracted from the text, 6,616 in all.
+- A disease the report has now is **removed** when it was judged not authorised with confidence ≥ 0.8: a population, an exclusion, a negation or a mismatch. Examples:
+  - cirrhosis of liver for Rezdiffra and Kayshild;
+  - myelodysplastic syndromes for filgrastim ("with the exception of …");
+  - cancer for antiemetics.
+- A disease the report doesn't have is **added** when it was judged authorised with confidence ≥ 0.8. Examples:
+  - MASH for Rezdiffra and Kayshild;
+  - lupus nephritis for belimumab;
+  - cutaneous T-cell lymphoma for brentuximab vedotin.
+
+Result: 145 removals (99 medicines) and 1,686 additions (991 medicines). The rows are not manually reviewed. Their `reason` gives the verdict, the confidence and the indication words they rest on.
