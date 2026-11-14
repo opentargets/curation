@@ -103,6 +103,8 @@ Result: 862 rows. 149 are limitations of use and 713 are uses the label doesn't 
 
 Eight rows replace the disease instead of removing it. These are drugs that would otherwise have lost every approved indication, and whose label clearly indicates another disease: conivaptan → hyponatremia, deferoxamine → iron poisoning, and buprenorphine and butorphanol → pain.
 
+**Full screen (127 rows, reason "judged the openFDA label").** Every other ChEMBL DailyMed label–disease link in the 2612-2 inputs (26,603 links on 13,924 labels) was judged against the label's "Indications and Usage" text from the openFDA drug label export of 2026-11-13, all the links of one label in one call, with the same verdicts and the same rule. On 227 links already judged in the passes above, the two agreed on 96%. 32 rows are limitations of use (indomethacin → acute gout, glycopyrronium → asthma, risperidone → autism on generic labels that carve it out) and 95 are uses the label doesn't give (generic labels without an indication the brand has, such as duloxetine → fibromyalgia). Only 3 drug–disease pairs lose every DailyMed label: codeine and butalbital → migraine, ondansetron → cancer.
+
 The judgements are not manually reviewed. Their `reason` gives the verdict, the confidence and the label words they rest on.
 
 ### EMA indication curation
