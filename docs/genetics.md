@@ -14,6 +14,18 @@ This `.tsv` file contains list of GWAS Catalog study identifiers that have harmo
 - **isCurated** - boolean flag indicating if the study went through curation.
 
 
+## Superseded studies
+
+`superseded_studies.tsv` lists studies that another study supersedes, with the study that supersedes each one. The Open Targets pipeline drops a listed study only when the study that supersedes it is in the same run and passes study validation; otherwise it keeps the listed study.
+
+It lists the GWAS Catalog studies that Psychiatric Genomics Consortium (PGC) fine-mapping supersedes ([opentargets/issues#4580](https://github.com/opentargets/issues/issues/4580)). PGC is a PPP source, so only the PPP run reads this file.
+
+### Schema
+
+- **studyId** - identifier of the superseded study (GCST accession).
+- **supersededBy** - identifier of the study that supersedes it.
+
+
 ## scE2G biosample curation
 
 `scE2G_biosample_mapping.csv` contains mappings of 60 scE2G Multiome prediction files listed in Supplementary Table S6 of Sheth et al. (2026).
